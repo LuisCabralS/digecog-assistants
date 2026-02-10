@@ -8,33 +8,35 @@
       "type": "@n8n/n8n-nodes-langchain.chatTrigger",
       "typeVersion": 1.4,
       "position": [
-        -288,
-        -48
+        -112,
+        -80
       ],
-      "id": "3e48a074-1b8d-446c-8530-89033994d653",
+      "id": "ab2665e3-522d-4b54-9a27-f1ea50839ba8",
       "name": "When chat message received",
       "webhookId": "d5945494-3889-4501-925c-de14a89e5762"
     },
     {
       "parameters": {
+        "promptType": "define",
+        "text": "=Eres Un experto en contabilidad, especificamente en republcia dominicana, tienes como fuentes una base de datos en supabase donde consultaras la pregutna que te haga el usuario  {{ $json.chatInput }}",
         "options": {}
       },
       "type": "@n8n/n8n-nodes-langchain.agent",
       "typeVersion": 3.1,
       "position": [
-        -96,
-        -48
+        224,
+        -80
       ],
-      "id": "fa203a11-8434-404a-8b90-a8f7f8e86524",
+      "id": "3609c212-f1d2-494f-8fb2-98bc71d9971e",
       "name": "AI Agent"
     },
     {
       "parameters": {
         "model": {
           "__rl": true,
-          "value": "gpt-3.5-turbo",
+          "value": "gpt-4o-mini",
           "mode": "list",
-          "cachedResultName": "gpt-3.5-turbo"
+          "cachedResultName": "gpt-4o-mini"
         },
         "builtInTools": {},
         "options": {}
@@ -42,14 +44,14 @@
       "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
       "typeVersion": 1.3,
       "position": [
-        -336,
-        192
+        64,
+        144
       ],
-      "id": "d482efa8-7b68-4610-b0ea-bdf31fdd2a7f",
+      "id": "bef06971-a9b1-4532-9e9c-7baa96f8c514",
       "name": "OpenAI Chat Model",
       "credentials": {
         "openAiApi": {
-          "id": "JYLFBVDbVT7pxmuq",
+          "id": "IHL6fpzFhH2FnVkh",
           "name": "OpenAi account"
         }
       }
@@ -59,11 +61,57 @@
       "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
       "typeVersion": 1.3,
       "position": [
-        -192,
-        192
+        208,
+        160
       ],
-      "id": "ade418a0-8231-406a-8eed-7307dbfd59f7",
+      "id": "1afa572f-6505-4155-9f7c-48a72e06f154",
       "name": "Simple Memory"
+    },
+    {
+      "parameters": {
+        "mode": "retrieve-as-tool",
+        "toolDescription": "Eres un experto en contabilidad gubernamental ",
+        "tableName": {
+          "__rl": true,
+          "value": "documents",
+          "mode": "list",
+          "cachedResultName": "documents"
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.vectorStoreSupabase",
+      "typeVersion": 1.3,
+      "position": [
+        384,
+        112
+      ],
+      "id": "8eb48a00-e9f8-4371-b3a9-e46366a05d86",
+      "name": "Supabase Vector Store",
+      "credentials": {
+        "supabaseApi": {
+          "id": "X5gf9DsYWgGUAhO9",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        448,
+        240
+      ],
+      "id": "5ab09af7-1124-4e36-8db0-956b5b2b43ac",
+      "name": "Embeddings OpenAI",
+      "credentials": {
+        "openAiApi": {
+          "id": "IHL6fpzFhH2FnVkh",
+          "name": "OpenAi account"
+        }
+      }
     }
   ],
   "pinData": {},
@@ -100,18 +148,46 @@
           }
         ]
       ]
+    },
+    "AI Agent": {
+      "main": [
+        []
+      ]
+    },
+    "Supabase Vector Store": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Embeddings OpenAI": {
+      "ai_embedding": [
+        [
+          {
+            "node": "Supabase Vector Store",
+            "type": "ai_embedding",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "active": false,
   "settings": {
     "executionOrder": "v1",
+    "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "9dfd5531-5e78-4339-b216-b0a170c6bed6",
+  "versionId": "08777e9c-e31b-403a-920a-5efde18b5b1d",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "043bc5cdf4c7b2d88c640e36e3e01108815783d8edc53feceb964b11f1713df2"
+    "instanceId": "70f3e655bf9d334c98574f82f0e4ab608b13f50bee4675cf0b82b3da3e6161cb"
   },
-  "id": "iGp-PLF_AjRJZ-lKNnA9H",
+  "id": "sYcexgDD6Oeic-A7aUFf4",
   "tags": []
 }
