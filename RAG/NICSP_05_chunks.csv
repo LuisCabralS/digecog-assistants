@@ -1,0 +1,648 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP 05-P9001,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Reconocimiento,,9001,9001,1,1,paragraph,"Esta Norma Internacional de Contabilidad del Sector Público (NICSP) se ha desarrollado fundamentalmente a partir
+de la Norma Internacional de Contabilidad (NIC®) 23, Costos por Préstamos , (revisada en 1993), publicada por el
+Consejo de Normas Internacionales de Contabilidad (IASB®). En la presente publicación del Consejo de Normas
+Internacionales de Contabilidad del Sector Público (IPSASB) de la Federación Internacional de Contadores (IFAC)
+se reproducen extractos de la NIC 23, con autorización de la Fundac ión de Normas Internacionales de Información
+Financiera (IFRS®).
+El texto aprobado de las Normas NIIF de contabilidad es el publicado por el IASB en idioma inglés, pudiéndose
+obtener ejemplares del mismo directamente en la IFRS Foundation, Customer Service, Columbus Building, 7
+Westferry Circus, Canary Wharf, London E14 4HD, United Kingdom.
+Correo electrónico: customerservices@ifrs.org
+Internet: www.ifrs.org
+Las Normas NIIF de contabilidad, las Normas NIC y las demás publicaciones del IASB son propiedad de la Fundación
+IFRS.
+“IFRS Accounting Standards” , “IAS Standards” , “IASB” y “IFRS Foundation” son marcas registradas de la Fundación
+IFRS y no deben utilizarse sin el consentimiento de la Fundación IFRS.",NICSP 05 — COSTOS POR PRÉSTAMOS — Reconocimiento — párr. Reconocimiento — p. 1,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P9001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento"", ""subseccion"": null, ""parrafo_ini"": 9001, ""parrafo_fin"": 9001, ""page_ini_pdf"": 1, ""page_fin_pdf"": 1, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P9002,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Historia de la NICSP,,9002,9002,2,2,paragraph,"NICSP 5, COSTOS POR PRÉSTAMOS
+Historia de la NICSP
+Esta versión incluye las modificaciones introducidas en las Normas NICSP emitidas hasta el 31 de enero de 2025.
+La , Costos por Préstamos , fue emitida en mayo de 2000.
+Desde entonces, la  ha sido modificada por las siguientes Normas NICSP:
+• NICSP 47, Ingresos (emitida en mayo de 2023)
+• NICSP 43, Arrendamientos (emitida en enero de 2022)
+• Modificaciones a la ,  Costos por Préstamos – Guía No Normativa (emitida en noviembre de 2021)
+• COVID -19: Diferimiento de las Fechas de Vigencia (emitida en noviembre de 2020)
+• Mejoras a las NICSP 2019 (emitida en enero de 2020)
+• Mejoras a las NICSP 2018 (emitida en octubre de 2018)
+• La Aplicabilidad de las NICSP  (emitido en abril de 2016)
+• Mejoras a las NICSP 2015 (emitida en abril de 2016)
+• NICSP 33, Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector Público de
+Base de Acumulación (o devengo) (NICSP)  (emitida en enero de 2015)
+• NICSP 32, Acuerdos de Concesión de Servicios: La Concedente (emitida en octubre de 2011)",NICSP 05 — COSTOS POR PRÉSTAMOS — Historia de la NICSP — párr. Historia de la NICSP — p. 2,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P9002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Historia de la NICSP"", ""subseccion"": null, ""parrafo_ini"": 9002, ""parrafo_fin"": 9002, ""page_ini_pdf"": 2, ""page_fin_pdf"": 2, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-T002,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Historia de la NICSP,Tabla de párrafos modificados en la NICSP 5,,,2,4,table,"Tabla de párrafos modificados en la
+Párrafo afectado  Cómo está
+afectado  Afectado por
+Eliminado  La Aplicabilidad de las NICSP  abril de 2016
+Eliminado  La Aplicabilidad de las NICSP  abril de 2016
+Modificado  Mejoras a las NICSP  enero de 2020
+NICSP 32 octubre de 2011
+NICSP 43 enero de 2022
+Eliminado  La Aplicabilidad de las NICSP  abril de 2016
+Modificado  Mejoras a las NICSP  abril de 2016
+Modificado  Mejoras a las NICSP  octubre de 2018
+Modificado  NICSP 47 mayo de 2023
+Eliminado  NICSP 33 enero de 2015
+41A Nuevo Mejoras a las NICSP octubre de 2018
+42A Nuevo NICSP 32 octubre 2011
+42B Nuevo NICSP 33 enero de 2015
+42C Nuevo La Aplicabilidad de las NICSP  abril de 2016
+Párrafo afectado  Cómo está
+afectado  Afectado por
+42D Nuevo Mejoras a las NICSP octubre de 2018
+42E Modificado  COVID -19: Diferimiento de las Fechas de Vigencia
+noviembre de 2020
+42F Nuevo NICSP 43 enero de 2022
+42G Nuevo NICSP 47 mayo de 2023
+Modificado  NICSP 33 enero de 2015
+A. Nuevo Modificaciones a la  noviembre de 2021
+A. Nuevo Modificaciones a la  noviembre de 2021
+A. Nuevo Modificaciones a la  noviembre de 2021
+A. Nuevo Modificaciones a la  noviembre de 2021
+A. Nuevo Modificaciones a la  noviembre de 2021
+A. Nuevo Modificaciones a la  noviembre de 2021
+Encabezamiento encima del párrafo
+EI1 Nuevo Modificaciones a la  noviembre de 2021
+EI1 Nuevo Modificaciones a la  noviembre de 2021
+EI2 Nuevo Modificaciones a la  noviembre de 2021
+EI3 Nuevo Modificaciones a la  noviembre de 2021
+EI4 Nuevo Modificaciones a la  noviembre de 2021
+Encabezamiento encima del párrafo
+EI5 Nuevo Modificaciones a la  noviembre de 2021
+EI5 Nuevo Modificaciones a la  noviembre de 2021
+EI6 Nuevo Modificaciones a la  noviembre de 2021
+EI7 Nuevo Modificaciones a la  noviembre de 2021
+EI8 Nuevo Modificaciones a la  noviembre de 2021
+EI9 Nuevo Modificaciones a la  noviembre de 2021
+Encabezamiento encima del párrafo
+EI10 Nuevo Modificaciones a la  noviembre de 2021
+EI10 Nuevo Modificaciones a la  noviembre de 2021
+EI11 Nuevo Modificaciones a la  noviembre de 2021
+EI12 Nuevo Modificaciones a la  noviembre de 2021
+EI13 Nuevo Modificaciones a la  noviembre de 2021
+Párrafo afectado  Cómo está
+afectado  Afectado por
+Encabezamiento encima del párrafo
+EI14 Nuevo Modificaciones a la  noviembre de 2021
+EI14 Nuevo Modificaciones a la  noviembre de 2021
+EI15 Nuevo Modificaciones a la  noviembre de 2021
+EI16 Nuevo Modificaciones a la  noviembre de 2021",NICSP 05 — COSTOS POR PRÉSTAMOS — Historia de la NICSP / Tabla de párrafos modificados en la NICSP 5 — párr. s/n — p. 2-4,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-T002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Historia de la NICSP"", ""subseccion"": ""Tabla de párrafos modificados en la NICSP 5"", ""parrafo_ini"": null, ""parrafo_fin"": null, ""page_ini_pdf"": 2, ""page_fin_pdf"": 4, ""content_type"": ""table"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P9003,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Objetivo,,9003,9003,7,7,paragraph,"Esta Norma establece el tratamiento contable de los costos por préstamos. La Norma requiere, como regla general, el
+reconocimiento inmediato como gasto de los costos por préstamos. No obstante, la Norma permite, como tratamiento
+alternativo permitido, la c apitalización de los costos por préstamos que sean directamente atribuibles a la adquisición,
+construcción, o producción de un activo apto.",NICSP 05 — COSTOS POR PRÉSTAMOS — Objetivo — párr. Objetivo — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P9003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Objetivo"", ""subseccion"": null, ""parrafo_ini"": 9003, ""parrafo_fin"": 9003, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0001,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Alcance,,1,1,7,7,paragraph,Esta Norma debe ser aplicada en la contabilización de los costos por préstamos.,NICSP 05 — COSTOS POR PRÉSTAMOS — Alcance — párr. 1 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0002,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Alcance,,2,2,7,7,deleted,[Eliminado],NICSP 05 — COSTOS POR PRÉSTAMOS — Alcance — párr. 2 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0003,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Alcance,,3,3,7,7,deleted,[Eliminado],NICSP 05 — COSTOS POR PRÉSTAMOS — Alcance — párr. 3 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0004,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Alcance,,4,4,7,7,paragraph,"Esta Norma no trata el costo real o imputado de los activos netos/patrimonio. Cuando las jurisdicciones
+apliquen un cargo de capital a entidades individuales, se requerirán juicios para determinar si tal cargo cumple la definición de costos por préstamos o  si debe ser tratado como un costo real o imputado de los
+activos netos/patrimonio.
+Definiciones",NICSP 05 — COSTOS POR PRÉSTAMOS — Alcance — párr. 4 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0005,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,,5,5,7,7,definition,"Los términos siguientes se usan en esta Norma, con los significados que a continuación se especifican:
+Costos por préstamos  son los intereses y otros gastos incurridos por una entidad en relación con
+las operaciones de endeudamiento.
+Activo apto es un activo que necesariamente requiere un periodo de tiempo sustancial antes de estar
+listo para su uso previsto o venta.
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en dichas Normas, y se reproducen en el Glosario de Términos Definidos  publicado por separado.
+Costos por préstamos",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones — párr. 5 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0006,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Costos por préstamos,6,6,7,7,paragraph,"Los costos por préstamos pueden incluir:
+(a) gastos por intereses calculados utilizando el método del interés efectivo, tal como se describe la NICSP 41, Instrumentos Financieros;
+(b) [Eliminado]
+(c) [Eliminado]
+(d) intereses por arrendamientos financieros y acuerdos de concesión de servicios; y
+(e) diferencias de cambio procedentes de préstamos en moneda extranjera, en la medida en que sean consideradas como un ajuste a los costos por intereses.",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Costos por préstamos — párr. 6 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Costos por préstamos"", ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0007,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Entidad económica,7,7,7,7,paragraph,"El término entidad económica se usa en esta Norma para definir, a efectos de presentación de información financiera, un grupo de entidades que comprende a la entidad controladora y a las entidades controladas.",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Entidad económica — párr. 7 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Entidad económica"", ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0008,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Entidad económica,8,8,7,7,paragraph,"Otros términos usados a veces para referirse a una entidad económica incluyen entidad administrativa,
+entidad financiera, entidad consolidada y grupo.",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Entidad económica — párr. 8 — p. 7,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Entidad económica"", ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0009,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Entidad económica,9,9,8,8,paragraph,"Una entidad económica puede incluir entidades con objetivos de carácter social y comercial. Por ejemplo,
+un organismo gubernamental de vivienda puede ser una entidad económica que incluya entidades que proporcionan vivienda a precio simbólico, así como tam bién entidades que proporcionan alojamiento en
+régimen comercial.
+Beneficios económicos o potencial de servicio futuros",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Entidad económica — párr. 9 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Entidad económica"", ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0010,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Beneficios económicos o potencial de servicio futuros,10,10,8,8,paragraph,"Los activos proporcionan un medio a las entidades para alcanzar sus objetivos. Los activos empleados para suministrar bienes y servicios de acuerdo con los objetivos de la entidad, pero que no generan directamente
+flujos de entrada de efectivo, se suelen definir como portadores de un potencial de servicio. A los activos
+empleados para generar flujos de entrada de efectivo netos se les suele definir como portadores de
+""beneficios económicos futuros"". Para abarcar todos los objetivos a los que puede destinars e un activo, la
+presente Norma emplea el término “beneficios económicos o potencial de servicio futuros” para describir la
+característica esencial de los activos.
+Empresas públicas",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Beneficios económicos o potencial de servicio futuros — párr. 10 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Beneficios económicos o potencial de servicio futuros"", ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0011,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Empresas públicas,11,11,8,8,deleted,[Eliminado],NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Empresas públicas — párr. 11 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Empresas públicas"", ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0012,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Activos netos/patrimonio,12,12,8,8,paragraph,"El término activos netos/patrimonio se usa en esta Norma para referirse a la medida residual resultante en
+el estado de situación financiera (activos menos pasivos). Los activos netos/patrimonio pueden ser positivos o negativos. Se pueden utilizar otros té rminos en lugar de activos netos/patrimonio, siempre y cuando su
+significado quede claro.
+Activos aptos",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Activos netos/patrimonio — párr. 12 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos netos/patrimonio"", ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0013,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Definiciones,Activos aptos,13,13,8,8,paragraph,"Ejemplos de activos aptos son los edificios para oficinas, hospitales, activos de infraestructura tales como
+las carreteras, puentes e instalaciones para la generación de energía, y los inventarios que necesitan un
+periodo de tiempo sustancial para ser puestos en condiciones de ser usados o vendidos. Otras inversiones,
+y aquéllos activos que se producen de forma rutinaria durante un corto periodo de tiempo, no son activos
+aptos. Los activos que al adquirirlos ya están listos para su uso previsto o venta tam poco son activos aptos.
+Costos por préstamos –  Tratamiento de referencia
+Reconocimiento",NICSP 05 — COSTOS POR PRÉSTAMOS — Definiciones / Activos aptos — párr. 13 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos aptos"", ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0014,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento de referencia,Reconocimiento,14,14,8,8,paragraph,Los costos por préstamos deben ser reconocidos como un gasto del periodo en que se incurre en ellos.,NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento de referencia / Reconocimiento — párr. 14 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento de referencia"", ""subseccion"": ""Reconocimiento"", ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0015,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento de referencia,Reconocimiento,15,15,8,8,paragraph,"Bajo el tratamiento de referencia, los costos por préstamos se reconocen como gastos del periodo en que
+se incurre en ellos, con independencia de cómo se apliquen los préstamos.
+Información a revelar",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento de referencia / Reconocimiento — párr. 15 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento de referencia"", ""subseccion"": ""Reconocimiento"", ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0016,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento de referencia,Información a revelar,16,16,8,8,paragraph,"Los estados financieros revelarán la política contable adoptada para los costos por préstamos.
+Costos por préstamos –  Tratamiento alternativo permitido
+Reconocimiento",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento de referencia / Información a revelar — párr. 16 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento de referencia"", ""subseccion"": ""Información a revelar"", ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0017,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Reconocimiento,17,17,8,8,paragraph,"Los costos por préstamos deben ser reconocidos como un gasto del periodo en que se incurre en ellos, salvo si fueran capitalizados de acuerdo con el párrafo 18.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Reconocimiento — párr. 17 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Reconocimiento"", ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0018,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Reconocimiento,18,18,8,8,paragraph,"Los costos por préstamos que sean directamente atribuibles a la adquisición, construcción o
+producción de un activo apto deben ser capitalizados como parte del costo de dicho activo. El
+importe de los costos por préstamos susceptible de capitalización se determinará de acuerdo con
+esta Norma.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Reconocimiento — párr. 18 — p. 8,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Reconocimiento"", ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0019,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Reconocimiento,19,19,9,9,paragraph,"Según el tratamiento alternativo permitido, los costos por préstamos que sean directamente atribuibles a la
+adquisición, construcción o producción de un activo se incluyen como costos del mismo. Tales costos por
+préstamos se capitalizarán, formando parte d el costo del activo cuando (a) sea probable que generen
+beneficios económicos o potencial de servicio futuros para la entidad, y (b) los costos puedan ser medidos con fiabilidad Los demás costos por préstamos se reconocen como un gasto del periodo en que se incurra
+en ellos.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Reconocimiento — párr. 19 — p. 9,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Reconocimiento"", ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0020,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Reconocimiento,20,20,9,9,paragraph,"Si una entidad adopta el tratamiento alternativo permitido, dicho tratamiento debe aplicarse de
+manera congruente a todos los costos por préstamos que sean directamente atribuibles a la
+adquisición, construcción, o producción de todos los activos aptos de la entidad.
+Costos por préstamos susceptibles de capitalización",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Reconocimiento — párr. 20 — p. 9,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Reconocimiento"", ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0021,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,21,21,9,9,paragraph,"Son costos por préstamos directamente atribuibles a la adquisición, construcción o producción de un activo
+apto, los costos por préstamos que podrían haberse evitado si no se hubiera efectuado ningún desembolso
+en el activo apto. Cuando una entidad toma fondos prestados que destina específicamente a la obtención
+de un activo apto, los costos por préstamos relacionados con éste pueden ser fácilmente identificados.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 21 — p. 9,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0022,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,22,22,9,9,paragraph,"Puede resultar difícil identificar una relación directa entre préstamos recibidos concretos y un activo apto, y
+determinar qué préstamos podrían haberse evitado. Esa dificultad ocurre, por ejemplo, cuando la actividad
+financiera de la entidad está centrali zada. También aparecen dificultades cuando una entidad económica
+utiliza una variedad de instrumentos de duda para tomar fondos prestados a diferentes tasas de interés, y
+transfiere luego esos fondos, con diferentes criterios, a otras entidades de la entidad económica. Los fondos
+obtenidos centralizadamente pueden transferirse a otras entidades dentro de la entidad económica como un préstamo, una subvención, o una inyección de capital. Estas transferencias pueden hacerse libres de
+intereses o se puede exigi r que se recupere sólo una parte del costo real de los intereses. Otras dificultades
+surgen (a) a través del uso de préstamos expresados o referenciados a monedas extranjeras, (b) cuando la
+entidad opera en economías altamente inflacionarias, y (c) de fluc tuaciones en las tasas de cambio. Como
+resultado, la determinación del importe de los costos por préstamos que son directamente atribuibles a la
+adquisición de un activo apto es difícil, y se requiere la utilización de juicios para realizarla.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 22 — p. 9,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0023,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,23,23,9,9,paragraph,"En la medida que los fondos se hayan tomado prestados específicamente con el propósito de
+obtener un activo apto, el importe de los costos por préstamos susceptibles de capitalización en ese
+activo se determinará según los costos reales incurridos por tales préstamos durante el periodo, menos los rendimientos conseguidos por la colocación de tales fondos en inversiones temporales.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 23 — p. 9,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0024,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,24,24,9,9,paragraph,"Según los acuerdos financieros relativos a un activo apto, puede suceder que la entidad obtenga los fondos,
+e incurra en costos por préstamos, antes de que los mismos sean usados para hacer desembolsos que
+correspondan al activo en cuestión. En tales circunstancias, los fondos se suelen invertir temporalmente a
+la espera de su desembolso en el activo apto. Para determinar la cuantía de los costos por préstamos
+susceptibles de ser capitalizados durante un periodo, cualquier rendimiento obtenido de tales fond os se
+deduce de los costos por préstamos incurridos.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 24 — p. 9,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0025,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,25,25,9,9,paragraph,"En la medida en que los fondos procedan de préstamos genéricos y sean utilizados para el propósito
+de obtener un activo apto, el importe de los costos por préstamos susceptibles de capitalización
+debe ser determinado mediante aplicación de una tasa de capi talización a los desembolsos
+efectuados en dicho activo. La tasa de capitalización será la media ponderada de los costos por
+La información será fiable si está libre de error material o parcialidad, y los usuarios pueden confiar en que representa la imagen fiel de lo que
+pretende representar o puede razonablemente esperarse que represente. El párrafo FC16 de la NICSP 1 discute el enfoque transitorio para la
+explicación de la fiabilidad.
+préstamos aplicables a todos los préstamos de la entidad que han estado vigentes en el periodo. Sin
+embargo, una entidad excluirá de este cálculo los costos por préstamos aplicables a los préstamos
+efectuados específicamente con el propósito de obtener un activo apto hasta que se hayan
+completado sustancialmente todas las actividades necesarias para preparar ese activo para su uso
+previsto o venta. El importe de los costos por préstamos capitalizados durante un periodo no debe
+exceder del importe de los costos por préstamos incurridos durante ese periodo.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 25 — p. 9,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0026,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,26,26,10,10,paragraph,"Sólo se pueden capitalizar aquellos costos por préstamos que son aplicables a los préstamos de la entidad. Cuando una entidad controladora toma fondos prestados que se trasladan a una entidad controlada, sin asignarle costos por préstamos, o asignándole solo parte de éstos, la entidad controlada puede capitalizar
+únicamente aquellos costos por préstamos en que ella misma haya incurrido. Cuando una entidad controlada
+recibe una aportación de capital libre de intereses o una transferencia de capital, no incur re en costos por
+préstamos y, por consiguiente, no capitalizará costos de este tipo.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 26 — p. 10,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0027,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,27,27,10,10,paragraph,"Cuando una entidad controladora transfiere fondos con un costo parcial a una entidad controlada, la entidad
+controlada puede capitalizar la porción de costos por préstamos en que ella misma haya incurrido. En los estados financieros de la entidad económica se puede capitalizar el importe total de los costos por préstamos
+como parte del activo apto, siempre que se hayan hecho los ajustes de consolidación necesarios para
+eliminar los costos capitalizados por la entidad controlada.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 27 — p. 10,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0028,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,28,28,10,10,paragraph,"Cuando la entidad controladora haya transferido fondos sin ningún costo a una entidad controlada, ni la
+entidad controladora ni la entidad controlada cumplen los criterios para la capitalización de los costos por
+préstamos. Sin embargo, si la entidad económica ha satisfecho tales criterios, en sus estados financieros
+puede capitalizar los costos por préstamos como parte del activo apto.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 28 — p. 10,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0029,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Costos por préstamos susceptibles de capitalización,29,29,10,10,paragraph,"En algunas circunstancias, resulta adecuado incluir todos los préstamos de la entidad controladora y sus
+entidades controladas al calcular la media ponderada de los costos por préstamos; en otros casos, sin embargo, resulta adecuado utilizar, para cada ent idad controlada, una media ponderada de los costos por
+préstamos aplicables a sus propios préstamos.
+Exceso del importe en libros del activo apto sobre el importe recuperable",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Costos por préstamos susceptibles de capitalización — párr. 29 — p. 10,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Costos por préstamos susceptibles de capitalización"", ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0030,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Exceso del importe en libros del activo apto sobre el importe recuperable,30,30,10,10,paragraph,"Cuando el importe en libros o el costo final esperado del activo apto sea mayor que su importe recuperable o valor realizable neto, el importe en libros se reducirá o se dará de baja de acuerdo con los requerimientos
+de la NICSP 21, Deterioro del Valor de Activos No Generadores de Efectivo, o de la NICSP 26, Deterioro
+del Valor de Activos Generadores de Efectivo, según proceda. En ciertas circunstancias, el importe reducido
+o dado de baja se recupera y se repone de acuerdo con las citadas normas.
+Inicio de la capitalización",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Exceso del importe en libros del activo apto sobre el importe recuperable — párr. 30 — p. 10,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Exceso del importe en libros del activo apto sobre el importe recuperable"", ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0031,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Inicio de la capitalización,31,31,10,10,paragraph,"La capitalización de los costos por intereses como parte del costo de un activo apto debe comenzar
+cuando:
+(a) se haya incurrido en desembolsos con relación al activo;
+(b) se haya incurrido en costos por préstamos; y
+(c) se estén llevando a cabo las actividades necesarias para preparar el activo para su uso previsto o venta.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Inicio de la capitalización — párr. 31 — p. 10,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Inicio de la capitalización"", ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0032,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Inicio de la capitalización,32,32,10,10,paragraph,"Los desembolsos relativos a un activo apto incluyen únicamente aquellos desembolsos que hayan dado
+lugar a salidas de efectivo, transferencias de otros activos o cuando se asuman pasivos que acumulen (o
+devenguen) intereses. El importe promedio del activo en libros durante un periodo, incluyendo los costos
+por préstamos capitalizados anteriormente constituye, por lo general, una aproximación razonable de los desembolsos a los que se debe aplicar la tasa de capitalización en ese periodo.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Inicio de la capitalización — párr. 32 — p. 10,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Inicio de la capitalización"", ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0033,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Inicio de la capitalización,33,33,11,11,paragraph,"Las actividades necesarias para preparar el activo para su uso previsto o venta implican algo más que su
+construcción física. Incluyen también los trabajos técnicos y administrativos previos al comienzo de la construcción física, tales como las actividades  asociadas a la obtención de permisos. No obstante, estas
+actividades excluyen la mera tenencia del activo, cuando éste no es objeto de producción o desarrollo alguno
+que implique el estado del activo. Por ejemplo, los costos por préstamos incurridos mient ras los terrenos se
+están preparando se capitalizan en los periodos en que tal preparación tiene lugar. Sin embargo, los costos
+por préstamos incurridos mientras los terrenos adquiridos para construir sobre ellos se mantienen inactivos, sin realizar en ell os ninguna labor de preparación, no cumplen las condiciones para ser capitalizados.
+Suspensión de la capitalización",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Inicio de la capitalización — párr. 33 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Inicio de la capitalización"", ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0034,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Suspensión de la capitalización,34,34,11,11,paragraph,"La capitalización de los costos por préstamos debe ser suspendida, y estos reconocidos como
+gastos, durante periodos prolongados en los que se interrumpa el desarrollo de actividades.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Suspensión de la capitalización — párr. 34 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Suspensión de la capitalización"", ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0035,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Suspensión de la capitalización,35,35,11,11,paragraph,"Los costos por préstamos pueden incurrirse durante un periodo prolongado en el que se interrumpan las
+actividades necesarias para preparar el activo para su uso previsto o venta. Tales costos son costos de
+mantenimiento de activos parcialmente terminados, y no cumplen las condiciones para su capitalización. Sin
+embargo, la capitalización de los costos por préstamos normalmente no se suspende durante un periodo en el que se están llevando a cabo actuaciones técnicas y administrativas importantes. La capitali zación de
+costos por préstamos tampoco se suspende si el retraso temporal es una parte necesaria del proceso para
+que el activo esté listo para su uso previsto o para venta. Por ejemplo, la capitalización continúa durante un
+periodo prolongado necesario para la maduración de los inventarios, o durante un periodo prolongado en el que el elevado nivel de las aguas retrasa la construcción de un puente, siempre que tal nivel elevado sea
+normal durante el periodo de construcción en esa región geográfica.
+Cese de la capitalización",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Suspensión de la capitalización — párr. 35 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Suspensión de la capitalización"", ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0036,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Cese de la capitalización,36,36,11,11,paragraph,"La capitalización de los costos por préstamos debe finalizar cuando se han completado
+sustancialmente todas las actividades necesarias para preparar el activo apto para su uso previsto
+o venta.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Cese de la capitalización — párr. 36 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Cese de la capitalización"", ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0037,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Cese de la capitalización,37,37,11,11,paragraph,"Normalmente, un activo está listo para su uso previsto o venta cuando se haya completado la construcción
+física del mismo, incluso aunque todavía deban llevarse a cabo trabajos administrativos rutinarios. Si lo único
+que falta es llevar a cabo modificacion es menores, tales como la decoración del edificio siguiendo las
+especificaciones del comprador o usuario, esto es indicativo de que todas las actividades de construcción
+están sustancialmente acabadas.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Cese de la capitalización — párr. 37 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Cese de la capitalización"", ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0038,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Cese de la capitalización,38,38,11,11,paragraph,"Cuando la construcción de un activo apto se completa por partes, y cada parte es susceptible de ser
+utilizada mientras continúa la construcción de las restantes, la capitalización de los costos por
+préstamos debe finalizar cuando estén sustancialmente comp letas todas las actividades necesarias
+para preparar esa parte para su uso previsto o venta.",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Cese de la capitalización — párr. 38 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Cese de la capitalización"", ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0039,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Costos por préstamos – Tratamiento alternativo permitido,Cese de la capitalización,39,39,11,11,paragraph,"Una construcción de oficinas que abarque varios edificios, cada uno de los cuales puede ser utilizado por
+separado, es un ejemplo de activo apto en el que cada parte es susceptible de ser utilizada mientras continúa
+la construcción de las demás. Ejemplos de activos aptos que necesitan terminarse por completo antes de que cada una de las partes pueda utilizarse son (a) un quirófano de un hospital, en que debe culminarse
+toda la construcción antes de poderse utilizar; (b) una planta de tratamiento de aguas residuales, en la que
+se llevan a cabo varios procesos secuenciales en diferentes partes de la planta; y (c) un puente que forma parte de una carretera.
+Información a revelar",NICSP 05 — COSTOS POR PRÉSTAMOS — Costos por préstamos – Tratamiento alternativo permitido / Cese de la capitalización — párr. 39 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Costos por préstamos – Tratamiento alternativo permitido"", ""subseccion"": ""Cese de la capitalización"", ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0040,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Información a revelar,,40,40,11,11,paragraph,"En los estados financieros se revelará:
+282 (a) la política contable adoptada para los costos por préstamos;
+(b) el importe de los costos por préstamos capitalizados durante el periodo; y
+(c) la tasa de capitalización utilizada para determinar el importe de los costos por préstamos
+susceptibles de capitalización (si ha sido necesario aplicar una tasa de capitalización a los
+fondos procedan de préstamos genéricos).
+Disposiciones transitorias",NICSP 05 — COSTOS POR PRÉSTAMOS — Información a revelar — párr. 40 — p. 11,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0041,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Disposiciones transitorias,,41,41,12,12,deleted,[Eliminado],NICSP 05 — COSTOS POR PRÉSTAMOS — Disposiciones transitorias — párr. 41 — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0041"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Disposiciones transitorias"", ""subseccion"": null, ""parrafo_ini"": 41, ""parrafo_fin"": 41, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4101,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Disposiciones transitorias,,4101,4101,12,12,paragraph,"El documento Mejoras a las NICSP 2018, emitido en octubre de 2018, modificó el párrafo 25. Una entidad
+aplicará dicha modificación a los costos por préstamos incurridos a partir del comienzo del periodo anual sobre el que se informa en que la entidad aplique por primera vez dichas modificacio nes.",NICSP 05 — COSTOS POR PRÉSTAMOS — Disposiciones transitorias — párr. 41A — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4101"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Disposiciones transitorias"", ""subseccion"": null, ""parrafo_ini"": 4101, ""parrafo_fin"": 4101, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0042,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,42,42,12,12,paragraph,"Una entidad debe aplicar esta Norma para los estados financieros anuales que cubran periodos que
+comiencen a partir del 1 de julio de 2001. Se aconseja su aplicación anticipada. Si una entidad aplica
+esta Norma en un periodo que comience antes del 1 de jul io de 2001, deberá revelar este hecho.
+42A. El párrafo 6 fue modificado por la NICSP 32, Acuerdos de Concesión de Servicios: La Concedente,
+emitida en octubre de 2011. Una entidad debe aplicar esa modificación para los estados financieros
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2014. Se aconseja su
+aplicación anticipada. Si una entidad aplicase la modificación a un periodo que comience antes del
+de enero de 2014, revelará este hecho y al mismo tiempo aplicará la NICSP 32, las modificaciones
+a los párrafos 25 a 27 y 85B de la NICSP 13, las modificaciones a los párrafos 5, 7 y 107C de la NICSP
+17, las modificaciones a los párrafos 2 y 125A de la NICSP 29 y las modificaciones a los párrafos 6 y 132A de la NICSP 31.
+42B. Los párrafos 41 y 43 fueron modificados por la NICSP 33 Adopción por primera vez de las Normas
+Internacionales de Contabilidad del Sector Público de Base de Acumulación (o devengo) (NICSP)
+emitida en enero de 2015.  Una entidad aplicará esas modificaciones para los estados financieros
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación
+anticipada. Si una entidad aplicase la NICSP 33 para un periodo que comience antes del 1 de enero
+de 2017, las modificacio nes también se aplicarán para dicho periodo.
+42C.  Los párrafos 2, 3 y 11 fueron eliminados por el documento La Aplicabilidad de las NICSP, emitido en
+abril de 2016. Una entidad aplicará esas modificaciones para los estados financieros anuales que
+cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada.
+Si una entidad aplica las modificaciones para un periodo que comience antes del 1 de enero de 2018,
+deberá revelar este hecho.
+42D.  El documento Mejoras a las NICSP 2018, emitido en abril de 2018, modificó el párrafo 25 y añadió el
+párrafo 41A. Una entidad aplicará estas modificaciones para los estados financieros anuales que
+cubran periodos que comiencen a partir del 1 de enero de 2019. Se permite su aplicación anticipad a.
+Si una entidad aplica las modificaciones para un periodo que comience antes del 1 de enero de 2019,
+revelará este hecho.
+42E. El párrafo 6 fue modificado por el documento Mejoras a las NICSP 2019, emitido en enero de 2020.
+Una entidad aplicará esta modificación para los estados financieros anuales que cubran periodos
+que comiencen a partir del 1 de enero de 2023. Se permite su aplicación anticipada. Si una entidad
+aplica esta modificación para un periodo que comience antes del 1 de enero de 2023, revelará este
+hecho y aplicará al mismo tiempo la NICSP 41.
+42F. El párrafo 6 fue modificado por la NICSP 43, Arrendamientos  emitida enero de 2022. Una entidad
+aplicará esta modificación para los estados financieros anuales que cubran periodos que comiencen
+a partir del 1 de enero de 2025. Se permite su aplicación anticipada. Si una entidad aplicase las
+modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará este hecho y al
+mismo tiempo aplicará la NICSP 43.
+42G.  El párrafo 26 fue modificado por la NICSP 47, Ingresos , emitida en mayo de 2023. Una entidad aplicará
+esta modificación para los estados financieros anuales que cubran periodos que comiencen a partir del 1 de enero de 2026. Se aconseja su aplicación anticipada. Si una entidad aplica la modificación
+para un pe riodo que comience antes del 1 de enero de 2026, revelará este hecho y al mismo tiempo
+aplicará la NICSP 47.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42 — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 42, ""parrafo_fin"": 42, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4201,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,4201,4201,12,12,paragraph,"El párrafo 6 fue modificado por la NICSP 32, Acuerdos de Concesión de Servicios: La Concedente,
+emitida en octubre de 2011. Una entidad debe aplicar esa modificación para los estados financieros
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2014. Se aconseja su
+aplicación anticipada. Si una entidad aplicase la modificación a un periodo que comience antes del
+de enero de 2014, revelará este hecho y al mismo tiempo aplicará la NICSP 32, las modificaciones
+a los párrafos 25 a 27 y 85B de la NICSP 13, las modificaciones a los párrafos 5, 7 y 107C de la NICSP
+17, las modificaciones a los párrafos 2 y 125A de la NICSP 29 y las modificaciones a los párrafos 6 y 132A de la NICSP 31.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42A — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4201"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 4201, ""parrafo_fin"": 4201, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4202,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,4202,4202,12,12,paragraph,"Los párrafos 41 y 43 fueron modificados por la NICSP 33 Adopción por primera vez de las Normas
+Internacionales de Contabilidad del Sector Público de Base de Acumulación (o devengo) (NICSP)
+emitida en enero de 2015.  Una entidad aplicará esas modificaciones para los estados financieros
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación
+anticipada. Si una entidad aplicase la NICSP 33 para un periodo que comience antes del 1 de enero
+de 2017, las modificacio nes también se aplicarán para dicho periodo.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42B — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4202"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 4202, ""parrafo_fin"": 4202, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4203,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,4203,4203,12,12,paragraph,"Los párrafos 2, 3 y 11 fueron eliminados por el documento La Aplicabilidad de las NICSP, emitido en
+abril de 2016. Una entidad aplicará esas modificaciones para los estados financieros anuales que
+cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada.
+Si una entidad aplica las modificaciones para un periodo que comience antes del 1 de enero de 2018,
+deberá revelar este hecho.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42C — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4203"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 4203, ""parrafo_fin"": 4203, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4204,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,4204,4204,12,12,paragraph,"El documento Mejoras a las NICSP 2018, emitido en abril de 2018, modificó el párrafo 25 y añadió el
+párrafo 41A. Una entidad aplicará estas modificaciones para los estados financieros anuales que
+cubran periodos que comiencen a partir del 1 de enero de 2019. Se permite su aplicación anticipad a.
+Si una entidad aplica las modificaciones para un periodo que comience antes del 1 de enero de 2019,
+revelará este hecho.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42D — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4204"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 4204, ""parrafo_fin"": 4204, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4205,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,4205,4205,12,12,paragraph,"El párrafo 6 fue modificado por el documento Mejoras a las NICSP 2019, emitido en enero de 2020.
+Una entidad aplicará esta modificación para los estados financieros anuales que cubran periodos
+que comiencen a partir del 1 de enero de 2023. Se permite su aplicación anticipada. Si una entidad
+aplica esta modificación para un periodo que comience antes del 1 de enero de 2023, revelará este
+hecho y aplicará al mismo tiempo la NICSP 41.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42E — p. 12,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4205"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 4205, ""parrafo_fin"": 4205, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4206,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,4206,4206,13,13,paragraph,"El párrafo 6 fue modificado por la NICSP 43, Arrendamientos  emitida enero de 2022. Una entidad
+aplicará esta modificación para los estados financieros anuales que cubran periodos que comiencen
+a partir del 1 de enero de 2025. Se permite su aplicación anticipada. Si una entidad aplicase las
+modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará este hecho y al
+mismo tiempo aplicará la NICSP 43.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42F — p. 13,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4206"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 4206, ""parrafo_fin"": 4206, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P4207,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,4207,4207,13,13,paragraph,"El párrafo 26 fue modificado por la NICSP 47, Ingresos , emitida en mayo de 2023. Una entidad aplicará
+esta modificación para los estados financieros anuales que cubran periodos que comiencen a partir del 1 de enero de 2026. Se aconseja su aplicación anticipada. Si una entidad aplica la modificación
+para un pe riodo que comience antes del 1 de enero de 2026, revelará este hecho y al mismo tiempo
+aplicará la NICSP 47.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 42G — p. 13,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P4207"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 4207, ""parrafo_fin"": 4207, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P0043,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fecha de vigencia,,43,43,13,13,paragraph,"Cuando una entidad adopte las NICSP de base de acumulación (o devengo), tal como se definen en la
+NICSP 33, Adopción por Primera Vez de las Normas Internacionales de Contabilidad del Sector Público
+(NICSP) de Base de Acumulación (o devengo) , a efectos de información financiera con posterioridad a esta
+fecha de vigencia, esta Norma se aplicará a los estados financieros anuales de la entidad que cubran
+periodos que comiencen a partir de la fecha de adopción de las NICSP.",NICSP 05 — COSTOS POR PRÉSTAMOS — Fecha de vigencia — párr. 43 — p. 13,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P0043"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 43, ""parrafo_fin"": 43, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P9004,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Fundamentos de las conclusiones,,9004,9004,14,18,paragraph,"Estos Fundamentos de las conclusiones acompañan a la , pero no son parte de la misma.
+Revisión de la  como resultado del documento del IPSASB La Aplicabilidad de las NICSP,  emitido en
+abril de 2016
+FC1.  El IPSASB emitió La Aplicabilidad de las NICSP  en abril de 2016. Este pronunciamiento modifica las
+referencias en todas las NICSP de la forma siguiente:
+(a) elimina los párrafos estándar sobre La Aplicabilidad de las NICSP  a “entidades del sector público
+distintas de las EP” de la sección de alcance de cada Norma;
+(b) sustituye el término “EP” por el término “entidades del sector público comercial”, cuando procede; y
+(c) modifica el párrafo 10 del Prólogo a las Normas Internacionales de Contabilidad del Sector Público
+proporcionando una descripción positiva de las entidades del sector público para las que se han
+diseñado las NICSP.
+Las razones de estos cambios se establecen en los Fundamentos de las conclusiones de la NICSP 1.
+Revisión de la  como resultado del documento Mejoras a las NICSP, 2018
+FC2.  El IPSASB revisó las revisiones a la NIC 33, Costos por préstamos , incluidas en Mejoras Anuales a las
+Normas NIIF®, Ciclo 2015 a 2017 emitido por el IASB en diciembre de 2017, y los razonamientos del IASB
+para hacer dichas modificaciones como se establecen en sus Fundamentos de las conclusiones. El IPSASB destacó que pese a las divergencias entre la  y la NIC 23, el tratamiento c ontable alternativo
+permitido en la  es congruente con la contabilización en la NIC 23. El IPSASB concluyó, por  tanto,
+que no había una razón específica del sector público para la no adopción de las modificaciones. El IPSASB coincidió con la opinión del IASB de que los costos de aplicar las modificaciones retroactivamente podrían
+exceder los beneficios potenciales de hacerlo. En consecuencia, una entidad aplica las modificaciones solo
+a los costos por préstamos incurridos a partir de la fecha en que aplica por primera vez las modificaciones.
+Revisión de la  como resultado del documento Mejoras a las NICSP, 2019
+FC3.  Las modificaciones al párrafo 6 actualizan las guías sobre los componentes de los costos por préstamos
+que resultan de la NICSP 41 Instrumentos Financieros , que fueron omitidos inadvertidamente cuando se
+emitió la NICSP 41. El IPSASB estuvo de acuerdo en incluir estas modificaciones menores en Mejoras a las
+NICSP, 2019 .
+Revisión de la  como resultado de COVID -19: Diferimiento de las Fechas de Vigencia
+FC4.  El IPSASB publicó Mejoras a las NICSP 2019 en enero de 2020. Dicho documento incluía modificaciones a
+la  Costos por Préstamos.  En el momento en que se finalizaron estas modificaciones, el Consejo
+decidió que una entidad las aplicar a para los estados financieros anuales que cubran periodos que
+comiencen a partir del 1 de enero de 2022.
+FC5.  En junio de 2020, el IPSASB analizó el efecto de la pandemia COVID -19 en la información financiera. El
+Consejo destacó que la pandemia ha creado presiones significativas en los recursos del sector público que
+las entidades podrían asignar, en otro caso, a la implementación de estas modificaciones.
+FC6.  El Consejo concluyó que el diferimiento durante un periodo de perturbaciones importantes proporcionaría
+un alivio operativo muy necesario a las entidades del sector público. Por ello, el Consejo decidió proponer
+un año de diferimiento de la fecha de vigen cia de estas modificaciones.
+FUNDAMENTOS DE LAS CONCLUSIONES  FC7.  El Consejo no propuso otros cambios en estas modificaciones distintos del diferimiento de la fecha de
+vigencia. Se continúa permitiendo la aplicación anticipada de las modificaciones.
+Revisión de la  como resultado del Documento de Consulta del IPSASB Medición,  emitido en abril de
+2019
+FC8.  En abril de 2019, el IPSASB publicó el Documento de Consulta Medición. El Documento de Consulta
+proponía un marco integral que destacaba cómo deben determinarse las bases de medición cuando se
+aplican en el contexto de las NICSP. Uno de los objetivos del Documento de Consulta era reunir opiniones sobre la conveniencia de suprimir una de las opciones de política contable de la , Costos por
+Préstamos .
+FC9.  La  permite dos opciones de política contable para los costos por préstamos directamente atribuibles a la adquisición, construcción o producción de un activo apto: capitalización o reconocimiento como gasto.
+FC10.  El IPSASB propuso eliminar la opción de capitalizar los costos por préstamos con el fin de:
+(a) Abordar un problema del sector público cuando el endeudamiento está centralizado y se determina
+para la entidad económica en su conjunto. La contabilización como gasto de los costos por
+préstamos reduce la carga de atribuir los costos por préstamos central izados a proyectos
+específicos dentro del sector público;
+(b) Mejorar la comparabilidad entre el costo de adquisición, construcción o producción de un activo apto
+entre entidades del sector público; y
+(c) Alinearse más estrechamente con los requerimientos del Manual de Estadísticas Financieras
+Públicas (MEFP) de 2014.
+FC11.  Al desarrollar su opinión preliminar, el IPSASB reconoció la complejidad de la cuestión. Esta complejidad, y las opiniones opuestas sobre lo que debería incluirse en el costo, dieron lugar a que las respuestas a la
+opinión preliminar estuvieran divididas,  con muchos de quienes respondieron apoyando la propuesta del
+Consejo y, del mismo modo, muchos otros en desacuerdo. Los que se mostraron en desacuerdo con la
+propuesta de eliminar la opción de política contable existente consideraron que las razones aducidas para
+hacerlo eran insuficientes. Ellos argumentaron que:
+(a) las dificultades para atribuir costos por préstamos a proyectos específicos en el sector público eran
+exageradas y constituían una razón insuficiente para apartarse del tratamiento contable del sector
+privado. Los grandes conglomerados del sector privado s e enfrentan a dificultades similares y son
+capaces de capitalizar los costos por préstamos;
+(b) los costos por préstamos que son directamente atribuibles a la adquisición, construcción o producción
+de un activo apto forman parte del costo de dicho activo. Durante el periodo en el que un activo está en proceso de desarrollo, los desembolsos por los recursos utilizados deben ser financiados. La
+financiación tiene un costo. El costo del activo debe incluir todos los costos en que sea necesario incurrir para preparar el activo para su uso previsto o venta, incluyendo los costos incurridos por la
+financiac ión de desembolsos como parte del costo de adquisición, construcción o producción del
+activo;
+(c) la capitalización de los costos por préstamos directamente atribuibles mejora la rendición de cuentas
+y la toma de decisiones; y
+(d) la contabilización inmediata como gasto de los costos por préstamos sería incongruente con los
+requerimientos establecidos en otras normas para capitalizar los costos de transacción directamente
+atribuibles a la adquisición, construcción o producción de un activo apto.
+FUNDAMENTOS DE LAS CONCLUSIONES  286 FC12.  Tras revisar las respuestas, el IPSASB decidió mantener la opción de política contable existente. Este
+enfoque permite a los preparadores seleccionar la política que mejor alcance el objetivo de medición del activo apto.
+FC13.  El IPSASB observó que la opción de política contable existente es congruente con los principios de medición del Marco Conceptual y permite a los preparadores de estados financieros del sector público considerar las características cualitativas de la infor mación útil al seleccionar un enfoque que represente más fielmente el
+costo del activo.
+FC14.  En apoyo de su decisión de mantener la opción de política contable, el IPSASB señaló lo siguiente:
+(a) Tanto la capitalización como la contabilización como gasto de los costos por préstamos tienen ventajas
+técnicas. En algunos casos, quienes respondieron adoptaron puntos de vista opuestos: por ejemplo,
+sobre si los costos por préstamos son un atributo del c osto de un activo;
+(b) el objetivo del enfoque al contabilizar los costos por préstamos es ayudar a los usuarios de los estados
+financieros a obtener el reflejo más adecuado de los costos de adquisición, construcción o producción
+de un activo apto, que en algunos casos pueden in cluir los costos por préstamos;
+(c) aunque en determinados niveles de gobierno la imputación de los costos por préstamos constituye un
+reto, en otros niveles, como el de los gobiernos locales, puede resultar relativamente sencilla;
+(d) la capitalización de los costos por préstamos se ajustaría a las NIIF si este fuera el enfoque preferido
+de una entidad económica, mientras que la contabilización de los costos por préstamos se ajustaría a
+las EFP si este fuera el enfoque preferido por una entidad económica; y
+(e) tendría que haber un beneficio claro de contabilizar como gasto todos los costos por préstamos antes
+de que el IPSASB eliminara la opción de política contable existente de capitalizar los costos por
+préstamos. Dado que existen costos inevitables al eliminar una opción de política contable, el IPSASB consideró cuidadosamente los costos y beneficios de cualquier nuevo pronunciamiento. En este caso,
+al Consejo no se le había informado de que los preparadores que eligieron capitalizar los costos por
+préstamos s egún la  hayan encontrado dicha capitalización innecesariamente gravosa.
+FC15.  Algunos de quienes respondieron al Documento de Consulta identificaron problemas prácticos en el sector
+público al capitalizar los costos por préstamos. Por ello, el IPSASB elaboró una Guía de implementación y
+Ejemplos ilustrativos para ayudar a las entidades a determinar en qué medida pueden capitalizarse los costos por préstamos.
+Distinción entre costos por intereses y costos de transacción
+FC16.  Al llegar a la conclusión de mantener la opción de política contable, el IPSASB destacó que la contabilización
+de los costos por préstamos puede no ser congruente con la contabilización de los costos de transacción. Algunos de quienes respondieron propusi eron que el tratamiento contable de los costos por préstamos y de
+los costos de transacción debería ser congruente porque consideraban que:
+(a) Los costos por préstamos son un tipo de costos de transacción. Los costos por préstamos son
+directamente atribuibles a la financiación (por ejemplo, la emisión de un instrumento financiero del
+gobierno). Por lo tanto, cumplen los criterios de un costo de t ransacción; o
+(b) Los costos de transacción son un tipo de costos por préstamos. Algunos de quienes respondieron
+propusieron esta opinión basándose en la metodología aplicada para calcular la tasa de interés
+efectiva de un instrumento financiero. Esto se debe a que algunos costos de transacción se suman o
+restan del importe del principal de un instrumento financiero al determinar los recursos brutos de un
+préstamo con el fin de determinar la tasa de interés efectiva.
+FUNDAMENTOS DE LAS CONCLUSIONES  FC17.  El IPSASB consideró estos puntos de vista, pero decidió que los costos por préstamos y los costos de
+transacción son fenómenos económicos diferentes. El IPSASB concluyó que es apropiado que los principios contables difieran para cada tipo de “costo” depen diendo de los hechos y circunstancias.
+FC18.  Al alcanzar esta opinión, el IPSASB destacó que los costos por préstamos comprenden los intereses y otros gastos incurridos por una entidad en relación con el préstamo de fondos. Los costos por préstamos suelen estar vinculados contractualmente al préstam o subyacente. Si se transfiriera el préstamo, los costos por
+préstamos se transferirían a la nueva contraparte o se separarían contractualmente.
+FC19.  Los costos de transacción son costos incrementales directamente atribuibles a la transacción. Sin embargo,
+los costos de transacción son independientes de las condiciones contractuales del instrumento de deuda. Si
+se transfiriera el instrumento de deuda, l a entidad que transfiere el instrumento no suele ser compensada
+por los costos de transacción, ya que no se transfieren a la contraparte que asume el instrumento.
+FUNDAMENTOS DE LAS CONCLUSIONES  288",NICSP 05 — COSTOS POR PRÉSTAMOS — Fundamentos de las conclusiones — párr. Fundamentos de las conclusiones — p. 14-18,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P9004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fundamentos de las conclusiones"", ""subseccion"": null, ""parrafo_ini"": 9004, ""parrafo_fin"": 9004, ""page_ini_pdf"": 14, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P9005,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Guía de implementación,,9005,9005,19,20,paragraph,"Esta guía acompaña a la , pero no es parte de la misma.
+A.1 Periodo de capitalización de los costos por préstamos
+Al aplicar el tratamiento alternativo permitido, tal como se describe en los párrafos 17 a 18, ¿cuándo puede
+una entidad empezar a incluir los costos por préstamos en el costo del activo apto?
+Cuando se haya incurrido en desembolsos y préstamos específicamente para financiar la adquisición, construcción o
+producción de un activo apto, los costos de dichos préstamos deben capitalizarse cuando comiencen las actividades
+necesarias para preparar el activo para su uso previsto o venta. Las actividades necesarias para que el activo esté
+listo para su uso abarcan más que la adquisición física, construcción o producción del activo. Las actividades incluyen
+el trabajo técnico y administrativo previo al inicio de la adquisición física, construcción o producción, pero excluyen la
+tenencia del activo cuando no se está llevando a cabo ningún desarrollo que cambie el estado del activo.
+Las actividades (es decir, el trabajo técnico y administrativo) realizadas antes del inicio de la adquisición física,
+construcción o producción de un activo apto deben contribuir al desarrollo o construcción real de dicho activo.
+A.2 Límite de capitalización
+Cuando se aplica el tratamiento alternativo permitido, tal como se describe en los párrafos 17 y 18, a préstamos
+específicos, ¿se limitan los costos por préstamos incluidos en el costo del activo apto en ese periodo a los
+costos por préstamos incurridos en ese periodo?
+Sí. Si un préstamo puede asociarse específicamente con desembolsos para la adquisición, construcción o producción
+de un activo apto, el importe de los costos por préstamos capitalizados durante ese periodo se limita a los costos por
+préstamos en que se hay a incurrido por ese préstamo durante el periodo, menos los rendimientos conseguidos por la
+colocación de tales fondos en inversiones temporales.
+A.3 Activo financiado mediante transferencias
+En muchas jurisdicciones, la adquisición, construcción o producción de un activo apto se financia mediante
+una transferencia de otra entidad del sector público. ¿Tiene en cuenta la entidad que adquiere, construye o
+produce el activo apto la fuente subyacen te de los fondos del transferidor, es decir, si los fondos proceden de
+ingresos fiscales, de tenencias generales de efectivo o de préstamos, cuando determina el importe que puede
+incluirse en el costo del activo apto al aplicar el tratamiento alternativo p ermitido, tal como se describe en los
+párrafos 17 y 18?
+No. Cuando la adquisición, construcción o producción de un activo apto se financie en su totalidad mediante una
+transferencia, no habrá costos por préstamos directamente atribuibles que capitalizar. La entidad puede incluir en el
+costo del activo apto únic amente aquellos costos por préstamos en los que haya incurrido.
+A.4 Activos financiados a través de un programa centralizado de préstamos – Tasas de interés
+Una agencia de préstamos centralizada puede financiar sus actividades mediante préstamos tomados a través
+de varios instrumentos de préstamo separados. Cada instrumento puede tener una tasa de interés diferente.
+Una entidad puede tomar fondos prestados de la agencia de préstamos centralizada y utilizarlos para la
+adquisición, construcción o producción de un activo apto. Si la entidad está utilizando el tratamiento
+alternativo permitido, tal como se describe en los párrafos 17 y 18, ¿aplica la entidad la tasa de interés promedio ponderada incurrida por la agencia de préstamos centralizada al incluir los costos por préstamos en
+el costo del activo apto?
+No. La tasa de interés promedio ponderada incurrida por la agencia de préstamos centralizada no es relevante en la
+preparación de los estados financieros de la entidad que adquiere, construye o produce el activo apto. La entidad
+GUÍA DE IMPLEMENTACIÓN  290 puede incluir en el costo del activo apto únicamente aquellos costos por préstamos en los que ella misma haya
+incurrido.
+La entidad debe considerar todos los hechos y circunstancias al determinar los costos por préstamos incurridos en su
+acuerdo con la agencia de préstamos centralizada. En algunos casos, la tasa de interés establecida en las condiciones
+del acuerdo puede no reflejar los verdaderos costos por intereses asociados con los fondos recibidos. Cuando la
+entidad identifique condiciones favorables, la entidad debe aplicar los requerimientos de la NICSP 41, Instrumentos
+Financieros , párrafos GA118 a GA1272 y capitalizar los costos por préstamos basados en una tasa de interés
+relacionada de mercado en la que la entidad habría incurrido en un préstamo similar (véase la NICSP 41, EI153 a
+EI172 para ejemplos que ilustran cómo determinar la tasa de interés en un préstamo en condiciones favorables). Los
+gastos por intereses calculados utilizando el método de la tasa de interés efectiva son susceptibles de inclusión en el
+costo del activo apto de acuerdo con esta Norma.
+Si agencia de préstamos centralizada y la entidad a la que presta fondos forman parte de la misma entidad económica,
+en los estados financieros de la entidad consolidada, los costos por préstamos en los que haya incurrido la agencia de
+préstamos centralizada pueden capitalizarse como parte del activo apto, siempre que se hayan realizado los ajustes
+de consolidación adecuados para eliminar los costos capitalizados por la entidad controlada.
+A.5 Activo financiado mediante préstamos genéricos propios de una entidad - Préstamos que no son específicos del
+activo apto
+Cuando una entidad que adquiere, construye o produce un activo apto gestiona su propio programa de préstamos, pero los préstamos no son específicos del activo apto, ¿cómo determina la entidad los costos por
+préstamos directamente atribuibles al activo apto ? Esto puede ocurrir cuando una entidad utiliza el efectivo
+disponible en caja para financiar el costo de un activo apto. Este efectivo disponible en caja se financia con préstamos genéricos, ingresos fiscales y otras tasas y transferencias.
+El importe de los costos por préstamos susceptible de inclusión en el costo del activo apto se determina utilizando la
+media ponderada de los costos por préstamos aplicables a todos los préstamos de la entidad vigentes durante el
+periodo. A continuación, el promedio ponderado de los costos por préstamos se aplicará a los desembolsos en el activo
+apto incurridos durante el periodo para determinar el importe susceptible de capitalización.
+La entidad excluirá del cálculo del promedio ponderado aquellos préstamos efectuados específicamente con el
+propósito de obtener otro activo apto hasta que se hayan completado sustancialmente todas las actividades necesarias
+para preparar ese activo para s u uso previsto. El importe de los costos por préstamos capitalizados durante un periodo
+no debe exceder del importe de los costos por préstamos incurridos durante ese periodo.
+A.6 Activo financiado mediante préstamos genéricos - Variedad de instrumentos de deuda
+¿Aplica una entidad un promedio ponderado de costos por préstamos cuando se utilizan varios instrumentos
+de deuda para financiar el costo de un activo apto?
+Sí. Es posible que una entidad no pueda financiar el costo de un activo apto con un único instrumento de deuda.
+Cuando se utilizan múltiples instrumentos de deuda, el costo de los préstamos se determina calculando el promedio
+ponderado de los costos por pr éstamos aplicables a todos los instrumentos de deuda vigentes durante el periodo,
+excluyendo los préstamos efectuados específicamente con el propósito de obtener otro activo apto (hasta que se hayan
+completado sustancialmente todas las actividades necesari as para preparar ese activo para el uso previsto).
+Cuando una entidad no haya adoptado todavía la NICSP 41, se aplicarán los requerimientos de la NICSP 29, Instrumentos financieros:
+Reconocimiento y Medición, párrafos GA84 a GA90. De forma similar a los requerimientos de la NICSP 41, una entidad debe capitalizar los
+costos por préstamos basándose en una tasa de interés relacionada de mercado en el que la entidad constructora habría incurri do en un
+préstamo si milar.",NICSP 05 — COSTOS POR PRÉSTAMOS — Guía de implementación — párr. Guía de implementación — p. 19-20,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P9005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Guía de implementación"", ""subseccion"": null, ""parrafo_ini"": 9005, ""parrafo_fin"": 9005, ""page_ini_pdf"": 19, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P9006,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Ejemplos ilustrativos,,9006,9006,21,23,paragraph,"Estos Ejemplos acompañan a la , pero no son parte de la misma.
+Activo apto construido a lo largo de un periodo de tiempo
+EI1. El 31 de marzo de 20X1, la Municipalidad XYZ inicia la construcción de un túnel para dar cabida al tránsito
+entre dos núcleos comerciales. El periodo de construcción es de 5 años y el proyecto tiene un costo presupuestado de 100 millones de u.m. (20 millones de u.m. se pagan a la empresa constructora en la fecha
+de inicio de la construcción y el 31 de marzo de cada uno de los años siguientes durante el periodo de
+construcción). La Municipalidad XYZ emite un bono de 100 millones de u.m. a 25 años el 31 de marzo de
+20X1 que rinde un cupón fijo del 5 por ciento anual. Este bono se emitió específicamente para financiar la
+construcción de este proyecto. La Municipalidad cierra el ejercicio el 31 de diciembre y obtiene una tasa de interés del 3 por ciento por  la inversión temporal de cualquier exceso de préstamos.
+EI2. A 31 de diciembre de 20X1, la Municipalidad ha devengado unos costos por intereses de 3,75 millones de
+u.m. (100 millones de u.m. x 5 por ciento x 9/12 meses).
+EI3. Al determinar los costos por préstamos que pueden incluirse en el costo del túnel, la Municipalidad se limita
+a capitalizar los costos por préstamos incurridos durante el periodo menos los rendimientos conseguidos
+por la colocación de tales fondos en inversiones temporales.
+EI4. El 31 de diciembre de 20X1, la Municipalidad XYZ reconoce su activo por el túnel como trabajo en curso. El
+importe capitalizado asciende a 21,95 millones de u.m. (20 millones de u.m. + [100 millones de u.m. x 5 por
+ciento x 9/12 meses] -  [80 millones de u .m. x 3 por ciento x 9/12 meses]). Esto representa los fondos
+transferidos a la empresa constructora y los costos por intereses incurridos durante el periodo menos los
+ingresos por inversiones obtenidos de los 80 millones de u.m. invertidos.
+Programa de préstamos centralizado – Costos por préstamos elegibles
+EI5. El Departamento de Infraestructuras inicia la construcción de una nueva red de carreteras el 15 de junio de
+20X1. Los costos del proyecto están presupuestados en 500 millones de u.m. Toda la financiación requerida
+por el Departamento de Infraestructuras, y todos los demás departamentos gubernamentales, está
+garantizada de forma centralizada por el Departamento de Finanzas.
+EI6. El Departamento de Finanzas estima anualmente sus necesidades de flujos de efectivo con el fin de
+determinar la fuente de financiación más adecuada para satisfacer sus necesidades de préstamos internos.
+Estas fuentes incluyen los ingresos fiscales, los ingresos por tasas, las emisiones de bonos y los préstamos.
+EI7. El Departamento de Infraestructuras negocia un préstamo a 10 años con el Departamento de Finanzas. El
+Departamento de Finanzas requiere al Departamento de Infraestructuras el pago de unos costos por
+préstamos del 3% anual. Esto es congruente con la tasa de interés de mercado en la que incurriría el
+Departamento de Infraestructuras si el acuerdo se negociara en condiciones de independencia mutua.
+EI8. Cuando el Departamento de Infraestructuras obtiene financiación del Departamento de Finanzas, el Departamento de Infraestructuras es consciente de que los préstamos comprenden diversas fuentes, pero
+no tiene información de cómo el Departamento de Finanzas  obtiene los fondos, ni del promedio ponderado
+de los costos por préstamos en los que incurre el Departamento de Finanzas.
+EI9. Al determinar los costos por préstamos susceptibles de inclusión en el costo de la red de carreteras, el
+Departamento de Infraestructuras incluye únicamente aquellos costos por préstamos en los que él mismo
+ha incurrido. Dado que el préstamo se concede en condiciones de mercado, el Departamento de
+Infraestructuras concluye que no existen elementos en condiciones favorables y determina que los costos
+EJEMPLOS ILUSTRATIVOS  292 por préstamos susceptibles de inclusión en el costo de la red de carreteras se basan en la tasa de interés
+del 3% establecida en el contrato.
+Préstamos genéricos – Costo promedio ponderado de préstamos
+EI10.  El Gobierno Estatal T ha iniciado la construcción de un nuevo aeropuerto. El costo de este aeropuerto está
+presupuestado en 500 millones de u.m. El Gobierno Estatal T gestiona sus propios préstamos; sin embargo,
+no obtiene préstamos para proyectos específi cos. Para determinar sus necesidades de financiación, el
+Gobierno Estatal T presupuesta su déficit de tesorería durante un periodo determinado y se asegura de que
+los préstamos cubrirán sus necesidades de liquidez.
+EI11.  Durante el periodo de construcción, el Gobierno Estatal T mantuvo tres instrumentos que estuvieron abiertos
+durante todo el periodo de construcción:
+• Bonos estatales – 1 billón de u.m., con un rendimiento anual del 5 por ciento;
+• Préstamo con la Institución Financiera A – 300 millones de u.m., con una tasa de interés anual del 7 por
+ciento; y
+• Préstamo con la Institución Financiera B – 600 millones de u.m., con una tasa de interés anual del 9 por
+ciento.
+EI12.  Al determinar el importe de los costos por préstamos susceptible de inclusión en el costo del aeropuerto, el
+Gobierno Estatal T calcula el promedio ponderado de los costos por préstamos aplicables a todos los
+préstamos de la entidad vigentes durante el periodo.
+A B C D = B x C
+Principal  Tasas de
+interés  Proporción de
+deuda  Promedio
+ponderado
+Bonos estatales  1.000 millones
+de u.m.  5 por ciento  1.000 / 1.900  2,63
+Préstamo A 300 millones de
+u.m. 7 por ciento  300 / 1.900  1,11
+Préstamo B 600 millones de
+u.m. 9 por ciento  600 / 1.900  2,84
+Tasa de interés promedio ponderada     6,58 por
+ciento
+EI13.  El Gobierno Estatal T calcula que el promedio ponderado de los costos por préstamos aplicable a todos los
+préstamos de la entidad vigentes durante el periodo es del 6,58%.
+Préstamo específico – Préstamo por parte del importe del activo apto
+EI14.  El Gobierno Estatal C inició la construcción de una nueva red de carreteras el 1 de enero de 20X1. El costo de esta red de carreteras está presupuestado en 750 millones de u.m. El Gobierno Estatal C financia este
+proyecto con importes recibidos el 1 de enero de 20X1 de dos fuentes:
+• Subvención federal por importe de 500 millones de u.m; y
+• Préstamo de una institución financiera por 250 millones de u.m., con una tasa de interés anual del 5 por
+ciento.
+EJEMPLOS ILUSTRATIVOS  Para recibir la subvención federal, se requirió que el Gobierno Estatal C demostrarse que era capaz de
+obtener financiación. La política del Gobierno Estatal C es destinar primero los fondos prestados a la construcción del activo apto. El Gobierno Estatal C obtiene una tasa de interés del 3 por ciento por la
+inversión temporal de cualquier exceso de préstamos.
+EI15.  A 31 de diciembre de 20X1, el Gobierno Estatal C ha incurrido en desembolsos de 200 millones de u.m.
+como parte de la construcción del activo. Estos desembolsos fueron transferidos en un pago único a la
+empresa constructora al comienzo de la construcción,  el 1 de enero de 20X1. Además de los desembolsos
+de 200 millones de u.m., el Gobierno Estatal C capitaliza 11 millones de u.m. ([250 millones de u.m. x 5 por
+ciento] - [50 millones de u.m. x 3 por ciento]) en costos por préstamos, como parte del acti vo apto.
+EI16.  Dado que el Gobierno Estatal C tomó prestados 250 millones de u.m. para la obtención de la red de
+carreteras, pero sólo ha incurrido en desembolsos relacionados con ese activo apto por importe de 200
+millones de u.m., el Gobierno Estatal C fue capaz de obtener ingresos por intereses sobre el exceso de
+fondos prestados. El Gobierno Estatal C capitalizó los costos por préstamos incurridos durante el periodo, que ascendieron a 12,5 millones de u.m., menos los ingresos por inversiones de 1,5 millones de u.m.
+procedentes de la inversión temporal de dichos préstamos.",NICSP 05 — COSTOS POR PRÉSTAMOS — Ejemplos ilustrativos — párr. Ejemplos ilustrativos — p. 21-23,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P9006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Ejemplos ilustrativos"", ""subseccion"": null, ""parrafo_ini"": 9006, ""parrafo_fin"": 9006, ""page_ini_pdf"": 21, ""page_fin_pdf"": 23, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"
+NICSP 05-P9007,NICSP,NICSP 05,COSTOS POR PRÉSTAMOS,31-01-2025,es,Comparación con la NIC 23,,9007,9007,24,24,paragraph,"COMPARACIÓN CON LA NIC 23
+La  C ostos por Préstamos ha sido desarrollada fundamentalmente a partir de la NIC 23 Costos por
+Préstamos (). Las principales diferencias entre la  y la NIC 23 son las siguientes:
+• La  emplea, en ciertos casos, una terminología diferente a la de la NIC 23. Los ejemplos más
+significativos son los términos “ingreso (de actividades ordinarias), “estado de rendimiento financiero”, y
+“activos netos/patrimonio” en la . Los términos equivalentes en la NIC 23 son “ingreso”, “estado de resultados” y “patrimonio"".
+• La  contiene un conjunto de definiciones de términos técnicos diferentes a los de la NIC 23 (párrafo 5).",NICSP 05 — COSTOS POR PRÉSTAMOS — Comparación con la NIC 23 — párr. Comparación con la NIC 23 — p. 24,NICSP 05.pdf,"{""chunk_id"": ""NICSP 05-P9007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 05"", ""norma_titulo"": ""COSTOS POR PRÉSTAMOS"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Comparación con la NIC 23"", ""subseccion"": null, ""parrafo_ini"": 9007, ""parrafo_fin"": 9007, ""page_ini_pdf"": 24, ""page_fin_pdf"": 24, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 05.pdf""}"

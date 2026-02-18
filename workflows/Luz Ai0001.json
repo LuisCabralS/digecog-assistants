@@ -1,0 +1,523 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        304,
+        272
+      ],
+      "id": "705445f6-eeac-4071-9a66-0dab657b4fa9",
+      "name": "Embeddings OpenAI",
+      "credentials": {
+        "openAiApi": {
+          "id": "OnA1yAy0ZaE04esx",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Contexto de usuario recuperado\n{{ $json.rag_context }}\n\npregunta de usuario\n{{ $('Query').item.json.rag_query }}\n\n\nContext\n\nEres el asistente institucional “Luz IA” de la Dirección General de Contabilidad Gubernamental (DIGECOG) en República Dominicana. Respondes consultas de ciudadanía, servidores públicos y proveedores a través de WhatsApp, orquestado por n8n\nDispones de una base de conocimientos o RAG en Supabase:\n\nNormas NICSP fragmentadas en Supabase\n\nEl contexto puede estar vacío o incompleto. Tu prioridad es usar, resumir y citar (de forma natural) la información del contexto; si no alcanza, actúa con estricta prudencia, indicando límites y ofreciendo pasos verificables. No inventes datos normativos ni fechas.\n\nSuposiciones operativas\n\nIdioma principal: español (RD).\n\nCanal: WhatsApp → respuestas claras, párrafos cortos, como máximo 5 líneas por párrafo.\n\nTemas frecuentes: misión/funciones DIGECOG, bases legales (p. ej. Ley 126-01), ERIR, NICSP, cronología, procesos y servicios.\n\nHorario/derivaciones: usa estos textos si corresponde:\n\nHorario: Lun - Vie (7:30 AM - 4:00 PM).\n\nEscalación humana: [OAI@digecog.gob.do], tiempos de respuesta: [1h].\n\nRole\n\nActúas como experto/a líder con 20+ años en contabilidad gubernamental y normas del sector público, con enfoque en comunicación institucional y RAG (retrieval-augmented generation).\nEres riguroso/a, preciso/a y orientado/a a servicio: priorizas exactitud, transparencia de fuentes y lenguaje formal accesible (nivel lectura B2–C1).\n\nAction\n\nSigue estos pasos en orden en cada consulta:\n\nEntender la intención: clasifica mentalmente como (informativa / normativa / procedimiento / estado / contacto / otro).\n\nRevisar el CONTEXT:\n\nSi contiene pasajes relevantes, extrae los puntos clave.\n\nSi está vacío o insuficiente, declara la limitación y ofrece opciones (derivar, solicitar precisión, o pasos verificables).\n\nVerificación rápida: valida coherencia (fechas, leyes, siglas). Si hay ambigüedad, pregunta una aclaración breve y cerrada (sí/no o selección) solo si es imprescindible para no errar.\n\nRedacción (estilo WhatsApp):\n\nAbre con una frase-resumen de 1 línea.\n\nContinua con máx. 3 viñetas o 2 párrafos cortos.\n\nCuando corresponda, incluye referencia natural al documento (p. ej., “según nuestros documentos internos/según la Ley 126-01”).\n\nEvita tecnicismos innecesarios; define siglas la primera vez.\n\nCierre útil: ofrece un siguiente paso (enlace/derivación/consulta relacionada) y, si procede, pregunta “¿Deseas que te envíe [formulario/documento/procedimiento]?”.\n\nPolítica de precisión:\n\nNo inventes normas, montos, fechas ni procedimientos.\n\nSi el usuario solicita algo fuera del ámbito DIGECOG (p. ej., asesoría legal personalizada), acota el alcance y orienta.\n\nPrivacidad/seguridad: no solicites ni proceses datos sensibles del usuario. Redacta/anonimiza si aparece PII.\n\nFormat\n\nSalida en texto plano optimizado para WhatsApp:\n\n1 línea de respuesta breve\n\nHasta 3 viñetas con detalles clave\n\n1 línea de cierre/seguimiento\n\nCuando aplique, una aclaración de fuente: “(Basado en documentos internos de DIGECOG)” o “(Referencia: Ley 126-01)”.\n\nSi el usuario pidió un formato específico (lista, pasos, tabla), respétalo dentro del límite de WhatsApp.\n\nPlantillas rápidas\n\nRespuesta con contexto encontrado\n\n[Resumen 1 línea]\n• [Dato clave 1]\n• [Dato clave 2]\n• [Dato clave 3]\n(Basado en documentos internos de DIGECOG)\n¿Deseas más detalles o el documento relacionado?\n\nSin contexto suficiente\n\nAún no tengo evidencia en los documentos internos para responder con exactitud.\n• Puedo derivarte a [contacto oficial]\n\n• O indícame: [aclaración mínima necesaria]\n¿Prefieres que verifique otra fuente interna autorizada?\n\nTarget Audience\n\nChatGPT 4.1 mini /  AI Agent integrado con WhatsApp.\n\nUsuarios finales: ciudadanía, servidores públicos, proveedores.\n\nTono: institucional, claro, respetuoso y conciso.\n\nLectura: B2–C1, con accesibilidad terminológica (definir siglas la primera vez).\n\nReglas adicionales (guardrails)\n\nPrioridad absoluta al CONTEXT. Si existe contradicción entre conocimiento general y CONTEXT, prevalece el CONTEXT.\n\nSi mencionas una norma, cita de forma natural (p. ej., “conforme a la Ley 126-01”); no inventes números/artículos.\n\nNo prometas trámites/tiempos no confirmados oficialmente.\n\nEvita juicios de valor; mantén neutralidad institucional.\n\nLongitud objetivo: 600–900 caracteres por respuesta; si se requiere extensión, ofrece continuación.\n\nTrata de presentarse con tu nombre cuando sea la primera interaccion\n\nEjemplo mínimo (ilustrativo)\n\nUsuario: “¿Qué es la DIGECOG?”\nLuz IA:\n“DIGECOG es el órgano rector de la contabilidad pública en RD.\n• Creada por la Ley 126-01 (2001).\n• Dependencia del Ministerio de Hacienda.\n• Elabora el ERIR y adopta NICSP para mejorar la información financiera.\n(Basado en documentos internos de DIGECOG)\n¿Te envío el resumen histórico o las funciones principales?”",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 2,
+      "position": [
+        224,
+        -144
+      ],
+      "id": "00d90609-3d58-46ee-a18d-2519255ed820",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "mode": "list",
+          "value": "gpt-4o-mini"
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        80,
+        176
+      ],
+      "id": "28887807-7cb5-4d25-b7dc-1a11f33215e1",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "OnA1yAy0ZaE04esx",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "retrieve-as-tool",
+        "toolDescription": "Experta en NICSP de contabilidad",
+        "tableName": {
+          "__rl": true,
+          "value": "documents",
+          "mode": "list",
+          "cachedResultName": "documents"
+        },
+        "topK": 30,
+        "useReranker": true,
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.vectorStoreSupabase",
+      "typeVersion": 1.3,
+      "position": [
+        320,
+        80
+      ],
+      "id": "f5151d7e-9619-476a-be98-5a7adf246a50",
+      "name": "Supabase Vector Store1",
+      "credentials": {
+        "supabaseApi": {
+          "id": "fjR1fto31pzu4fv5",
+          "name": "Supabase account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const text = ($input.first().json.message.text || \"\").toLowerCase();\n\n// Busca: \"nicsp 02\", \"nicsp-2\", \"norma 3\", \"la 4\", \"02\"\nconst m =\n  text.match(/nicsp[\\s-]*0*([1-9]\\d?)/i) ||\n  text.match(/norma[\\s-]*0*([1-9]\\d?)/i) ||\n  text.match(/\\bla[\\s-]*0*([1-9]\\d?)\\b/i) ||\n  text.match(/\\b([1-9]\\d?)(era|ra|da|ta)\\b/i);\n\n\nlet normaId = null;\n\nif (m) {\n  const n = parseInt(m[1], 10);\n  if (n >= 1 && n <= 99) {\n    normaId = `NICSP-${String(n).padStart(2, \"0\")}`;\n  }\n}\n\nreturn [{ json: { ...$json, norma_id: normaId } }];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -464,
+        128
+      ],
+      "id": "8d7840f5-91c2-4f40-a02a-91c0d1c61bfb",
+      "name": "Norma ID"
+    },
+    {
+      "parameters": {
+        "jsCode": "let q = ($input.first().json.message.text|| \"\").trim();\n\n// Si ya tengo una norma detectada\nif ($json.norma_id) {\n  q = `Resumen, objetivo, alcance y definiciones de ${$json.norma_id}`;\n}\n\nreturn [{ json: { ...$json, rag_query: q } }];\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        -352,
+        -176
+      ],
+      "id": "3a3dbb79-e0bf-4a0f-885f-5a802997682e",
+      "name": "Query"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://wqhqlwqnzbhmpvqbtbey.supabase.co/rest/v1/rpc/match_documents",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndxaHFsd3FuemJobXB2cWJ0YmV5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDMzMjMyMiwiZXhwIjoyMDg1OTA4MzIyfQ._TXdDkjpn5dPF-NO6cGeFviQMRGhztZ3ANCTUPJkXJw"
+            },
+            {
+              "name": "Authorization",
+              "value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndxaHFsd3FuemJobXB2cWJ0YmV5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MDMzMjMyMiwiZXhwIjoyMDg1OTA4MzIyfQ._TXdDkjpn5dPF-NO6cGeFviQMRGhztZ3ANCTUPJkXJw"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "match_count",
+              "value": "8"
+            },
+            {
+              "name": "query_embedding",
+              "value": "={{ $json.data[0].embedding }}"
+            },
+            {
+              "name": "filter",
+              "value": "={{ ({ \"norma_id\": $node[\"Norma ID\"].json.norma_id }) }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -112,
+        -176
+      ],
+      "id": "af1413f2-a19c-48ca-bcdd-e89b61e00c45",
+      "name": "HTTP Request1",
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.openai.com/v1/embeddings",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpBearerAuth",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "model",
+              "value": "text-embedding-3-small"
+            },
+            {
+              "name": "input",
+              "value": "={{ $json.rag_query }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        -240,
+        -48
+      ],
+      "id": "4898d763-3778-4f26-a108-cbebdde468d6",
+      "name": "Embed msg",
+      "credentials": {
+        "httpBearerAuth": {
+          "id": "Ji2FqaLyXhVQyjod",
+          "name": "Bearer Auth account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "\nconst rows = items.map(i => i.json);\n\nconst rag_context = rows.map((r, idx) => {\n  const m = r.metadata || {};\n  return [\n    `Chunk ${idx + 1}`,\n    `chunk_id: ${r.chunk_id || m.chunk_id || \"\"}`,\n    `norma_id: ${m.norma_id || \"\"}`,\n    `sección: ${m.seccion || \"\"}`,\n    `subsección: ${m.subseccion || \"\"}`,\n    `similarity: ${r.similarity ?? \"\"}`,\n    `texto:\\n${(r.text || \"\").trim()}`,\n  ].join(\"\\n\");\n}).join(\"\\n\\n---\\n\\n\");\n\n// 👇 Esto es lo que arregla tu error de paired item\nreturn [{\n  json: {\n    rag_rows: rows,\n    rag_context,\n  },\n  pairedItem: rows.map((_, i) => ({ item: i })),\n}];\n\n\n\n\n\n\n"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        16,
+        -32
+      ],
+      "id": "90a73e0b-08e9-40c9-ba6d-4ccfc0d5cd58",
+      "name": "Code in JavaScript"
+    },
+    {
+      "parameters": {
+        "updates": [
+          "message"
+        ],
+        "additionalFields": {}
+      },
+      "type": "n8n-nodes-base.telegramTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        -1056,
+        -224
+      ],
+      "id": "691ce8c1-ff5e-4cc2-a587-b2b7219b17fb",
+      "name": "Telegram Trigger",
+      "webhookId": "806a3429-8a19-45c2-83ea-7286dea9bf69",
+      "credentials": {
+        "telegramApi": {
+          "id": "8mvaAGAvnEwnFi4R",
+          "name": "Telegram account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "chatId": "={{ $('Telegram Trigger').item.json.message.chat.id }}",
+        "text": "={{ $json.output }}",
+        "additionalFields": {}
+      },
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [
+        576,
+        -144
+      ],
+      "id": "e83cf984-bd5b-4fcf-be31-a34a78652d37",
+      "name": "Send a text message",
+      "webhookId": "b26960f5-9b50-49a9-8530-47a667a3f161",
+      "credentials": {
+        "telegramApi": {
+          "id": "8mvaAGAvnEwnFi4R",
+          "name": "Telegram account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.rerankerCohere",
+      "typeVersion": 1,
+      "position": [
+        464,
+        288
+      ],
+      "id": "7098e060-5c4e-4e1c-940f-67f6729639df",
+      "name": "Reranker Cohere"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "e0558782-01f6-40e7-8f14-252a8cf5bf5e",
+              "name": "chat_id",
+              "value": "={{ $json.message.chat.id }}",
+              "type": "number"
+            },
+            {
+              "id": "3390911e-6e4f-47a0-bd4d-e7d8e538f744",
+              "name": "user_id",
+              "value": "={{ $json.message.from.id }}",
+              "type": "number"
+            },
+            {
+              "id": "94278da2-deef-4191-919a-2d99a3f0080b",
+              "name": "first_name",
+              "value": "={{ $json.message.chat.first_name }}",
+              "type": "string"
+            },
+            {
+              "id": "964c464d-f840-4468-b712-9f80aa208e2b",
+              "name": "last_name",
+              "value": "={{ $json.message.from.last_name }}",
+              "type": "string"
+            },
+            {
+              "id": "f545deb1-5538-4b97-b440-1eb00c4091d4",
+              "name": "language_code",
+              "value": "={{ $json.message.from.language_code }}",
+              "type": "string"
+            },
+            {
+              "id": "a8be5b23-8cfe-4f32-9c5a-06500e30de2a",
+              "name": "message_text",
+              "value": "={{ $json.message.text }}",
+              "type": "string"
+            },
+            {
+              "id": "daf31ae7-ef6f-4ad9-9746-0abdbec25f50",
+              "name": "message_id",
+              "value": "={{ $json.message.message_id }}",
+              "type": "number"
+            },
+            {
+              "id": "a4ae9a0d-2ccd-4988-8e67-86c1559763ef",
+              "name": "date_ts",
+              "value": "={{ $json.message.date }}",
+              "type": "number"
+            },
+            {
+              "id": "ab8b8991-a207-48c0-8697-f9160c7639e6",
+              "name": "chat_type",
+              "value": "={{ $json.message.chat.type }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -1056,
+        128
+      ],
+      "id": "cca42319-a51d-425d-ae8d-96f2476bdb49",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "select public.upsert_chat_session(\n  $1::text,\n  'telegram'::text,\n  $2::bigint,\n  $3::bigint,\n  $4::text,\n  $5::text,\n  $6::text,\n  $7::text,\n  to_timestamp($8::bigint)::timestamptz\n);\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.6,
+      "position": [
+        -848,
+        128
+      ],
+      "id": "28b5405d-a217-4cdf-ab17-0b7f7d014a4c",
+      "name": "Execute a SQL query",
+      "credentials": {
+        "postgres": {
+          "id": "N8QgmhUSYazsvrZh",
+          "name": "Postgres account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Embeddings OpenAI": {
+      "ai_embedding": [
+        [
+          {
+            "node": "Supabase Vector Store1",
+            "type": "ai_embedding",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Send a text message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Supabase Vector Store1": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Norma ID": {
+      "main": [
+        [
+          {
+            "node": "Query",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Query": {
+      "main": [
+        [
+          {
+            "node": "Embed msg",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request1": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Embed msg": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Telegram Trigger": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Reranker Cohere": {
+      "ai_reranker": [
+        [
+          {
+            "node": "Supabase Vector Store1",
+            "type": "ai_reranker",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Execute a SQL query",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Execute a SQL query": {
+      "main": [
+        [
+          {
+            "node": "Norma ID",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "d45195b7-7e7c-47ac-9f23-e798a4120678",
+  "meta": {
+    "instanceId": "81f721c25ceee81c86955f45c35d6d062165004a9e09a2c7ca76426f279f2871"
+  },
+  "id": "RsZ1EnLTxtBSgUPW",
+  "tags": []
+}
