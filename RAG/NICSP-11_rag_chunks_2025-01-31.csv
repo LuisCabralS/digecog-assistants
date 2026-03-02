@@ -1,0 +1,395 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP-11-P0001,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Alcance,,1,1,6,6,paragraph,"Un contratista que elabora y presenta estados financieros sobre la base contable de acumulación (o
+devengo) aplicará esta Norma para la contabilización de los contratos de construcción.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Alcance — párr. 1 — p. 6,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0002,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Alcance,,2,2,6,6,deleted,[Eliminado],NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Alcance — párr. 2 — p. 6,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0003,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Alcance,,3,3,6,6,deleted,[Eliminado],NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Alcance — párr. 3 — p. 6,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0004,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,,4,4,6,7,definition,"Los términos siguientes se usan en esta Norma, con los significados que a continuación se
+especifican:
+Contrato de construcción es un contrato, o un acuerdo vinculante similar, específico para la
+fabricación de un activo o un conjunto de activos que están íntimamente relacionados entre sí o son
+interdependientes en términos de su diseño, tecnología y función, o bien en relación con su último
+destino o utilización.
+Contratista es una entidad que realiza trabajos de construcción de obras conforme a un contrato de
+construcción.
+Contrato de margen sobre el costo o contrato basado en el costo es un contrato de construcción en
+el que se reembolsan al contratista los costos satisfechos por él o definidos previamente en el
+contrato y, en el caso de un contrato de características comerciales, un porcentaje adicional de esos
+costos o una cantidad fija, si procede.
+Contrato de precio fijo es un contrato de construcción en el que el contratista acuerda un precio fijo,
+o una cantidad fija por unidad de producto, que en algunos casos están sujetos a cláusulas de
+revisión si aumentan los costos.
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en
+dichas Normas, y se reproducen en el Glosario de Términos Definidos publicado por separado.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones — párr. 4 — p. 6-7,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 6, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0005,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,Contratos de Construcción,5,5,7,7,paragraph,"Un contrato de construcción, (los términos “contrato de construcción” y “contrato” son empleados
+indistintamente en el resto de esta Norma) puede acordarse para la fabricación de un solo activo, tal como
+un puente, un edificio, un dique, un oleoducto, una carretera, un barco o un túnel. Un contrato de
+construcción puede, asimismo, referirse a la construcción de varios activos que estén íntimamente
+relacionados entre sí o sean interdependientes en términos de su diseño, tecnología y función, o bien en
+relación con su último destino o utilización – ejemplos de tales contratos incluyen los de construcción de
+sistemas de abastecimiento de agua reticulares, refinerías u otros activos de infraestructura complejos.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones / Contratos de Construcción — párr. 5 — p. 7,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Contratos de Construcción"", ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0006,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,Contratos de Construcción,6,6,7,7,paragraph,"Para los propósitos de esta Norma, los contratos de construcción incluyen:
+(a) contratos de prestación de servicios que estén directamente relacionados con la construcción del
+activo, por ejemplo, los relativos a servicios de gestión del proyecto y arquitectónicos; y
+(b) contratos para la demolición o rehabilitación de activos, y la restauración del entorno tras la demolición
+de activos.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones / Contratos de Construcción — párr. 6 — p. 7,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Contratos de Construcción"", ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0007,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,Contratos de Construcción,7,7,7,7,paragraph,"A efectos de esta Norma, los contratos de construcción también incluyen todos los acuerdos que vinculen a
+las partes, aunque no tomen forma de contrato documentado. Por ejemplo, dos departamentos públicos
+pueden realizar un acuerdo formal para la construcción de un activo pero este acuerdo podría no constituir
+un acuerdo legal porque en esa jurisdicción los departamentos individuales no sean entidades jurídicamente
+independientes con poder para contratar. Sin embargo, siempre que el acuerdo confiera derechos y
+obligaciones a las partes, similares a las de un contrato, será un contrato de construcción a los efectos de
+esta Norma. Algunos de estos acuerdos vinculantes pueden ser (pero no se limitan únicamente a estos):
+una orden ministerial, una decisión del Consejo o Gabinete de ministros, una disposición legislativa (como
+un Acto Parlamentario), o un memorando de acuerdo.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones / Contratos de Construcción — párr. 7 — p. 7,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Contratos de Construcción"", ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0008,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,Contratos de Construcción,8,8,7,7,paragraph,"Las fórmulas que se utilizan en los contratos de construcción son variadas, pero a efectos de esta Norma
+se clasifican en contratos de precio fijo y contratos de margen sobre el costo o basados en el costo. Algunos
+contratos de construcción comerciales pueden contener características de ambos contratos de precio fijo y
+contratos de margen sobre el costo o basados en el costo, por ejemplo, en el caso de un contrato de margen
+sobre el costo con un precio máximo concertado. En tales circunstancias, el contratista necesita considerar
+todas las condiciones expuestas en los párrafos 31 y 32 para determinar cómo y cuándo reconocer los
+ingresos y los gastos del contrato.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones / Contratos de Construcción — párr. 8 — p. 7,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Contratos de Construcción"", ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0009,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,Contratos de Construcción,9,9,7,7,paragraph,"Los contratos de margen sobre costo y los basados en el costo abarcan tanto contratos comerciales como
+no comerciales. Un contrato comercial especificará que los ingresos para cubrir los costos de construcción
+del contratista y generar un margen de beneficio serán suministrados por las otras partes del contrato. Sin
+embargo, una entidad del sector público también puede realizar un contrato no comercial para construir un
+activo para otra entidad a cambio de un reembolso total o parcial de los costos que puede recibir de esa
+entidad o de otras partes. En algunos casos, la recuperación del costo puede abarcar pagos por la entidad
+receptora del activo y subvenciones concedidas para los fines específicos de construcción o fondos de otras
+partes.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones / Contratos de Construcción — párr. 9 — p. 7,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Contratos de Construcción"", ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0010,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,Contratos de Construcción,10,10,7,8,paragraph,"En muchas jurisdicciones, si una entidad del sector público construye activos para otra entidad del sector
+público, el costo de la actividad de construcción no es recuperado directamente del receptor del activo. Más
+bien, la actividad de construcción está financiada indirectamente (a) mediante una asignación general u
+otras distribuciones de fondos del gobierno general al contratista, o (b) por subvenciones de propósito
+general de agencias financiadoras terceras o de otros gobiernos. Este tipo de contrato se clasifica como
+contratos de precio fijo a los efectos de esta Norma.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones / Contratos de Construcción — párr. 10 — p. 7-8,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Contratos de Construcción"", ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 7, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0011,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Definiciones,Contratista,11,11,8,8,paragraph,"Un contratista es una entidad que toma parte en un contrato para construir estructuras, edificios, producir
+bienes, o prestar servicios según las especificaciones fijadas por otra entidad. El término “contratista” incluye
+un contratista general o principal, un subcontratista de un contratista principal o un director de construcción.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Definiciones / Contratista — párr. 11 — p. 8,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Contratista"", ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0012,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Combinación y segmentación de contratos de construcción,,12,12,8,8,paragraph,"Los requerimientos de esta Norma se aplican, generalmente, por separado para cada contrato de
+construcción. No obstante, en ciertas circunstancias y a fin de reflejar la esencia de un contrato o grupo de
+contratos, es necesario aplicar la Norma, por separado, a los componentes identificables de un contrato
+único, o a un grupo de contratos de forma conjunta.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Combinación y segmentación de contratos de construcción — párr. 12 — p. 8,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Combinación y segmentación de contratos de construcción"", ""subseccion"": null, ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0013,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Combinación y segmentación de contratos de construcción,,13,13,8,8,paragraph,"Si un contrato cubre varios activos, la construcción de cada uno de ellos se tratará como un contrato
+de construcción separado cuando:
+(a) se han presentado propuestas separadas para cada activo;
+(b) cada activo ha estado sujeto a negociación separada, y el contratista y el cliente han tenido la
+posibilidad de aceptar o rechazar esa parte del contrato relativa a cada activo; y
+(c) los costos e ingresos de cada activo pueden ser identificados.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Combinación y segmentación de contratos de construcción — párr. 13 — p. 8,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Combinación y segmentación de contratos de construcción"", ""subseccion"": null, ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0014,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Combinación y segmentación de contratos de construcción,,14,14,8,8,paragraph,"Un grupo de contratos, tanto con un único cliente como con varios clientes, se tratará como un único
+contrato de construcción cuando:
+(a) el grupo de contratos se negocia como un único paquete;
+(b) los contratos están tan íntimamente relacionados que son, efectivamente, parte de un único
+proyecto con un margen de beneficios genérico, si lo hay; y
+(c) los contratos se ejecutan simultáneamente, o en una secuencia continua.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Combinación y segmentación de contratos de construcción — párr. 14 — p. 8,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Combinación y segmentación de contratos de construcción"", ""subseccion"": null, ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0015,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Combinación y segmentación de contratos de construcción,,15,15,8,8,paragraph,"Un contrato puede contemplar a voluntad del cliente la construcción de un activo adicional, o puede
+ser modificado para incluir la construcción de un activo adicional. La construcción de este activo
+adicional se tratará como un contrato de construcción separado cuando:
+(a) el activo difiere significativamente en términos de diseño, tecnología o función del activo o
+activos cubiertos por el contrato original; o
+(b) el precio del activo se negocia sin tener como referencia el precio fijado en el contrato original.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Combinación y segmentación de contratos de construcción — párr. 15 — p. 8,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Combinación y segmentación de contratos de construcción"", ""subseccion"": null, ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0016,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Ingresos del contrato,,16,16,8,9,paragraph,"Los ingresos del contrato comprenderán:
+(a) el importe inicial del ingreso acordado en el contrato; y
+(b) cualquier modificación en el trabajo contratado, así como reclamaciones o pagos por
+incentivos, en la medida que:
+(i) sea probable que de los mismos resulte un ingreso; y
+(ii) siempre que sean susceptibles de medición1 fiable.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Ingresos del contrato — párr. 16 — p. 8-9,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos del contrato"", ""subseccion"": null, ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 8, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0017,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Ingresos del contrato,,17,17,9,9,paragraph,"Los ingresos del contrato se miden por el valor razonable de la contraprestación recibida o por recibir. Tanto
+la medición inicial como la valoración actual de los ingresos procedentes del contrato estarán afectadas por
+diversas incertidumbres que dependen del desenlace de hechos futuros. Las estimaciones necesitan, a
+menudo, ser revisadas a medida que tales hechos ocurren o se resuelven las incertidumbres. En un contrato
+de margen sobre el costo o basado en el costo, la cantidad inicial de ingresos puede no establecerse en el
+contrato. En su lugar, puede ser necesario hacer una estimación congruente con los términos y cláusulas
+del contrato, por ejemplo, en base a los costos previstos durante la duración del mismo.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Ingresos del contrato — párr. 17 — p. 9,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos del contrato"", ""subseccion"": null, ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0018,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Ingresos del contrato,,18,18,9,9,paragraph,"Además, los ingresos del contrato pueden aumentar o disminuir de un periodo a otro. Por ejemplo:
+(a) el contratista y el cliente pueden acordar modificaciones o reclamaciones que aumenten o disminuyan
+los ingresos del contrato, en un periodo posterior a aquél en que el contrato fue inicialmente pactado;
+(b) el importe de ingresos acordado en un contrato de precio fijo, margen sobre el costo o basado en el
+costo, puede aumentar como resultado de cláusulas de revisión de precios o de otro tipo;
+(c) la cuantía de los ingresos del contrato puede disminuir como consecuencia de penalizaciones por
+demoras, causadas por el contratista, en la terminación del contrato; o
+(d) cuando un contrato de precio fijo supone una cantidad constante por unidad de producto, los ingresos
+del contrato aumentan o disminuyen cuando el número de unidades se modifica al alza o a la baja
+respectivamente.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Ingresos del contrato — párr. 18 — p. 9,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos del contrato"", ""subseccion"": null, ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0019,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Ingresos del contrato,,19,19,9,9,paragraph,"Una modificación es una instrucción del cliente para cambiar el alcance del trabajo que se va a ejecutar bajo
+las condiciones del contrato. Una modificación puede llevar a aumentar o disminuir los ingresos del contrato.
+Ejemplos de modificaciones son los cambios en las especificaciones o diseño del activo, así como los
+cambios en la duración del contrato. Una modificación se incluye en los ingresos del contrato cuando:
+(a) es probable que el cliente apruebe la modificación, así como la cuantía de los ingresos que surgen de
+la modificación; y
+(b) el importe del ingreso puede ser medido con fiabilidad.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Ingresos del contrato — párr. 19 — p. 9,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos del contrato"", ""subseccion"": null, ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0020,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Ingresos del contrato,,20,20,9,9,paragraph,"Una reclamación es una cantidad que el contratista espera cobrar del cliente, o de un tercero, como
+reembolso de costos no incluidos en el precio del contrato. Una reclamación puede, por ejemplo, surgir por
+retrasos causados por el cliente, errores en las especificaciones o el diseño, y por modificaciones
+controvertidas en el trabajo contratado. La medición de las cantidades de ingresos que surgen de
+reclamaciones está sujeta a un alto nivel de incertidumbre y, frecuentemente, depende del desenlace de las
+pertinentes negociaciones. Por tanto, las reclamaciones únicamente se incluirán entre los ingresos del
+contrato cuando:
+(a) las negociaciones han alcanzado un avanzado estado de maduración, de tal manera que es probable
+que el cliente acepte la reclamación; y
+(b) el importe que es probable que acepte el cliente puede ser medido con fiabilidad.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Ingresos del contrato — párr. 20 — p. 9,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos del contrato"", ""subseccion"": null, ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0021,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Ingresos del contrato,,21,21,9,10,paragraph,"Los pagos por incentivos son cantidades adicionales reconocidas al contratista siempre que cumpla o
+sobrepase determinados niveles de ejecución. Por ejemplo, un contrato puede estipular el reconocimiento
+de un incentivo al contratista si termina el contrato en menos plazo del previsto. Los pagos por incentivos se
+incluirán entre los ingresos procedentes del contrato cuando:
+1
+La información será fiable si está libre de error material o sesgos, y los usuarios pueden confiar en que representa la imagen fiel de lo que
+pretende representar o puede razonablemente esperarse que represente. El párrafo FC16 de la NICSP 1 analiza el enfoque transitorio
+para la explicación de la fiabilidad.
+(a) el contrato está suficientemente avanzado, de manera que es probable que los niveles de ejecución
+especificados se cumplan o se sobrepasen; y
+(b) el importe derivado del pago por incentivos puede ser medido con fiabilidad.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Ingresos del contrato — párr. 21 — p. 9-10,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos del contrato"", ""subseccion"": null, ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 9, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0022,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Ingresos del contrato,,22,22,10,10,paragraph,"Los contratistas deben revisar todos los importes relativos al contrato de construcción que son pagados
+directamente a los subcontratistas por otras agencias financiadoras para determinar si cumplen la definición
+y los criterios de reconocimiento de ingresos para el contratista bajo los términos del contrato. Los importes
+que cumplen la definición y criterios de reconocimiento de ingreso deben ser contabilizados por el contratista
+del mismo modo que el resto de ingresos del contrato. Tales importes también deben ser reconocidos como
+costos del contrato (véase el párrafo 25). Las agencias financiadoras pueden ser agencias de ayuda nacional
+e internacional y bancos multilaterales y bilaterales de desarrollo.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Ingresos del contrato — párr. 22 — p. 10,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos del contrato"", ""subseccion"": null, ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0023,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Costos del contrato,,23,23,10,10,paragraph,"Los costos del contrato comprenderán:
+(a) los costos directamente relacionados con el contrato específico;
+(b) los costos atribuibles a la actividad del contrato en general y que pueden ser imputados al
+contrato de una manera sistemática y racional; y
+(c) cualesquiera otros costos que se puedan cargar al cliente de forma específica según los
+términos pactados en el contrato.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Costos del contrato — párr. 23 — p. 10,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Costos del contrato"", ""subseccion"": null, ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0024,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Costos del contrato,,24,24,10,10,paragraph,"Los costos que se relacionan directamente con un contrato específico incluyen:
+(a) costos de mano de obra en el lugar de la construcción, comprendiendo también la supervisión que allí
+se lleve a cabo;
+(b) costos de los materiales usados en la construcción;
+(c) depreciación de planta y equipo usados en el contrato;
+(d) costos de desplazamiento de planta, equipo y materiales desde y hasta la localización de la obra;
+(e) costos de alquiler de planta y equipo;
+(f) costos de diseño y asistencia técnica que estén directamente relacionados con el contrato;
+(g) costos estimados de los trabajos de rectificación y garantías, incluyendo los costos esperados de las
+garantías; y
+(h) reclamaciones de terceros.
+Los anteriores costos pueden disminuirse por cualquier ingreso eventual que no se haya incluido entre los
+del contrato, por ejemplo, ingresos por la venta de materiales sobrantes una vez acabado el contrato.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Costos del contrato — párr. 24 — p. 10,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Costos del contrato"", ""subseccion"": null, ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0025,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Costos del contrato,,25,25,10,10,paragraph,"Los contratistas deben revisar todos los importes relativos al contrato de construcción pagados directamente
+por los subcontratistas y que son reembolsados por agencias financiadoras terceras, para determinar si
+cumplen las condiciones de costos del contrato. Los importes que cumplan la definición y los criterios de
+reconocimiento de gastos del contrato deben ser contabilizados por el contratista del mismo modo que el
+resto de gastos del contrato. Los importes desembolsados por agencias financiadoras terceras que cumplan
+con la definición, y los criterios de reconocimiento, de ingresos deben ser contabilizados por el contratista
+del mismo modo que otros ingresos del contrato (véase el párrafo 22).",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Costos del contrato — párr. 25 — p. 10,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Costos del contrato"", ""subseccion"": null, ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0026,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Costos del contrato,,26,26,10,11,paragraph,"Los costos que pueden ser atribuibles a la actividad del contrato en general, y que pueden ser imputados a
+contratos específicos, incluyen:
+(a) seguros;
+(b) costos de diseño no relacionados directamente con ningún contrato específico; y
+(c) costos indirectos de construcción.
+Tales costos se distribuyen utilizando métodos que (a) son sistemáticos y racionales, y (b) se aplican de
+manera congruentes a todos los costos que tienen similares características. La distribución se basa en el
+nivel normal de actividad de construcción. Los costos indirectos de construcción comprenden costos tales
+como los de preparación y procesamiento de la nómina del personal dedicado a la construcción. Los costos
+que pueden atribuirse a la actividad del contrato en general, y que pueden ser distribuidos a los contratos
+específicos, incluyen también los costos por intereses, cuando el contratista adopte el tratamiento alternativo
+permitido en la NICSP 5, Costos por Préstamos.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Costos del contrato — párr. 26 — p. 10-11,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Costos del contrato"", ""subseccion"": null, ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 10, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0027,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Costos del contrato,,27,27,11,11,paragraph,"Entre los costos que son específicamente atribuibles al cliente bajo los términos del contrato se pueden
+incluir algunos costos generales de administración y costos de desarrollo cuyo reembolso esté especificado
+en los términos del contrato.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Costos del contrato — párr. 27 — p. 11,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Costos del contrato"", ""subseccion"": null, ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0028,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Costos del contrato,,28,28,11,11,paragraph,"Los costos que no puedan ser atribuidos a la actividad del contrato o no puedan ser distribuidos a un contrato
+se excluyen de los costos del contrato de construcción. Tales costos incluyen:
+(a) los costos generales de administración para los que no se haya especificado ningún tipo de reembolso
+en el contrato;
+(b) los costos de venta;
+(c) los costos de investigación y desarrollo cuyo reembolso no esté especificado en el contrato; y
+(d) la parte de la cuota de depreciación que corresponde a ociosidad de planta y equipo que no han sido
+utilizados en un contrato específico.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Costos del contrato — párr. 28 — p. 11,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Costos del contrato"", ""subseccion"": null, ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0029,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Costos del contrato,,29,29,11,11,paragraph,"Los costos del contrato comprenden los costos atribuibles a un contrato desde la fecha en que éste se
+convierte en firme hasta el final de la ejecución del contrato. No obstante, los costos que se relacionan
+directamente con un contrato y que se han incurrido en su negociación pueden ser incluidos como parte de
+los costos del contrato si pueden ser identificados por separado y medidos con fiabilidad y es probable que
+el contrato llegue a obtenerse. Cuando los costos incurridos en la negociación de un contrato se reconozcan
+como un gasto del periodo en que han sido incurridos no podrán incluirse en el costo del contrato cuando
+éste se obtenga en un periodo posterior.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Costos del contrato — párr. 29 — p. 11,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Costos del contrato"", ""subseccion"": null, ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0030,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,30,30,11,11,paragraph,"Cuando el desenlace de un contrato de construcción pueda ser estimado con fiabilidad, los ingresos
+y los costos asociados con el mismo deben ser reconocidos como ingresos o gastos
+respectivamente con referencia al estado de terminación de la actividad contractual a la fecha de
+presentación. Un resultado negativo (desahorro) esperado en un contrato de construcción al que sea
+aplicable el párrafo 44 debe ser reconocido inmediatamente como un gasto de acuerdo con el párrafo 44.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 30 — p. 11,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0031,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,31,31,11,12,paragraph,"En el caso de contratos a precio fijo, el desenlace del contrato de construcción puede ser estimado
+con fiabilidad cuando se den la totalidad de las siguientes condiciones:
+(a) los ingresos totales del contrato, si hay, pueden medirse con fiabilidad;
+(b) es probable que la entidad obtenga los beneficios económicos o potencial de servicio
+derivados del contrato;
+(c) tanto los costos del contrato que faltan para la terminación del mismo como el grado de
+terminación del contrato a fecha de presentación puedan ser medidos con fiabilidad; y
+(d) los costos del contrato atribuibles al mismo pueden ser claramente identificados y medidos
+con fiabilidad, de manera que los costos reales incurridos en el contrato pueden ser
+comparados con estimaciones previas.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 31 — p. 11-12,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 11, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0032,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,32,32,12,12,paragraph,"En el caso de un contrato de margen sobre el costo o contrato basado en el costo, el desenlace del
+contrato de construcción puede ser estimado con fiabilidad cuando se den la totalidad de las
+siguientes condiciones:
+(a) es probable que la entidad obtenga los beneficios económicos o potencial de servicio
+derivados del contrato; y
+(b) los costos del contrato atribuibles al mismo, sean o no específicamente reembolsables, puedan
+ser claramente identificados y medidos con fiabilidad.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 32 — p. 12,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0033,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,33,33,12,12,paragraph,"El reconocimiento de ingresos y gastos por referencia al grado de realización del contrato es, a menudo,
+denominado método del porcentaje de terminación. Según este método, los ingresos del contrato se
+comparan con los costos del mismo incurridos en la consecución del grado de realización en que se
+encuentre, con lo que se revelará el importe de los ingresos, de los gastos y del resultado (ahorro o
+desahorro) que pueden ser atribuidos a la porción del trabajo ya completada. Este método suministra
+información útil sobre la evolución de la actividad del contrato y el rendimiento durante un periodo.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 33 — p. 12,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0034,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,34,34,12,12,paragraph,"Según el método del porcentaje de terminación, los ingresos del contrato se reconocen como tales en el
+estado de rendimiento financiero, a lo largo de los periodos sobre los que se informa en los que se lleve a
+cabo el trabajo. Los costos del contrato se reconocen normalmente como un gasto en el estado de
+rendimiento financiero del periodo en el que se ejecuta el trabajo con el que están relacionados. No obstante,
+cuando se estima al inicio del contrato que los costos del mismo serán recuperados por completo por las
+partes asociadas al contrato de construcción, cualquier exceso esperado de los costos totales del contrato
+sobre los ingresos totales derivados del mismo se reconocerá como un gasto inmediatamente de acuerdo
+con el párrafo 44.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 34 — p. 12,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0035,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,35,35,12,12,paragraph,"Un contratista puede haber incurrido en costos del contrato que se relacionen con la actividad futura del
+mismo. Tales costos se registran como un activo, siempre que sea probable que los mismos sean
+recuperables. Estos costos representan cantidades debidas por el cliente y a menudo son clasificados como
+trabajo en curso del contrato.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 35 — p. 12,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0036,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,36,36,12,12,paragraph,"El desenlace de un contrato de construcción podrá únicamente estimarse con fiabilidad si es probable que
+la entidad obtenga los beneficios económicos o potencial de servicio asociados con el mismo. No obstante,
+cuando surgiese incertidumbre respecto al cobro de un importe ya incluido en los ingresos del contrato, y ya
+reconocida en el estado de rendimiento financiero, el saldo incobrable o el importe cuya recuperabilidad
+haya dejado de ser probable, se reconocerá como un gasto del periodo, en lugar de ser tratada como un
+ajuste en el importe de los ingresos del contrato.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 36 — p. 12,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0037,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,37,37,12,13,paragraph,"Una entidad es, generalmente, capaz de hacer estimaciones fiables tras negociar un contrato en el que se
+establecen:
+(a) los derechos ejecutables de cada una de las partes contratantes sobre el activo a construir;
+(b) la contrapartida a satisfacer, cuando proceda; y
+(c) la forma y plazos de liquidación.
+Normalmente, también es necesario para la entidad disponer de un sistema presupuestario financiero y un
+sistema de información que sean efectivos. La entidad revisa y, si es necesario, corrige las estimaciones de
+los ingresos y costos del contrato a medida que éste se va ejecutando. La necesidad de que tales revisiones
+se lleven a cabo no indica necesariamente que el desenlace del contrato no pueda estimarse fiablemente.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 37 — p. 12-13,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 12, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0038,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,38,38,13,13,paragraph,"El grado de realización de un contrato puede determinarse de muchas formas. La entidad utilizará el método
+que mida de forma fiable el trabajo ejecutado. Dependiendo de la naturaleza del contrato, los métodos
+pueden incluir:
+(a) la proporción de los costos del contrato incurridos en el trabajo ya realizado hasta la fecha, en relación
+con los costos totales estimados para el contrato;
+(b) la inspección de los trabajos ejecutados; o
+(c) la proporción física completada del trabajo contratado.
+Los anticipos y los pagos recibidos del cliente a menudo no reflejan la proporción del trabajo ejecutado.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 38 — p. 13,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0039,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,39,39,13,13,paragraph,"Cuando se determina el grado de realización por referencia a los costos incurridos hasta la fecha, sólo los
+costos del contrato que reflejan el trabajo efectivamente ejecutado se incluyen en los costos incurridos hasta
+dicha fecha. Ejemplos de costos del contrato que se excluyen son los siguientes:
+(a) costos que se relacionen con la actividad futura derivada del contrato, tales como los costos de
+materiales que se hayan entregado en la obra o se hayan dejado en sus proximidades para ser usados
+en la misma que, sin embargo, no se han instalado, usado o aplicado todavía en la ejecución, salvo
+si tales materiales se han fabricado especialmente para el contrato; y
+(b) pagos anticipados a los subcontratistas, por causa de los trabajos que éstos ejecutarán bajo la
+subcontratación.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 39 — p. 13,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0040,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,40,40,13,13,paragraph,"Cuando el desenlace de un contrato de construcción no pueda ser estimado con fiabilidad:
+(a) los ingresos deben ser reconocidos sólo en la medida en que sea probable recuperar los
+costos incurridos por causa del contrato; y
+(b) los costos del contrato deben reconocerse como un gasto del periodo en que se incurran.
+Un resultado negativo (desahorro) esperado en un contrato de construcción al que sea aplicable el
+párrafo 44 debe ser reconocido inmediatamente como un gasto de acuerdo con el párrafo 44.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 40 — p. 13,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0041,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,41,41,13,13,paragraph,"A menudo, durante los primeros estadios de ejecución de un contrato, no puede estimarse con fiabilidad el
+desenlace final del mismo. No obstante, puede ser probable que la entidad llegue a recuperar los costos del
+contrato incurridos. Por tanto, los ingresos del contrato se reconocen sólo en la medida de los costos
+incurridos que se esperan recuperar. Cuando el desenlace del contrato no se pueda estimar con fiabilidad,
+no se reconocen resultados (ahorro o desahorro). No obstante, incluso cuando el desenlace no pueda ser
+estimado con fiabilidad, puede ser probable que los costos totales del contrato vayan a exceder a los
+ingresos totales del mismo. En tal caso, cualquier exceso esperado de los costos totales sobre los ingresos
+totales del contrato se reconocerá inmediatamente como gasto de acuerdo con el párrafo 44.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 41 — p. 13,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0041"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 41, ""parrafo_fin"": 41, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0042,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,42,42,13,14,paragraph,"Si los costos del contrato que iban a ser reembolsados por las partes del contrato no es probable que sean
+recuperados, se reconocerán como un gasto inmediatamente. Ejemplos de circunstancias en las que tal
+recuperabilidad de los costos del contrato puede no ser probable, y en los que los costos del contrato pueden
+necesitar ser reconocidos de inmediato como gasto, incluyen contratos donde:
+(a) no se puede forzar plenamente su cumplimiento, esto es, que su validez está seriamente cuestionada;
+(b) la terminación está sujeta al desenlace de una sentencia o un acto legislativo pendiente;
+(c) están implicados derechos de propiedad que serán probablemente anulados o expropiados;
+(d) el cliente es incapaz de asumir sus obligaciones; o
+(e) el contratista es incapaz de terminar el contrato o cumplir sus obligaciones derivadas del mismo.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 42 — p. 13-14,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 42, ""parrafo_fin"": 42, ""page_ini_pdf"": 13, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0043,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de ingresos y gastos del contrato,,43,43,14,14,paragraph,"Cuando desaparezcan las incertidumbres que impedían estimar con fiabilidad el desenlace del
+contrato, los ingresos y los gastos asociados con el contrato de construcción deben reconocerse de
+acuerdo con el párrafo 30, en lugar de hacerlo según lo establecido en el párrafo 40.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de ingresos y gastos del contrato — párr. 43 — p. 14,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0043"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de ingresos y gastos del contrato"", ""subseccion"": null, ""parrafo_ini"": 43, ""parrafo_fin"": 43, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0044,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de resultados negativos (desahorros) esperados,,44,44,14,14,paragraph,"Con respecto a los contratos de construcción en los que se pretende, al principio del contrato, que
+los costos del mismo sean totalmente recuperados por las partes del contrato de construcción,
+cuando sea probable que los costos totales del contrato vayan a exceder de los ingresos totales
+derivados del mismo, los resultados negativos (desahorro) esperados deben reconocerse
+inmediatamente como gasto.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de resultados negativos (desahorros) esperados — párr. 44 — p. 14,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0044"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de resultados negativos (desahorros) esperados"", ""subseccion"": null, ""parrafo_ini"": 44, ""parrafo_fin"": 44, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0045,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de resultados negativos (desahorros) esperados,,45,45,14,14,paragraph,"Las entidades del sector público pueden llevar a cabo contratos de construcción que especifiquen que el
+ingreso que pretende cubrir los costos de construcción será provisto por las otras partes del contrato. Esto
+puede ocurrir, por ejemplo, cuando:
+(a) departamentos gubernamentales y agencias que dependen en gran medida de asignaciones o de
+subvenciones estatales para financiar sus operaciones, están también autorizados para contratar con
+entidades del sector público comercial o entidades del sector privado para la construcción de activos
+en régimen comercial o de recuperación total de costos; o
+(b) departamentos gubernamentales y agencias que realizan transacciones entre ellas de forma
+independiente o en régimen comercial como puede ocurrir bajo un modelo “comprador-proveedor” o
+modelos similares de gobierno.
+En estos casos, cualquier resultado negativo (desahorro) esperado en un contrato de construcción se
+reconocerá inmediatamente de acuerdo con el párrafo 44.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de resultados negativos (desahorros) esperados — párr. 45 — p. 14,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0045"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de resultados negativos (desahorros) esperados"", ""subseccion"": null, ""parrafo_ini"": 45, ""parrafo_fin"": 45, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0046,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de resultados negativos (desahorros) esperados,,46,46,14,14,paragraph,"Como se indica en el párrafo 9, en algunos casos una entidad del sector público puede realizar un contrato
+de construcción sin llegar a recuperar el importe total de costos de las otras partes del contrato. En estos
+casos, los fondos que exceden de lo especificado en el contrato de construcción serán cubiertos con
+asignaciones u otras subvenciones gubernamentales al contratista, o con subvenciones generales de
+entidades financiadoras terceras o de otros gobiernos. Los requerimientos del párrafo 44 no se aplicarán a
+estos contratos de construcción.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de resultados negativos (desahorros) esperados — párr. 46 — p. 14,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0046"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de resultados negativos (desahorros) esperados"", ""subseccion"": null, ""parrafo_ini"": 46, ""parrafo_fin"": 46, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0047,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de resultados negativos (desahorros) esperados,,47,47,14,14,paragraph,"Para determinar el importe de cualquier resultado negativo (desahorro) según el párrafo 44, los ingresos y
+costos totales del contrato pueden incluir pagos hechos directamente a los subcontratistas por agencias
+financiadoras terceras de acuerdo con los párrafos 22 y 25.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de resultados negativos (desahorros) esperados — párr. 47 — p. 14,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0047"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de resultados negativos (desahorros) esperados"", ""subseccion"": null, ""parrafo_ini"": 47, ""parrafo_fin"": 47, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0048,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Reconocimiento de resultados negativos (desahorros) esperados,,48,48,14,14,paragraph,"La cuantía de este resultado negativo (desahorro) se determina con independencia de:
+(a) si los trabajos del contrato han comenzado o no;
+(b) el grado de realización de la actividad del contrato; o
+(c) el importe de los resultados positivos (ahorros) que se esperan obtener en otros contratos comerciales
+de construcción que no sean tratados como un único contrato de construcción de acuerdo con el
+párrafo 14.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Reconocimiento de resultados negativos (desahorros) esperados — párr. 48 — p. 14,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0048"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento de resultados negativos (desahorros) esperados"", ""subseccion"": null, ""parrafo_ini"": 48, ""parrafo_fin"": 48, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0049,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Cambios en las estimaciones,,49,49,14,15,paragraph,"El método del porcentaje de terminación se aplicará acumulativamente en cada periodo para el cual se
+presenta información a las estimaciones actuales de ingresos y costos del contrato. Por tanto, el efecto de
+un cambio en las estimaciones de los ingresos o costos del contrato, o el efecto de un cambio en el
+desenlace esperado de un contrato, se contabilizarán como un cambio en una estimación contable (véase
+la NICSP 3, Políticas Contables, Cambios en las Estimaciones Contables y Errores). Las estimaciones
+revisadas se usarán en la determinación de los importes de ingresos y gastos reconocidos en el estado de
+rendimiento financiero, tanto en el periodo en que tiene lugar el cambio como en los periodos subsiguientes.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Cambios en las estimaciones — párr. 49 — p. 14-15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0049"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Cambios en las estimaciones"", ""subseccion"": null, ""parrafo_ini"": 49, ""parrafo_fin"": 49, ""page_ini_pdf"": 14, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0050,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Información a revelar,,50,50,15,15,paragraph,"Una entidad revelará:
+(a) el importe de los ingresos del contrato reconocidos como tales en el periodo;
+(b) los métodos utilizados para determinar los ingresos del contrato reconocidos en el periodo; y
+(c) los métodos usados para determinar el grado de realización de los contratos en curso.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Información a revelar — párr. 50 — p. 15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0050"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0051,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Información a revelar,,51,51,15,15,paragraph,"Una entidad debe revelar, para los contratos en curso en la fecha de presentación de los estados
+financieros, cada una de las siguientes informaciones:
+(a) la cantidad acumulada de costos incurridos y de resultados positivos (ahorros) [menos los
+resultados negativos (desahorros) reconocidos] hasta la fecha;
+(b) la cuantía de los anticipos recibidos; y
+(c) la cuantía de las retenciones.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Información a revelar — párr. 51 — p. 15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0051"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0052,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Información a revelar,,52,52,15,15,paragraph,"Las retenciones son cantidades procedentes de las certificaciones hechas a los clientes que no se pagan
+hasta la satisfacción de las condiciones especificadas en el contrato para su pago, o bien hasta que los
+defectos de la obra han sido rectificados. Las certificaciones son los importes de ingresos del contrato
+facturados por el trabajo ejecutado bajo el contrato, hayan sido pagadas por el cliente o no. Los anticipos
+son cantidades recibidas por el contratista antes de que el trabajo haya sido ejecutado.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Información a revelar — párr. 52 — p. 15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0052"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 52, ""parrafo_fin"": 52, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0053,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Información a revelar,,53,53,15,15,paragraph,"Una entidad presentará:
+(a) como un activo las cantidades en términos brutos adeudadas por los clientes por el trabajo
+contratado; y
+(b) como un pasivo las cantidades en términos brutos adeudadas a los clientes por el trabajo
+contratado.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Información a revelar — párr. 53 — p. 15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0053"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 53, ""parrafo_fin"": 53, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0054,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Información a revelar,,54,54,15,15,paragraph,"La cantidad bruta adeudada por los clientes por el trabajo contratado es la diferencia entre:
+(a) los costos incurridos más los resultados positivos (ahorro) reconocidos; menos
+(b) la suma de los resultados negativos (desahorro) reconocidos y las certificaciones para todos los
+contratos en curso en los que los costos incurridos más los resultados positivos (ahorro) reconocidos
+que vayan a ser recuperados a través de los ingresos derivados del contrato [menos los
+correspondientes resultados negativos (desahorro) reconocidos] excedan las certificaciones.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Información a revelar — párr. 54 — p. 15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0054"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 54, ""parrafo_fin"": 54, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0055,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Información a revelar,,55,55,15,15,paragraph,"La cantidad bruta adeudada a los clientes por el trabajo contratado es la diferencia entre:
+(a) los costos incurridos más los resultados positivos (ahorro) reconocidos; menos
+(b) la suma de los resultados negativos (desahorro) reconocidos y las certificaciones para todos los
+contratos en curso en los que las certificaciones excedan los costos incurridos más los resultados
+positivos (ahorro) reconocidos que vayan a ser recuperados a través de los ingresos derivados del
+contrato [menos los correspondientes resultados negativos (desahorro) reconocidos].",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Información a revelar — párr. 55 — p. 15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0055"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 55, ""parrafo_fin"": 55, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0056,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Información a revelar,,56,56,15,15,paragraph,"Las guías sobre información a revelar sobre activos y pasivos contingentes se encuentran en la NICSP 19
+Provisiones, Pasivos Contingentes y Activos Contingentes. Pasivos contingentes y activos contingentes
+pueden surgir de circunstancias tales como los costos derivados de garantías, reclamaciones, multas u otras
+pérdidas eventuales.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Información a revelar — párr. 56 — p. 15,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0056"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 56, ""parrafo_fin"": 56, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0057,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Fecha de vigencia,,57,57,16,16,paragraph,"Una entidad aplicará esta Norma para los estados financieros anuales que cubran periodos que
+comiencen a partir del 1 de julio de 2002. Se aconseja su aplicación anticipada. Si una entidad aplica
+esta Norma en periodos que comiencen antes del 1 de julio de 2002, se revelará este hecho.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Fecha de vigencia — párr. 57 — p. 16,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0057"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 57, ""parrafo_fin"": 57, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0057A,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Fecha de vigencia,,57,57,16,16,paragraph,"La NICSP 33, Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector
+Público de Base de Acumulación (o devengo) (NICSP), emitida en enero de 2015, modificó el párrafo 58.
+Una entidad debe aplicar esa modificación para los estados financieros anuales que cubran
+periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación anticipada. Si una
+entidad aplica la NICSP 33 en un periodo que comience antes del 1 de enero de 2017, la modificación
+también se aplicará para dicho periodo.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Fecha de vigencia — párr. 57A — p. 16,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0057A"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 57, ""parrafo_fin"": 57, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0057B,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Fecha de vigencia,,57,57,16,16,paragraph,"Los párrafos 2 y 3 fueron eliminados y el párrafo 45 modificado por La Aplicabilidad de las NICSP,
+emitido en abril de 2016. Una entidad aplicará esas modificaciones para los estados financieros
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja su
+aplicación anticipada. Si una entidad aplica las modificaciones para un periodo que comience antes
+del 1 de enero de 2018, deberá revelar este hecho.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Fecha de vigencia — párr. 57B — p. 16,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0057B"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 57, ""parrafo_fin"": 57, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"
+NICSP-11-P0058,NICSP,NICSP-11,CONTRATOS DE CONSTRUCCIÓN,2025-01-31,es,Fecha de vigencia,,58,58,16,16,paragraph,"Cuando una entidad adopte las NICSP de contabilidad de acumulación (o devengo), tal como se definen en
+la NICSP 33, Adopción por Primera Vez de las Normas Internacionales de Contabilidad del Sector Público
+(NICSP), a efectos de información financiera con posterioridad a esta fecha de vigencia, esta Norma se
+aplicará a los estados financieros anuales de la entidad que cubran periodos que comiencen a partir de la
+fecha de adopción de las NICSP.",NICSP-11 — CONTRATOS DE CONSTRUCCIÓN — Fecha de vigencia — párr. 58 — p. 16,NICSP 11.pdf,"{""chunk_id"": ""NICSP-11-P0058"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-11"", ""norma_titulo"": ""CONTRATOS DE CONSTRUCCIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 58, ""parrafo_fin"": 58, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 11.pdf""}"

@@ -1,0 +1,332 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP-09-P0001,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,1,1,6,6,paragraph,"Una entidad que prepare y presente estados financieros bajo la base contable de acumulación (o
+devengo) debe aplicar esta Norma en la contabilización de ingresos procedentes de las siguientes
+transacciones y sucesos:
+(a) la prestación de servicios;
+(b) la venta de bienes; y
+(c) el uso, por parte de terceros, de activos de la entidad que produzcan intereses, regalías y
+dividendos o distribuciones similares.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 1 — p. 6,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0002,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,2,2,6,6,deleted,[Eliminado],NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 2 — p. 6,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0003,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,3,3,6,6,deleted,[Eliminado],NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 3 — p. 6,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0004,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,4,4,6,6,paragraph,Esta Norma no trata los ingresos procedentes de transacciones sin contraprestación.,NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 4 — p. 6,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0005,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,5,5,6,6,paragraph,"Las entidades del sector público pueden obtener ingresos tanto de transacciones con contraprestación como
+de transacciones sin contraprestación. Una transacción con contraprestación es aquella en la que la entidad
+recibe activos o servicios, o cancela obligaciones, y da directamente un valor aproximadamente igual
+(mayoritariamente en forma de productos, servicios o uso de activos) a la otra parte del intercambio.
+Ejemplos de transacciones con contraprestación comprenden:
+(a) la compra o venta de bienes o servicios; o
+(b) el alquiler de propiedades, planta y equipo, a tasas de mercado.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 5 — p. 6,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0006,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,6,6,6,7,paragraph,"Para distinguir los ingresos con contraprestación de los que no lo son, debe tenerse en cuenta la esencia
+más que la forma de la transacción. Ejemplos de transacciones sin contraprestación incluyen los ingresos
+que provienen del uso de los poderes soberanos (por ejemplo, impuestos directos o indirectos, sanciones,
+y multas), subvenciones y donaciones.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 6 — p. 6-7,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 6, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0007,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,7,7,7,7,paragraph,"La prestación de servicios implica, normalmente, la ejecución, por parte de la entidad, de un conjunto de
+tareas acordadas, con una duración determinada en el tiempo. Los servicios pueden prestarse en el
+transcurso de un único periodo o a lo largo de varios periodos contables. Ejemplos de servicios prestados
+por entidades del sector público por los cuales se reciben normalmente ingresos a cambio pueden incluir la
+provisión de vivienda, suministro de agua corriente, gestión de peaje de carreteras, y la gestión de pagos de
+transferencia. Algunos acuerdos para la prestación de servicios se relacionan directamente con contratos
+de construcción, por ejemplo, aquellos que realizan los arquitectos o la gerencia de los proyectos. Los
+ingresos derivados de tales contratos no son abordados en esta Norma, sino que se contabilizan de acuerdo
+con los requisitos que, para los contratos de construcción, se especifican en la NICSP 11, Contratos de
+Construcción.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 7 — p. 7,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0008,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,8,8,7,7,paragraph,"El término ""bienes"" incluye (a) los producidos por la entidad para ser vendidos, tales como publicaciones, y
+(b) los bienes comprados para la reventa, como las mercaderías o los terrenos u otras propiedades que se
+tienen para revenderlas a terceros.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 8 — p. 7,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0009,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,9,9,7,7,paragraph,"El uso por parte de terceros de activos de la entidad da lugar a ingresos que adoptan la forma de:
+(a) intereses – cargos por el uso de efectivo o equivalentes al efectivo o por el mantenimiento de
+deudas para con la entidad;
+(b) regalías – cargos por el uso de activos a largo plazo de la entidad, tales como patentes, marcas,
+derechos de autor o aplicaciones informáticas; y
+(c) dividendos o distribuciones similares – distribuciones de resultados positivos (ahorro) a los
+poseedores de participaciones en el patrimonio de la entidad, en proporción al porcentaje que
+supongan sobre una clase particular del capital.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 9 — p. 7,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0010,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Alcance,,10,10,7,7,paragraph,"Esta Norma no trata los ingresos procedentes de:
+(a) contratos de arrendamiento financiero (véase la NICSP 13, Arrendamientos);
+(b) dividendos o distribuciones similares producto de inversiones que se contabilizan por el método de
+la participación (véase la NICSP 36, Inversiones en Asociadas y Negocios Conjuntos);
+(c) ganancias por la venta de propiedades, planta y equipo (las cuales son tratadas en la NICSP 45,
+Propiedades, Planta y Equipo);
+(d) contratos de seguro realizados dentro del alcance de la correspondiente norma de contabilidad
+nacional o internacional que trata los contratos de seguro;
+(e) cambios en el valor razonable de activos financieros y pasivos financieros, o su disposición (véase la
+NICSP 41, Instrumentos Financieros);
+(f) cambios en el valor de otros activos corrientes;
+(g) reconocimiento inicial y cambios en el valor razonable de los activos biológicos relacionados con la
+actividad agrícola (véase la NICSP 27, Agricultura);
+(h) reconocimiento inicial de los productos agrícolas (véase la NICSP 27); y
+(i) extracción de minerales en yacimientos.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Alcance — párr. 10 — p. 7,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0011,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Definiciones,,11,11,8,8,definition,"Los términos siguientes se usan en esta Norma, con los significados que a continuación se
+especifican:
+Transacciones con contraprestación son transacciones en las cuales una entidad recibe activos o
+servicios, o cancela pasivos, y entrega a cambio un valor aproximadamente igual (principalmente en
+forma de efectivo, bienes, servicios o uso de los activos) directamente a otra entidad.
+Transacciones sin contraprestación son transacciones que no son transacciones con
+contraprestación. En una transacción sin contraprestación, una entidad, o bien recibe valor de otra
+entidad sin entregar directamente un valor aproximadamente igual a cambio, o bien entrega valor a
+otra entidad sin recibir directamente un valor aproximadamente igual a cambio.
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en
+dichas Normas, y se reproducen en el Glosario de términos definidos publicado por separado.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Definiciones — párr. 11 — p. 8,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0012,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Ingresos,,12,12,8,8,paragraph,"Los ingresos comprenden solamente las entradas brutas de beneficios económicos o potencial de servicios
+recibidos y por recibir, por parte de la entidad por su cuenta propia. Las cantidades recibidas como agente
+del gobierno u otra organización gubernamental o por cuenta de terceros; por ejemplo, la recaudación de
+los pagos de teléfono y electricidad por la oficina de correos por cuenta de entidades que realicen estos
+servicios, no son beneficios económicos o potencial de servicio que fluyen a la entidad y no resultan en un
+incremento del activo o una disminución del pasivo. Por tanto, tales entradas se excluirán de los ingresos.
+De la misma forma, en una relación de agencia, las entradas de flujos de efectivo brutas de beneficios
+económicos o potencial de servicio incluyen importes recibidos por cuenta del principal que no suponen
+aumentos en los activos netos/patrimonio de la entidad. Los importes recibidos por cuenta del principal no
+son ingresos. Por el contrario, ingresos son los importes de toda comisión recibida o por recibir por la
+recaudación o gestión de las entradas de flujos de efectivo brutas.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Ingresos — párr. 12 — p. 8,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos"", ""subseccion"": null, ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0013,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Ingresos,,13,13,8,8,paragraph,"Las entradas de financiación, principalmente los préstamos, no cumplen con la definición de ingresos porque
+(a) implican un cambio del mismo importe tanto en los pasivos como en los activos y, (b) no tienen ningún
+impacto en los activos netos/patrimonio. Las entradas de financiación se reflejan directamente en el estado
+de situación financiera y se suman a los saldos de activos y pasivos.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Ingresos — párr. 13 — p. 8,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Ingresos"", ""subseccion"": null, ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0014,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Medición de los ingresos,,14,14,8,8,paragraph,"La medición de los ingresos debe hacerse utilizando el valor razonable de la contraprestación,
+recibida o por recibir, derivada de los mismos.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Medición de los ingresos — párr. 14 — p. 8,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los ingresos"", ""subseccion"": null, ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0015,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Medición de los ingresos,,15,15,8,8,paragraph,"El importe de los ingresos derivados de una transacción se determina, normalmente, por acuerdo entre la
+entidad y el comprador o el usuario del activo o el servicio. Se medirán al valor razonable de la
+contraprestación, recibida o por recibir, teniendo en cuenta el importe de cualquier descuento, bonificación
+o rebaja comercial que la entidad pueda otorgar.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Medición de los ingresos — párr. 15 — p. 8,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los ingresos"", ""subseccion"": null, ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0016,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Medición de los ingresos,,16,16,8,9,paragraph,"En la mayoría de los casos, la contraprestación revestirá la forma de efectivo o equivalentes al efectivo y el
+ingreso se mide por la cantidad de efectivo o equivalentes al efectivo, recibidos o por recibir. No obstante,
+cuando la entrada de efectivo o de equivalentes al efectivo se difiera en el tiempo, el valor razonable de la
+contraprestación puede ser menor que la cantidad nominal de efectivo cobrada o por cobrar. Por ejemplo,
+una entidad puede proporcionar un crédito libre de intereses al comprador o acordar la recepción de un
+efecto comercial cargando una tasa de interés menor que la del mercado como contraprestación de la venta
+de bienes. Cuando el acuerdo constituye efectivamente una transacción financiera, el valor razonable de la
+contraprestación se determinará por medio del descuento de todos los cobros futuros, utilizando una tasa
+de interés imputada para la actualización. La tasa de interés imputada a la operación es la que mejor se
+pueda determinar entre:
+(a) o bien, la tasa vigente para un instrumento similar cuya calificación crediticia sea parecida a la que
+tiene el cliente que lo acepta; o
+(b) o bien, la tasa de interés que iguala el nominal del instrumento utilizado, debidamente descontado,
+al precio al contado de los bienes o servicios vendidos.
+La diferencia entre el valor razonable y el importe nominal de la contraprestación se reconoce como ingreso
+financiero por intereses de acuerdo con los párrafos 33 y 34.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Medición de los ingresos — párr. 16 — p. 8-9,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los ingresos"", ""subseccion"": null, ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 8, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0017,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Medición de los ingresos,,17,17,9,9,paragraph,"Cuando se intercambien o permuten bienes o servicios por otros bienes o servicios de naturaleza similar, tal
+intercambio no se considerará como una transacción que produce ingresos. Con frecuencia, este es el caso
+de mercaderías como el aceite o la leche, en las que los proveedores intercambian o permutan inventarios
+en diversos lugares, con el fin de satisfacer pedidos de forma oportuna en un determinado lugar. Cuando
+los bienes se vendan, o los servicios se presten, recibiendo a cambio bienes o servicios de naturaleza
+diferente, el intercambio se considera como una transacción que produce ingresos. Los ingresos se miden
+por el valor razonable de los bienes o servicios recibidos, ajustado por cualquier eventual cantidad de
+efectivo o equivalentes al efectivo transferidos en la operación. En el caso de no poder medir con fiabilidad
+el valor de los bienes o servicios recibidos, los ingresos se medirán según el valor razonable de los bienes
+o servicios entregados, ajustado igualmente por cualquier eventual importe de efectivo o equivalentes al
+efectivo transferidos en la operación.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Medición de los ingresos — párr. 17 — p. 9,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los ingresos"", ""subseccion"": null, ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0018,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Identificación de la transacción,,18,18,9,9,paragraph,"Normalmente, el criterio usado para el reconocimiento en esta Norma se aplicará por separado a cada
+transacción. No obstante, en determinadas circunstancias, es necesario aplicar tal criterio de
+reconocimiento, por separado, a los componentes identificables de una única transacción, con el fin de
+reflejar la esencia de la operación. Por ejemplo, cuando el precio de un producto incluye una cantidad
+identificable a cambio de algún servicio futuro, esa cantidad es diferida y reconocida como un ingreso
+durante el periodo en el que se realiza el servicio. A la inversa, el criterio de reconocimiento será de
+aplicación en dos o más transacciones, conjuntamente, cuando las mismas estén ligadas de manera que el
+efecto no puede ser entendido sin referencia al conjunto completo de transacciones. Por ejemplo, una
+entidad puede vender bienes y, al mismo tiempo, realizar un acuerdo separado para recomprar esos bienes
+más tarde, con lo que se niega el efecto esencial de la operación, en tal caso, las dos transacciones han de
+ser contabilizadas de forma conjunta.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Identificación de la transacción — párr. 18 — p. 9,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de la transacción"", ""subseccion"": null, ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0019,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,19,19,9,10,paragraph,"Cuando el resultado de una transacción, que suponga la prestación de servicios, pueda ser estimado
+con fiabilidad, los ingresos asociados con la operación deben reconocerse, considerando el grado
+de terminación de la prestación a la fecha sobre la que se informa. El resultado de una transacción
+puede ser estimado con fiabilidad cuando se cumplen todas y cada una de las siguientes
+condiciones:
+(a) el importe de los ingresos puede ser medido con fiabilidad;
+(b) es probable que la entidad reciba los beneficios económicos o potencial de servicio derivados
+de la transacción;
+(c) el grado de terminación de la transacción, en la fecha de presentación, pueda ser medido con
+fiabilidad; y
+(d) los costos ya incurridos en la prestación, así como los que quedan por incurrir hasta
+completarla, puedan ser medidos con fiabilidad.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 19 — p. 9-10,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 9, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0020,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,20,20,10,10,paragraph,"El reconocimiento de los ingresos por referencia al grado de realización de una transacción se denomina
+habitualmente con el nombre de método del porcentaje de realización. Bajo este método, los ingresos se
+reconocen en los periodos sobre los que se informa en los cuales tiene lugar la prestación del servicio. Por
+ejemplo, una entidad que proporcione servicios de tasación de la propiedad debería reconocer los ingresos
+cuando se completen las valoraciones individuales. El reconocimiento de los ingresos con esta base
+suministrará información útil sobre la medida de la actividad de servicio y su ejecución en un determinado
+periodo. La NICSP 11, también exige la utilización de esta base en el reconocimiento de los ingresos. Los
+requerimientos de esa Norma son, por lo general, aplicables al reconocimiento de los ingresos y gastos
+asociados con una operación que implique prestación de servicios.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 20 — p. 10,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0021,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,21,21,10,10,paragraph,"Los ingresos se reconocen sólo cuando sea probable que la entidad obtenga los beneficios económicos o
+potencial de servicio asociados a la transacción. No obstante, cuando surge algún tipo de incertidumbre
+acerca del cobro de importes ya incluidos como ingresos, la cuantía incobrable o el importe respecto del
+cual ha dejado de ser probable la recuperabilidad se reconoce como un gasto, en lugar de ajustar el importe
+originalmente reconocido como ingreso.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 21 — p. 10,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0022,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,22,22,10,10,paragraph,"Una entidad será, por lo general, capaz de hacer estimaciones fiables después de que ha acordado, con las
+otras partes de la operación, los siguientes extremos:
+(a) los derechos exigibles por cada uno de los implicados, acerca del servicio que las partes han de
+suministrar o recibir;
+(b) la contraprestación a satisfacer; y
+(c) la forma y plazos de liquidación.
+Normalmente, también es necesario para la entidad disponer de un sistema presupuestario financiero y un
+sistema de información que sean efectivos. La entidad revisará y, si es necesario, modificará las
+estimaciones de ingresos a medida que el servicio se va prestando. La necesidad de tales revisiones no
+indica, necesariamente, que el resultado de la prestación no pueda ser estimado con fiabilidad.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 22 — p. 10,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0023,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,23,23,10,10,paragraph,"El grado de realización de una transacción puede determinarse mediante varios métodos. Una entidad usará
+el método que mida con más fiabilidad los servicios ejecutados. Entre los métodos a emplear se encuentran,
+dependiendo de la naturaleza de la operación:
+(a) la inspección de los trabajos ejecutados;
+(b) los servicios ejecutados hasta la fecha como un porcentaje del total de servicios a prestar; o
+(c) la proporción que los costos incurridos hasta la fecha suponen sobre el costo total estimado de la
+operación. Sólo los costos que reflejen servicios ya ejecutados se incluyen entre los costos incurridos
+hasta la fecha. Sólo los costos que reflejan servicios ejecutados o por ejecutar se incluirán en la
+estimación de los costos totales de la operación.
+Los pagos a cuenta y los anticipos recibidos de los clientes a menudo no reflejan los servicios ejecutados.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 23 — p. 10,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0024,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,24,24,10,10,paragraph,"A efectos prácticos, en el caso de que los servicios se presten a través de un número indeterminado de
+actos, en un plazo especificado, los ingresos se reconocerán de forma lineal en ese plazo, a menos que
+haya evidencia de que otro método representa mejor el porcentaje de terminación. Cuando un acto
+específico sea mucho más significativo que el resto de los actos, el reconocimiento de los ingresos se
+pospondrá hasta que el mismo haya sido ejecutado.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 24 — p. 10,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0025,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,25,25,11,11,paragraph,"Cuando el resultado de una transacción, que implique la prestación de servicios no pueda ser
+estimado de forma fiable, los ingresos correspondientes deben ser reconocidos como tales sólo en
+la medida de los gastos reconocidos que se consideren recuperables.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 25 — p. 11,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0026,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,26,26,11,11,paragraph,"Durante los primeros momentos de una transacción, se da a menudo el caso de que el resultado de la misma
+no puede ser estimado de forma fiable. No obstante, puede ser probable que la entidad recupere los costos
+incurridos en la operación. En tal caso, se reconocerán los ingresos sólo en la medida de los costos
+incurridos que se espere recuperar. Dado que el resultado de la transacción no puede estimarse de forma
+fiable, no se reconocerá resultado positivo (ahorro).",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 26 — p. 11,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0027,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Prestación de servicios,,27,27,11,11,paragraph,"Cuando (a) el resultado final de una transacción no pueda estimarse de forma fiable, y (b) no sea probable
+que se recuperen los costos incurridos en la misma, no se reconocerán ingresos y los costos incurridos se
+reconocerán como un gasto. Cuando desaparezcan las incertidumbres que impedían la estimación fiable
+del resultado del contrato, se procederá a reconocer los ingresos según lo previsto en el párrafo 19, en lugar
+de lo establecido en el párrafo 25.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Prestación de servicios — párr. 27 — p. 11,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Prestación de servicios"", ""subseccion"": null, ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0028,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Venta de bienes,,28,28,11,11,paragraph,"Los ingresos procedentes de la venta de bienes deben ser reconocidos cuando se cumplen todas y
+cada una de las siguientes condiciones:
+(a) la entidad ha transferido al comprador los riesgos y ventajas, de tipo significativo, derivados
+de la propiedad de los bienes;
+(b) la entidad no conserva para sí ninguna implicación en la gestión corriente de los bienes
+vendidos, en el grado usualmente asociado con la propiedad, ni retiene el control efectivo
+sobre los mismos;
+(c) el importe de los ingresos puede ser medido con fiabilidad;
+(d) es probable que la entidad reciba los beneficios económicos o potencial de servicio derivados
+de la transacción; y
+(e) los costos incurridos, o por incurrir, en relación con la transacción pueden ser medidos con
+fiabilidad.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Venta de bienes — párr. 28 — p. 11,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Venta de bienes"", ""subseccion"": null, ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0029,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Venta de bienes,,29,29,11,11,paragraph,"El proceso de evaluación de cuándo una entidad ha transferido al comprador los riesgos y ventajas
+significativos, que implica la propiedad, requiere un examen de las circunstancias de la transacción. En la
+mayoría de los casos, la transferencia de los riesgos y ventajas de la propiedad coincidirá con la
+transferencia de la titularidad legal o el traspaso de la posesión al comprador. Este es el caso en la mayor
+parte de las ventas. En otros casos, por el contrario, la transferencia de los riesgos y las ventajas de la
+propiedad tendrá lugar en un momento diferente del correspondiente a la transferencia de la titularidad legal
+o el traspaso de la posesión de los bienes.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Venta de bienes — párr. 29 — p. 11,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Venta de bienes"", ""subseccion"": null, ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0030,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Venta de bienes,,30,30,11,12,paragraph,"Si la entidad retiene riesgos significativos derivados de la propiedad, la transacción no será una venta y por
+tanto no se reconocerán los ingresos. Una entidad puede retener un riesgo significativo derivado de la
+propiedad de diferentes formas. Ejemplos de situaciones en las que la entidad puede conservar los riesgos
+y ventajas, de tipo significativo, derivados de la propiedad, son los siguientes:
+(a) cuando la entidad retiene una obligación derivada del funcionamiento insatisfactorio de los productos,
+que no entran en las condiciones normales de garantía;
+(b) cuando la recepción de los ingresos de una determinada venta es de naturaleza contingente porque
+depende de la obtención, por parte del comprador, de ingresos derivados de la venta posterior de los
+bienes (por ejemplo, cuando por una operación gubernamental de edición de libros se distribuye
+material escolar a los colegios para la venta o para que sean devueltos);
+(c) cuando los bienes se venden junto con la instalación de los mismos y la instalación es una parte
+sustancial del contrato, siempre que ésta no haya sido todavía completada por parte de la entidad; y
+(d) cuando el comprador, en virtud de una condición pactada en el contrato de venta, tiene el derecho de
+rescindir la compra y la entidad tiene incertidumbre acerca de la posibilidad de devolución.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Venta de bienes — párr. 30 — p. 11-12,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Venta de bienes"", ""subseccion"": null, ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 11, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0031,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Venta de bienes,,31,31,12,12,paragraph,"Si una entidad conserva sólo una parte insignificante de los riesgos derivados de la propiedad, la transacción
+es una venta y por tanto se procederá a reconocer los ingresos. Por ejemplo, un vendedor puede retener,
+con el único propósito de asegurar el cobro de la deuda, la titularidad legal de los bienes. En tal caso, si la
+entidad ha transferido los riesgos y ventajas significativos, derivados de la propiedad, la transacción es una
+venta y se procede a reconocer los ingresos. Otro ejemplo de una entidad que retiene sólo una parte
+insignificante del riesgo que comporta la propiedad, puede ser la venta, cuando se garantiza la devolución
+del importe si el consumidor no queda satisfecho. En tales casos, los ingresos se reconocen en el momento
+de la venta, siempre que el vendedor pueda estimar con fiabilidad las devoluciones futuras, y reconozca un
+pasivo por los reembolsos a efectuar, basándose en su experiencia previa y otros factores relevantes.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Venta de bienes — párr. 31 — p. 12,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Venta de bienes"", ""subseccion"": null, ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0032,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Venta de bienes,,32,32,12,12,paragraph,"Los ingresos se reconocen sólo cuando sea probable que la entidad obtenga los beneficios económicos o
+potencial de servicio asociados a la transacción. En algunos casos, esto puede no ser probable hasta que
+se reciba la contraprestación o hasta que desaparezca una determinada incertidumbre. Por ejemplo, el
+ingreso puede depender de la habilidad de otra entidad para suministrar bienes como parte del contrato y,
+si existen dudas de que esto ocurra, el reconocimiento puede retrasarse hasta que haya ocurrido. Cuando
+los bienes hayan sido suministrados, la incertidumbre desaparecerá y se procederá entonces al
+reconocimiento del ingreso. No obstante, cuando surge algún tipo de incertidumbre acerca del cobro de
+importes ya incluidos como ingresos, la cuantía incobrable o el importe respecto del cual ha dejado de ser
+probable la recuperabilidad se reconoce como un gasto, en lugar de ajustar el importe originalmente
+reconocido como ingreso.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Venta de bienes — párr. 32 — p. 12,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Venta de bienes"", ""subseccion"": null, ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0033,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,"Intereses, regalías y dividendos o distribuciones similares",,33,33,12,12,paragraph,"Los ingresos derivados del uso, por parte de terceros, de activos de la entidad que producen
+intereses, regalías y dividendos o distribuciones similares deben ser reconocidos usando los
+tratamientos contables establecidos en el párrafo 34 siempre que:
+(a) es probable que la entidad reciba los beneficios económicos o potencial de servicio
+derivados de la transacción; y
+(b) el importe de los ingresos pueda ser medido de forma fiable.","NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Intereses, regalías y dividendos o distribuciones similares — párr. 33 — p. 12",NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Intereses, regalías y dividendos o distribuciones similares"", ""subseccion"": null, ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0034,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,"Intereses, regalías y dividendos o distribuciones similares",,34,34,12,12,paragraph,"Los ingresos deben reconocerse utilizando los siguientes tratamientos contables:
+(a) los intereses deben reconocerse sobre la base de la proporción de tiempo transcurrido,
+teniendo en cuenta el rendimiento efectivo del activo;
+(b) las regalías deben reconocerse cuando se acumulen (o devenguen) de acuerdo con la
+esencia del acuerdo en que se basan, y
+(c) los dividendos o distribuciones similares deben reconocerse cuando se establezca el
+derecho a recibirlos por parte del propietario o de la entidad.","NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Intereses, regalías y dividendos o distribuciones similares — párr. 34 — p. 12",NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Intereses, regalías y dividendos o distribuciones similares"", ""subseccion"": null, ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0035,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,"Intereses, regalías y dividendos o distribuciones similares",,35,35,12,12,paragraph,"El rendimiento efectivo de un activo es la tasa de interés que iguala el flujo descontado de cobros futuros,
+esperados a lo largo de la vida del mismo, con el valor inicial del activo en libros. Los ingresos por intereses
+incluyen la imputación en el tiempo de cualquier tasa de descuento, primas u otras diferencias entre el valor
+inicial del título de deuda en libros y el importe que se obtendrá a su vencimiento.","NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Intereses, regalías y dividendos o distribuciones similares — párr. 35 — p. 12",NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Intereses, regalías y dividendos o distribuciones similares"", ""subseccion"": null, ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0036,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,"Intereses, regalías y dividendos o distribuciones similares",,36,36,12,13,paragraph,"Cuando se hayan acumulado (o devengado) intereses antes de la adquisición de una inversión, el cobro
+posterior de los mismos se distribuirá entre los periodos pre y post adquisición; reconociéndose como
+ingresos sólo los que corresponden al periodo posterior a la adquisición. Cuando los dividendos o
+distribuciones similares de los títulos de patrimonio procedan de resultados positivos (ahorro) netos
+obtenidos antes de la adquisición de los títulos, tales dividendos o distribuciones similares se deducirán del
+costo de las mismas. Si resultase difícil realizar esta asignación, excepto que se emplee un criterio arbitrario;
+se procederá a reconocer los dividendos o distribuciones similares como ingresos, a menos que claramente
+representen la recuperación de una parte del costo de los títulos.","NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Intereses, regalías y dividendos o distribuciones similares — párr. 36 — p. 12-13",NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Intereses, regalías y dividendos o distribuciones similares"", ""subseccion"": null, ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 12, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0037,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,"Intereses, regalías y dividendos o distribuciones similares",,37,37,13,13,paragraph,"Las regalías, como las del petróleo, se consideran acumuladas (o devengadas) de acuerdo con los términos
+del acuerdo en que se basan y son reconocidas como tales con este criterio, a menos que, considerando la
+esencia del señalado acuerdo, sea más apropiado reconocer los ingresos derivados utilizando otro criterio
+más sistemático y racional.","NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Intereses, regalías y dividendos o distribuciones similares — párr. 37 — p. 13",NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Intereses, regalías y dividendos o distribuciones similares"", ""subseccion"": null, ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0038,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,"Intereses, regalías y dividendos o distribuciones similares",,38,38,13,13,paragraph,"Los ingresos se reconocen sólo cuando sea probable que la entidad obtenga los beneficios económicos o
+potencial de servicio asociados a la transacción. No obstante, cuando surge algún tipo de incertidumbre
+acerca del cobro de importes ya incluidos como ingresos, la cuantía incobrable o el importe respecto del
+cual ha dejado de ser probable la recuperabilidad se reconoce como un gasto, en lugar de ajustar el importe
+originalmente reconocido como ingreso.","NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Intereses, regalías y dividendos o distribuciones similares — párr. 38 — p. 13",NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Intereses, regalías y dividendos o distribuciones similares"", ""subseccion"": null, ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0039,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Información a revelar,,39,39,13,13,paragraph,"Una entidad revelará:
+(a) las políticas contables adoptadas para el reconocimiento de los ingresos, incluyendo los
+métodos utilizados para determinar el porcentaje de terminación de las transacciones
+involucradas con la prestación de servicios;
+(b) la cuantía de cada categoría significativa de ingresos, reconocida durante el periodo, con
+indicación expresa de los ingresos procedentes de:
+(i) la prestación de servicios;
+(ii) la venta de bienes;
+(iii) intereses;
+(iv) regalías; y
+(v) dividendos o distribuciones similares; y
+(c) el importe de los ingresos producidos por intercambios de bienes o servicios incluidos en cada
+una de las categorías anteriores.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Información a revelar — párr. 39 — p. 13,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0040,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Información a revelar,,40,40,13,13,paragraph,"Las guías sobre la información a revelar de cualquier activo y pasivo de tipo contingente pueden encontrarse
+en la NICSP 19, Provisiones, Pasivos Contingentes y Activos Contingentes. Los activos contingentes y
+pasivos contingentes pueden surgir de partidas tales como costos de garantías, reclamaciones, multas o
+pérdidas eventuales.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Información a revelar — párr. 40 — p. 13,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
+NICSP-09-P0041-0042,NICSP,NICSP-09,INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN,2025-01-31,es,Fecha de vigencia,,41,42,13,14,paragraph,"41. Una entidad aplicará esta Norma para los estados financieros anuales que cubran periodos que
+comiencen a partir del 1 de julio de 2002. Se aconseja su aplicación anticipada. Si una entidad aplica
+esta Norma en periodos que comiencen antes del 1 de julio de 2002, se revelará este hecho.
+41A. El párrafo 42 fue modificado por la NICSP 33, Adopción por primera vez de las Normas
+Internacionales de Contabilidad del Sector Público de Base de Acumulación (o devengo) (NICSP)
+emitida en enero de 2015. Una entidad debe aplicar esa modificación para los estados financieros
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación
+anticipada. Si una entidad aplica la NICSP 33 en un periodo que comience antes del 1 de enero de
+2017, la modificación también se aplicará para dicho periodo.
+41B. La NICSP 37 Acuerdos Conjuntos, emitida en enero de 2015, modificó el párrafo 10(b). Una entidad
+aplicará esa modificación cuando aplique la NICSP 37.
+41C. Los párrafos 2 y 3 fueron eliminados por el documento La Aplicabilidad de las NICSP, emitido en
+abril de 2016. Una entidad aplicará esas modificaciones para los estados financieros anuales que
+cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada.
+Si una entidad aplica las modificaciones para un periodo que comience antes del 1 de enero de 2018,
+deberá revelar este hecho.
+41D. El párrafo 10 fue modificado por la NICSP 41, emitida en agosto de 2018. Una entidad aplicará esta
+modificación para los estados financieros anuales que cubran periodos que comiencen a partir del
+1 de enero de 2023. Se aconseja su aplicación anticipada. Si una entidad aplicase la modificación
+para un periodo que comience antes del 1 de enero de 2023, revelará este hecho y aplicará al mismo
+tiempo la NICSP 41.
+41E. El párrafo 10(c) fue modificado por la NICSP 45, emitida en mayo de 2023. Una entidad aplicará esta
+modificación para los estados financieros anuales que cubran periodos que comiencen a partir del
+1 de enero de 2025. Se aconseja su aplicación anticipada. Si una entidad aplicase las modificaciones
+para un periodo que comience antes del 1 de enero de 2025, revelará este hecho y aplicará al mismo
+tiempo la NICSP 45.
+41F. El párrafo 11 fue modificado por la NICSP 46, Medición emitida en mayo de 2023. Una entidad aplicará
+estas modificaciones para los estados financieros anuales que cubran periodos que comiencen a
+partir del 1 de enero de 2025. Se aconseja su aplicación anticipada. Si una entidad aplicase las
+modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará este hecho y al
+mismo tiempo aplicará la NICSP 46.
+
+42. Cuando una entidad adopte la base NICSP de acumulación (o devengo) tal como se define en la NICSP 33
+Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector Público de Base de
+Acumulación (o devengo) (NICSP) para propósitos de información financiera con posterioridad a esta fecha
+de vigencia, esta Norma se aplicará a los estados financieros anuales que cubran periodos que comiencen
+a partir de la fecha de adopción de las NICSP.",NICSP-09 — INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN — Fecha de vigencia — párr. 41-42 — p. 13-14,NICSP 09.pdf,"{""chunk_id"": ""NICSP-09-P0041-0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-09"", ""norma_titulo"": ""INGRESOS DE TRANSACCIONES CON CONTRAPRESTACIÓN"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 41, ""parrafo_fin"": 42, ""page_ini_pdf"": 13, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 09.pdf""}"
