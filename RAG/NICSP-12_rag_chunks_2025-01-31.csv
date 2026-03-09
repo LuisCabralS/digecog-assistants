@@ -1,0 +1,664 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP-12-P0001,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Objetivo,,1,1,9,9,paragraph,"El objetivo de esta Norma es prescribir el tratamiento contable de los inventarios. Un tema fundamental en
+la contabilidad de los inventarios es la cantidad de costo que debe reconocerse como activo, para diferirlo
+hasta que los ingresos relacionados sean reconocidos. Esta Norma suministra una guía práctica para la
+determinación de ese costo, así como para el subsiguiente reconocimiento como un gasto, incluyendo
+también cualquier corrección del importe en libros al valor realizable neto. También suministra directrices
+sobre las fórmulas del costo que se usan para atribuir costos a los inventarios.",NICSP-12 — INVENTARIOS — Objetivo — párr. 1 — p. 9,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Objetivo"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0002,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,2,2,9,9,paragraph,"Una entidad que prepare y presente estados financieros según la base contable de acumulación (o
+devengo) aplicará esta Norma en la contabilidad de todos los inventarios excepto:
+(a)
+[Eliminado]
+(b)
+los instrumentos financieros (véase la NICSP 28, Instrumentos financieros: Presentación y
+NICSP 41, Instrumentos Financieros);
+(c)
+los activos biológicos relacionados con la actividad agrícola y producto agrícola en el momento
+de su cosecha o recolección (véase la NICSP 27 Agricultura); y
+(d)
+trabajo en curso de servicios que van a ser prestados recibiendo a cambio, directamente de
+los receptores de los mismos, una contraprestación nula o simbólica.",NICSP-12 — INVENTARIOS — Alcance — párr. 2 — p. 9,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0003,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,3,3,9,9,paragraph,"Esta Norma no es de aplicación en la medición de los inventarios mantenidos por:
+(a)
+productores de productos agrícolas y forestales, de productos agrícolas tras la cosecha o
+recolección, y de minerales y de productos minerales, siempre que sean medidos por su valor
+realizable neto, de acuerdo con prácticas bien consolidadas en esos sectores industriales. En
+el caso de que esos inventarios se midan al valor realizable neto, los cambios en este valor se
+reconocerán en el resultado (ahorro o desahorro) del periodo que se produzcan dichos
+cambios; y
+(b)
+los intermediarios que comercian con materias primas cotizadas que midan sus inventarios al
+valor razonable menos costos de venta. En el caso de que esos inventarios se lleven al valor
+razonable menos costos de venta, los cambios en el valor razonable menos costos de venta se
+reconocerán en el resultado (ahorro o desahorro) en el periodo que se produzcan dichos
+cambios.",NICSP-12 — INVENTARIOS — Alcance — párr. 3 — p. 9,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0004,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,4,4,9,9,deleted,[Eliminado],NICSP-12 — INVENTARIOS — Alcance — párr. 4 — p. 9,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0005,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,5,5,9,9,deleted,[Eliminado],NICSP-12 — INVENTARIOS — Alcance — párr. 5 — p. 9,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0006,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,6,6,9,9,paragraph,"Los inventarios a que se ha hecho referencia en el párrafo 2(d) no son contemplados por la NIC 2,
+Inventarios, y se excluyen del alcance de esa Norma porque son cuestiones específicas del sector público
+que requieren consideración adicional.",NICSP-12 — INVENTARIOS — Alcance — párr. 6 — p. 9,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0007,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,7,7,9,9,paragraph,"Los inventarios a que se ha hecho referencia en el párrafo 3(a) se miden por su valor realizable neto en
+ciertas fases de la producción. Ello ocurre, por ejemplo, (a) cuando se han recogido las cosechas agrícolas
+o se han extraído los minerales, siempre que su venta esté asegurada por un contrato a plazo o garantizada
+por el gobierno, o (b) cuando existe un mercado activo y el riesgo de fracasar en la venta sea mínimo. Esos
+inventarios se excluyen únicamente de los requerimientos de medición establecidos en esta Norma.",NICSP-12 — INVENTARIOS — Alcance — párr. 7 — p. 9,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0008,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,8,8,9,10,paragraph,"Los intermediarios que comercian son aquéllos que compran o venden materias primas cotizadas por cuenta
+ajena o por cuenta propia. Los inventarios a que se ha hecho referencia en el párrafo 3(b) se adquieren,
+principalmente, con el propósito de venderlos en un futuro próximo, y generar ganancias procedentes de las
+fluctuaciones en el precio, o un margen de comercialización. Cuando esos inventarios se contabilicen por
+su valor razonable menos los costos de venta, quedarán excluidos únicamente de los requerimientos de
+medición establecidos en esta Norma.",NICSP-12 — INVENTARIOS — Alcance — párr. 8 — p. 9-10,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 9, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0009,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Definiciones,,9,9,10,10,definition,"Los términos siguientes se usan en esta Norma, con los significados que a continuación se
+especifican:
+Costo corriente de reposición es el costo en el que la entidad incurriría al adquirir el activo en la
+fecha sobre la que se informa.
+Transacciones con contraprestación son transacciones en las cuales una entidad recibe activos o
+servicios, o cancela pasivos, y entrega a cambio un valor aproximadamente igual (principalmente en
+forma de efectivo, bienes, servicios o uso de los activos) directamente a otra entidad.
+Inventarios son activos:
+(a)
+en la forma de materiales o suministros, para ser consumidos en el proceso de producción;
+(b)
+en la forma de materiales o suministros, para ser consumidos o distribuidos en la prestación
+de servicios;
+(c)
+conservados para su venta o distribución, en el curso ordinario de las operaciones; o
+(d)
+en proceso de producción para su venta o distribución.
+Valor realizable neto es el precio estimado de venta en el curso ordinario de las operaciones, menos
+los costos estimados para terminar su producción y los necesarios para llevar a cabo la venta,
+intercambio o distribución.
+Transacciones sin contraprestación son transacciones que no son de intercambio, en las que una
+entidad recibe valor de otra entidad sin dar directamente un valor aproximadamente igual a cambio,
+o da valor a otra entidad sin recibir directamente un valor aproximadamente igual a cambio.
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en
+dichas Normas, y se reproducen en el Glosario de Términos Definidos publicado por separado.",NICSP-12 — INVENTARIOS — Definiciones — párr. 9 — p. 10,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0010,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Definiciones,Valor realizable neto,10,10,10,10,definition,"El valor realizable neto hace referencia al importe neto que la entidad espera obtener por la venta de los
+inventarios en el curso ordinario de las operaciones. El valor razonable refleja el precio al que tendría lugar
+una transacción ordenada para vender el mismo inventario en el mercado principal (o más ventajoso) para
+ese inventario, entre participantes de mercado en la fecha de la medición. El primero es un valor específico
+para la entidad; mientras que el último no. El valor realizable neto de los inventarios puede no ser igual al
+valor razonable menos los costos de disposición.",NICSP-12 — INVENTARIOS — Definiciones / Valor realizable neto — párr. 10 — p. 10,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Valor realizable neto"", ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0011,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Definiciones,Inventarios,11,11,10,11,definition,"Los inventarios también incluyen los bienes comprados y mantenidos para revender, incluyendo, por
+ejemplo, las mercancías adquiridas por una entidad mantenidas para revender, o los terrenos y otras
+propiedades mantenidos para la venta. Los inventarios también comprenden los bienes producidos
+terminados, o trabajo en curso producido por la entidad. Los inventarios también incluyen (a) materiales y
+suministros en espera de ser utilizados en el proceso productivo y (b) bienes comprados o producidos por
+la entidad para ser distribuidos a terceros, sin contraprestación o por una contraprestación simbólica (un
+gasto de transferencia), por ejemplo, los libros de texto fabricados por una autoridad sanitaria para donarlos
+a las escuelas. En muchas entidades del sector público los inventarios guardarán más relación con la
+prestación de servicios que con los bienes comprados y mantenidos para su reventa o con los producidos
+para la venta. Los costos incurridos para cumplir un acuerdo vinculante que no da lugar a inventarios (o
+activos dentro del alcance de otra Norma) se contabilizan de acuerdo con la NICSP 47, Ingresos.",NICSP-12 — INVENTARIOS — Definiciones / Inventarios — párr. 11 — p. 10-11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Inventarios"", ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 10, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0012,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Definiciones,Inventarios,12,12,11,11,definition,"Los inventarios en el sector público pueden incluir:
+(a)
+inventarios militares;
+(b)
+materiales consumibles;
+(c)
+materiales de mantenimiento;
+(d)
+piezas de repuesto para las propiedades, planta y equipo, distintas de las tratadas en la NICSP 45
+Propiedades, Planta y Equipo;
+(e)
+reservas estratégicas (por ejemplo, reservas de energía);
+(f)
+existencias de moneda no emitida;
+(g)
+suministros del servicio postal mantenidos para la venta (por ejemplo, sellos);
+(h)
+obra en curso, incluyendo:
+(i)
+materiales para cursos de formación o prácticas; y
+(ii)
+servicios a clientes (por ejemplo, servicios de auditoría) cuando estos servicios se venden a
+precios de mercado; y
+(i)
+terrenos o propiedades mantenidos para la venta.",NICSP-12 — INVENTARIOS — Definiciones / Inventarios — párr. 12 — p. 11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Inventarios"", ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0013,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Definiciones,Inventarios,13,13,11,11,definition,"Si el gobierno controla los derechos para crear y emitir varios activos, incluyendo los sellos postales y la
+moneda, estos artículos de inventario se reconocen como inventarios a efectos de esta Norma. No se
+presentan a su valor nominal, sino que son medidos de acuerdo con el párrafo 15, es decir, a su costo de
+impresión o de acuñación.",NICSP-12 — INVENTARIOS — Definiciones / Inventarios — párr. 13 — p. 11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Inventarios"", ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0014,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Definiciones,Inventarios,14,14,11,11,definition,"Cuando un gobierno mantiene reservas estratégicas, tales como reservas de energía (por ejemplo, petróleo),
+para uso en caso de emergencia u otras situaciones (por ejemplo, desastres naturales u otras emergencias
+en defensas civiles), estas reservas se reconocen como inventarios a efectos de esta Norma y se tratan en
+consecuencia.",NICSP-12 — INVENTARIOS — Definiciones / Inventarios — párr. 14 — p. 11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Inventarios"", ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0014A,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Definiciones,Inventarios,14,14,11,11,definition,"Los inventarios militares comprenden partidas de uso único, tales como munición, misiles, cohetes y bombas
+lanzadas por armas o sistemas de armas. Sin embargo, algunos tipos de misiles pueden contabilizarse de
+acuerdo con la NISCP 45 si satisfacen los criterios para ser clasificados según dicha norma.",NICSP-12 — INVENTARIOS — Definiciones / Inventarios — párr. 14A — p. 11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0014A"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Inventarios"", ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0015,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,,15,15,11,11,paragraph,"Los inventarios deberán medirse al costo o al valor realizable neto, el que sea menor, excepto cuando
+se aplique el párrafo 16 o el párrafo 17.",NICSP-12 — INVENTARIOS — Medición de los inventarios — párr. 15 — p. 11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": null, ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0016,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,,16,16,11,11,paragraph,"Cuando se adquieren inventarios a través de una transacción sin contraprestación, su costo se
+medirá a su valor razonable en la fecha de adquisición.",NICSP-12 — INVENTARIOS — Medición de los inventarios — párr. 16 — p. 11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": null, ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0017,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,,17,17,11,11,paragraph,"Los inventarios deberán medirse al menor valor entre el costo y el costo corriente de reposición
+cuando se mantengan para:
+(a)
+distribución sin contraprestación (un gasto de transferencia), o por una contraprestación
+simbólica; o
+(b)
+su consumo en el proceso de producción de bienes que van a ser distribuidos sin
+contraprestación o por una contraprestación simbólica (un gasto de transferencia).",NICSP-12 — INVENTARIOS — Medición de los inventarios — párr. 17 — p. 11,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": null, ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0018,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Costo de los inventarios,18,18,12,12,paragraph,"El costo de los inventarios comprenderá todos los costos derivados de su adquisición, conversión
+y otros costos en los que se haya incurrido para darles su condición y ubicación actuales.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Costo de los inventarios — párr. 18 — p. 12,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Costo de los inventarios"", ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0019,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Costos de adquisición,19,19,12,12,paragraph,"El costo de adquisición de los inventarios comprenderá (a) el precio de compra, (b) los aranceles de
+importación y otros impuestos (distintos de aquellos que sean recuperables posteriormente por la entidad
+de las autoridades fiscales), y (c) los transportes, el almacenamiento y otros costos directamente atribuibles
+a la adquisición de los productos terminados, materiales y suministros. Los descuentos comerciales, las
+rebajas y otras partidas similares se deducirán para determinar los costos de adquisición.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Costos de adquisición — párr. 19 — p. 12,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Costos de adquisición"", ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0020,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Costos de conversión,20,20,12,12,paragraph,"Los costos de convertir inventarios de trabajos en curso en inventarios de productos terminados se incurren
+principalmente en un entorno manufacturero. Los costos de conversión de los inventarios comprenderán
+aquellos costos directamente relacionados con las unidades de producción, tales como la mano de obra
+directa. También comprenderán una parte, calculada de forma sistemática, de los costos indirectos de
+producción, variables o fijos, en los que se haya incurrido para transformar materiales en productos
+terminados. Son costos indirectos de producción fijos los que permanecen relativamente constantes, con
+independencia (a) del volumen de producción, tales como la amortización y mantenimiento de los edificios
+de las fábricas y equipos de fábrica y activos por derecho de uso utilizados en el proceso de producción, y
+(b) el costo de gestión y administración de la fábrica. Los costos indirectos de producción variables son
+aquellos costos de producción que varían directamente, o casi directamente, con el volumen de producción,
+tales como los materiales y la mano de obra indirectos.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Costos de conversión — párr. 20 — p. 12,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Costos de conversión"", ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0021,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Costos de conversión,21,21,12,12,paragraph,"La distribución de los costos indirectos de producción fijos a los costos de conversión se basará en la
+capacidad normal de los medios de producción. Capacidad normal es la producción que se espera conseguir
+en circunstancias normales, considerando el promedio de varios periodos o temporadas, y teniendo en
+cuenta la pérdida de capacidad que resulta de las operaciones previstas de mantenimiento. Puede usarse
+el nivel real de producción si se aproxima a la capacidad normal. La cantidad de costos indirectos fijos
+distribuida a cada unidad de producción no se incrementará como consecuencia de un nivel bajo de
+producción, ni por la existencia de capacidad ociosa. Los costos indirectos no distribuidos se reconocerán
+como gastos del periodo en el que han sido incurridos. En periodos de producción anormalmente alta, la
+cantidad de costos indirectos distribuidos a cada unidad de producción se disminuirá, de manera que no se
+valoren los inventarios por encima del costo. Los costos indirectos de producción variables se distribuirán, a
+cada unidad de producción, sobre la base del nivel real de uso de los medios de producción.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Costos de conversión — párr. 21 — p. 12,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Costos de conversión"", ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0022,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Costos de conversión,22,22,12,12,paragraph,"Por ejemplo, la distribución de los costos, tanto fijos como variables, incurridos en el desarrollo de terrenos
+no productivos mantenidos para la venta en terrenos para viviendas o comercios, podría incluir costos
+relacionados con jardinería, drenaje, instalación de tuberías para conectar a la red de alcantarillado, etc.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Costos de conversión — párr. 22 — p. 12,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Costos de conversión"", ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0023,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Costos de conversión,23,23,12,12,paragraph,"Un proceso de producción puede dar lugar a la fabricación simultánea de más de un producto. Este es el
+caso, por ejemplo, de la producción conjunta o de la producción de un producto principal y un subproducto.
+Cuando los costos de conversión de cada producto no sean identificables por separado, los costos totales
+si distribuirán entre los productos utilizando bases uniformes y racionales. La distribución puede basarse,
+por ejemplo, en el valor de ventas relativo de cada producto ya sea en la etapa del proceso de producción
+en el momento en que los productos pasan a poder identificarse por separado, o cuando se termine el
+proceso de producción. La mayoría de los subproductos, por su propia naturaleza, no poseen un valor
+significativo. Cuando este es el caso, se miden frecuentemente al valor realizable neto, deduciendo tal valor
+del costo del producto principal. Como resultado, el importe en libros del producto principal no resultará
+significativamente diferente de su costo.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Costos de conversión — párr. 23 — p. 12,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Costos de conversión"", ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0024,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Otros costos,24,24,13,13,paragraph,"Se incluirán otros costos, en el costo de los inventarios, siempre que se hubiera incurrido en ellos para dar
+a los inventarios su condición y ubicación actuales. Por ejemplo, podrá ser apropiado incluir, como costo de
+los inventarios, algunos costos indirectos no derivados de la producción, o los costos del diseño de productos
+para clientes específicos.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Otros costos — párr. 24 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Otros costos"", ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0025,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Otros costos,25,25,13,13,paragraph,"Son ejemplos de costos excluidos del valor de los inventarios, y por tanto a reconocer como gastos del
+periodo en el cual se incurren, los siguientes:
+(a)
+las cantidades anormales de desperdicio de materiales, mano de obra u otros costos de producción;
+(b)
+los costos de almacenamiento, a menos que sean necesarios en el proceso productivo antes de un
+proceso de elaboración ulterior;
+(c)
+los costos indirectos de administración que no hayan contribuido a dar a los inventarios su condición
+y ubicación actuales; y
+(d)
+los costos de venta.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Otros costos — párr. 25 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Otros costos"", ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0026,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Otros costos,26,26,13,13,paragraph,"La NICSP 5, Costos por Préstamos, identifica las limitadas circunstancias en las que los costos por
+préstamos se incluyen en el costo de los inventarios.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Otros costos — párr. 26 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Otros costos"", ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0027,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Otros costos,27,27,13,13,paragraph,"Una entidad puede adquirir inventarios con pago aplazado. Cuando el acuerdo contenga de hecho un
+elemento de financiación, como puede ser, por ejemplo, la diferencia entre el precio de adquisición en
+condiciones normales de crédito y el importe pagado, ese elemento se reconocerá como gasto por intereses
+a lo largo del periodo de financiación.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Otros costos — párr. 27 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Otros costos"", ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0028,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Otros costos,28,28,13,13,deleted,[Eliminado],NICSP-12 — INVENTARIOS — Medición de los inventarios / Otros costos — párr. 28 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Otros costos"", ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0029,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Costo de producto agrícola cosechado o recolectado de activos biológicos,29,29,13,13,paragraph,"De acuerdo con la NICSP 27, los inventarios que comprenden productos agrícolas, que la entidad haya
+cosechado o recolectado de sus activos biológicos, se medirán, para su reconocimiento inicial, por el valor
+razonable menos los costos de venta en el momento de su cosecha o recolección. Este será el costo de los
+inventarios en esa fecha, para la aplicación de la presente Norma.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Costo de producto agrícola cosechado o recolectado de activos biológicos — párr. 29 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Costo de producto agrícola cosechado o recolectado de activos biológicos"", ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0030,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Técnicas de medición del costo,30,30,13,13,paragraph,"Las técnicas para la medición del costo de los inventarios, tales como el método del costo estándar o el
+método de los minoristas, podrán ser utilizados por conveniencia siempre que el resultado de aplicarlos se
+aproxime al costo. Los costos estándares tienen en cuenta niveles normales de utilización de materias
+primas, suministros, mano de obra, eficiencia y utilización de la capacidad. Se revisan de forma regular y, si
+es preciso, se cambian teniendo en cuenta las condiciones actuales.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Técnicas de medición del costo — párr. 30 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Técnicas de medición del costo"", ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0031,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Técnicas de medición del costo,31,31,13,13,paragraph,"Los inventarios pueden transferirse a la entidad a través de una transacción sin contraprestación. Por
+ejemplo, una agencia de ayuda internacional puede donar suministros médicos a un hospital público en el
+periodo posterior a un desastre natural. En estas circunstancias, el costo del inventario es su valor razonable
+en la fecha que es adquirido.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Técnicas de medición del costo — párr. 31 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Técnicas de medición del costo"", ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0032,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Fórmulas del costo,32,32,13,13,paragraph,"El costo de los inventarios de partidas que no son habitualmente intercambiables entre sí, así como
+de los bienes y servicios producidos y segregados para proyectos específicos, se determinará a
+través de la identificación específica de sus costos individuales.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Fórmulas del costo — párr. 32 — p. 13,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Fórmulas del costo"", ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0033,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Fórmulas del costo,33,33,14,14,paragraph,"La identificación específica de costos significa que los costos específicos se distribuyen a partidas
+determinadas de los inventarios. Este es un tratamiento adecuado para partidas que se segregan para un
+proyecto específico, con independencia de que hayan sido comprados o producidos. Sin embargo, la
+identificación específica de costos resultará inadecuada cuando haya un gran número de partidas en los
+inventarios que sean habitualmente intercambiables. En tales circunstancias, el método para seleccionar
+qué productos van a permanecer en inventario podría ser usado para obtener efectos predeterminados en
+el resultado (ahorro o desahorro) del periodo.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Fórmulas del costo — párr. 33 — p. 14,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Fórmulas del costo"", ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0034,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Fórmulas del costo,34,34,14,14,paragraph,"Al aplicar el párrafo 33 una entidad usará la misma fórmula de costo para todos los inventarios de
+naturaleza y uso similar para la entidad. Para inventarios con diferente naturaleza o uso (por ejemplo,
+ciertas materias primas cotizadas utilizadas en un segmento y el mismo tipo de materias primas
+cotizadas utilizadas en otro segmento), se puede justificar utilizar fórmulas de costo diferentes. Una
+diferencia en la localización geográfica de los inventarios (y en las respectivas normas fiscales), no
+es suficiente, por sí misma, para justificar el uso de fórmulas de costo distintas.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Fórmulas del costo — párr. 34 — p. 14,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Fórmulas del costo"", ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0035,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Fórmulas del costo,35,35,14,14,paragraph,"El costo de los inventarios, distintos de los tratados en el párrafo 32, se asignará utilizando los
+métodos de primera entrada primera salida (FIFO) o costo promedio ponderado. Una entidad utilizará
+la misma fórmula de costo para todos los inventarios que tengan una naturaleza y uso similares para
+la entidad. Para los inventarios con una naturaleza o uso diferente, puede estar justificada la
+utilización de fórmulas de costo también diferentes.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Fórmulas del costo — párr. 35 — p. 14,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Fórmulas del costo"", ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0036,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Fórmulas del costo,36,36,14,14,paragraph,"Por ejemplo, los inventarios utilizados en un segmento pueden tener un uso para la entidad diferente del
+que se da al mismo tipo de inventarios en otro segmento. Sin embargo, una diferencia en la ubicación
+geográfica de los inventarios no es, por sí misma, motivo suficiente para justificar el uso de fórmulas de
+costo diferentes.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Fórmulas del costo — párr. 36 — p. 14,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Fórmulas del costo"", ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0037,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Fórmulas del costo,37,37,14,14,paragraph,"La fórmula FIFO supone que las partidas de inventario que fueron compradas o producidas antes, serán
+vendidas en primer lugar y, consecuentemente, que las partidas que queden en el inventario al final del
+periodo serán los producidas o compradas más recientemente. Si se utiliza el método o fórmula del costo
+promedio ponderado, el costo de cada partida se determinará a partir del promedio ponderado del costo de
+partidas similares al principio del periodo, y del costo de partidas similares compradas o producidas durante
+el periodo. El promedio puede calcularse periódicamente o después de recibir cada envío adicional,
+dependiendo de las circunstancias de la entidad.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Fórmulas del costo — párr. 37 — p. 14,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Fórmulas del costo"", ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0038,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Valor realizable neto,38,38,14,14,paragraph,"El costo de los inventarios podría no ser recuperable en caso de que los mismos estén dañados, si han
+devenido parcial o totalmente obsoletos, o si sus precios de mercado han disminuido. El costo de los
+inventarios también podría no ser recuperable si los costos estimados para su terminación o los costos que
+se estima deben incurrirse para realizar su venta, intercambio o distribución han aumentado. La práctica de
+rebajar el saldo de los inventarios por debajo del costo hasta el valor realizable neto, es coherente con el
+punto de vista según el cual dichos activos no deben registrarse por encima de los beneficios económicos o
+potencial de servicio futuros que se espera realizar con su venta, intercambio, distribución o uso.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Valor realizable neto — párr. 38 — p. 14,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Valor realizable neto"", ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0039,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Valor realizable neto,39,39,14,14,paragraph,"La rebaja en los inventarios hasta alcanzar el valor realizable neto se suele calcular para cada tipo de partida.
+En algunas circunstancias, sin embargo, puede resultar apropiado agrupar partidas similares o relacionadas.
+Este puede ser el caso de partidas de inventario que tienen propósitos o usos finales similares y que no
+pueden ser, por razones prácticas, evaluadas separadamente de otras partidas de la misma línea. No es
+apropiado realizar rebajas basadas en clasificaciones de inventarios, por ejemplo, productos terminados, o
+sobre todos los inventarios de una operación o segmento geográfico determinado.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Valor realizable neto — párr. 39 — p. 14,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Valor realizable neto"", ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0040,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Valor realizable neto,40,40,14,15,paragraph,"Al hacer las estimaciones del valor realizable neto, también se tendrá en consideración el propósito para el
+que se mantienen los inventarios. Por ejemplo, el valor realizable neto del importe de inventarios que se
+tiene para cumplir con los contratos firmes de venta o de prestación de servicios se basa en el precio que
+figura en el contrato. Si los contratos de ventas son por una cantidad inferior a la reflejada en inventarios, el
+valor realizable neto del exceso se determina sobre la base de los precios generales de venta. En la NICSP
+19, Provisiones, Pasivos Contingentes y Activos Contingentes puede encontrarse una guía sobre el
+tratamiento de provisiones o pasivos contingentes, tales como los que surgen en los contratos de venta
+firmes que excedan las cantidades mantenidas en inventario, y por contratos de compra firmes.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Valor realizable neto — párr. 40 — p. 14-15,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Valor realizable neto"", ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 14, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0041,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Valor realizable neto,41,41,15,15,paragraph,"No se rebajarán por debajo del costo los materiales y otros suministros mantenidos para su uso en la
+producción de inventarios si se espera que los productos terminados a los que se incorporen serán vendidos,
+intercambiados o distribuidos al costo o por encima del mismo. Sin embargo, cuando una reducción en el
+precio de los materiales indique que el costo de los productos terminados excede a su valor realizable neto,
+se rebajará su importe en libros hasta cubrir esa diferencia. En tales circunstancias, el costo de reposición
+de los materiales puede ser la mejor medida disponible de su valor realizable neto.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Valor realizable neto — párr. 41 — p. 15,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0041"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Valor realizable neto"", ""parrafo_ini"": 41, ""parrafo_fin"": 41, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0042,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Valor realizable neto,42,42,15,15,paragraph,"Se realizará una nueva evaluación del valor realizable neto en cada periodo posterior. Cuando las
+circunstancias que previamente causaron la rebaja de inventarios por debajo del costo hayan dejado de
+existir, o cuando exista una clara evidencia de un incremento en el valor realizable neto como consecuencia
+de un cambio en las circunstancias económicas, se revertirá el importe de dicha rebaja (es decir, la reversión
+se limita al importe de la rebaja original), de manera que el nuevo valor en libros sea el menor entre el costo
+y el valor realizable neto revisado. Esto ocurrirá, por ejemplo, cuando una partida de inventario que se lleva
+al valor realizable neto porque ha bajado su precio de venta, está todavía en inventario en un periodo
+posterior y su precio de venta se ha incrementado.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Valor realizable neto — párr. 42 — p. 15,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Valor realizable neto"", ""parrafo_ini"": 42, ""parrafo_fin"": 42, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0043,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Medición de los inventarios,Distribución de bienes sin contraprestación o con contraprestación simbólica,43,43,15,15,paragraph,"Una entidad del sector público puede mantener inventarios cuyos beneficios económicos o potencial de
+servicio futuros no estén directamente relacionados con la capacidad de generar entradas netas de efectivo.
+Estos tipos de inventarios pueden surgir cuando un gobierno ha decidido distribuir ciertos bienes recibiendo
+a cambio una contraprestación nula (un gasto de transferencia) o simbólica. En estos casos, los beneficios
+económicos o potencial de servicio futuros de los inventarios a efectos de presentación de información
+financiera se reflejan por la cantidad que la entidad necesitaría pagar para adquirir los beneficios económicos
+o potencial de servicio si esto fuera necesario para alcanzar los objetivos de la entidad. Cuando los
+beneficios económicos o potencial de servicio no puedan ser adquiridos en el mercado, será necesario hacer
+una estimación del costo de reposición. Si cambia el propósito para el cual se mantiene el inventario,
+entonces éste se valorará según las disposiciones del párrafo 15.",NICSP-12 — INVENTARIOS — Medición de los inventarios / Distribución de bienes sin contraprestación o con contraprestación simbólica — párr. 43 — p. 15,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0043"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición de los inventarios"", ""subseccion"": ""Distribución de bienes sin contraprestación o con contraprestación simbólica"", ""parrafo_ini"": 43, ""parrafo_fin"": 43, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0044,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Reconocimiento como un gasto,,44,44,15,15,paragraph,"Cuando los inventarios se venden, se intercambian o se distribuyen, el importe en libros de los
+mismos se reconocerá como un gasto en el periodo en el que se registren los correspondientes
+ingresos. Si no hay ingresos relacionados (es decir, la transacción da lugar a un gasto de
+transferencia), el gasto se reconoce de acuerdo con la NICSP 48, Gastos por Transferencias. El
+importe de cualquier rebaja en los inventarios, y todas las pérdidas en los mismos, se reconocerá
+como un gasto en el periodo en que tenga lugar dicha rebaja. El importe de cualquier reversión de
+las rebajas de inventarios se registrará como una reducción en el importe de los inventarios
+reconocido como un gasto, en el periodo en que la reversión tenga lugar.",NICSP-12 — INVENTARIOS — Reconocimiento como un gasto — párr. 44 — p. 15,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0044"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento como un gasto"", ""subseccion"": null, ""parrafo_ini"": 44, ""parrafo_fin"": 44, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0045,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Reconocimiento como un gasto,,45,45,15,15,paragraph,"Para un proveedor de servicios, el momento en el que se reconocen los inventarios como gasto normalmente
+tiene lugar cuando los servicios son prestados o facturados.",NICSP-12 — INVENTARIOS — Reconocimiento como un gasto — párr. 45 — p. 15,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0045"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento como un gasto"", ""subseccion"": null, ""parrafo_ini"": 45, ""parrafo_fin"": 45, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0046,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Reconocimiento como un gasto,,46,46,15,16,paragraph,"El costo de ciertos inventarios puede ser incorporado a otras cuentas de activo, por ejemplo, los inventarios
+que se emplean como un componente las propiedades, planta y equipo construidos por la propia entidad.
+Los inventarios asignados a otro activo de esta manera se reconocerán como un gasto a lo largo de su vida
+útil.",NICSP-12 — INVENTARIOS — Reconocimiento como un gasto — párr. 46 — p. 15-16,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0046"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento como un gasto"", ""subseccion"": null, ""parrafo_ini"": 46, ""parrafo_fin"": 46, ""page_ini_pdf"": 15, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0047,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,,47,47,16,16,paragraph,"En los estados financieros se revelará:
+(a)
+las políticas contables adoptadas para la medición de los inventarios, incluyendo la fórmula de
+medición de los costos utilizada;
+(b)
+el importe total en libros de los inventarios y los importes en libros según la clasificación que
+resulte apropiada para la entidad;
+(c)
+el importe en libros de los inventarios que se llevan al valor razonable menos los costos de
+disposición;
+(d)
+el importe de los inventarios reconocido como un gasto durante el periodo;
+(e)
+el importe de las rebajas de valor de los inventarios reconocidas como un gasto en el periodo
+de acuerdo con el párrafo 42;
+(f)
+los importes de las reversiones en las rebajas de valor reconocidos en el estado de rendimiento
+financiero del período de acuerdo con el párrafo 42;
+(g)
+las circunstancias o eventos que han producido la reversión de las rebajas de los inventarios
+de acuerdo el párrafo 42; y
+(h)
+el importe en libros de los inventarios pignorados en garantía de deudas.",NICSP-12 — INVENTARIOS — Información a revelar — párr. 47 — p. 16,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0047"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 47, ""parrafo_fin"": 47, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0048,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,,48,48,16,16,paragraph,"La información acerca de los importes en libros de las diferentes clases de inventarios, así como la variación
+de dichos importes, resultará de utilidad a los usuarios de los estados financieros. Una clasificación común
+de los inventarios es la que distingue entre mercaderías, suministros para la producción, materiales,
+productos en curso y productos terminados.",NICSP-12 — INVENTARIOS — Información a revelar — párr. 48 — p. 16,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0048"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 48, ""parrafo_fin"": 48, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0049,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,,49,49,16,16,paragraph,"El importe de los inventarios reconocido como un gasto durante el periodo se compone de (a) aquellos
+costos anteriormente incluidos en la medición de los inventarios que ahora han sido vendidos,
+intercambiados o distribuidos, y (b) los costos indirectos de producción no distribuidos y los importes
+anormales de los costos de producción de los inventarios. Las circunstancias de la entidad pueden justificar
+la inclusión de otros costos, tales como los costos de distribución.",NICSP-12 — INVENTARIOS — Información a revelar — párr. 49 — p. 16,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0049"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 49, ""parrafo_fin"": 49, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0050,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,,50,50,16,16,paragraph,"Algunas entidades adoptan un formato para la presentación del resultado (ahorro o desahorro) que da lugar
+a la divulgación de importes diferentes al costo de los inventarios que ha sido reconocido como gasto durante
+el periodo. Según este formato, una entidad presentará un análisis de los gastos mediante una clasificación
+basada en la naturaleza de estos gastos. En este caso, la entidad revelará los costos reconocidos como
+gastos de (a) materias primas y consumibles, (b) costos de mano de obra y (c) otros costos, junto con el
+importe del cambio neto en los inventarios para el periodo.",NICSP-12 — INVENTARIOS — Información a revelar — párr. 50 — p. 16,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0050"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0050A,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,Mediciones del valor actual,50,50,16,17,paragraph,"Una entidad revelará información que ayude a los usuarios de sus estados financieros a evaluar los
+dos elementos siguientes:
+(a)
+para inventarios que se miden a valor razonable sobre una base recurrente o no recurrente en
+el estado de situación financiera después del reconocimiento inicial, las técnicas de medición
+y los datos de entrada utilizados para desarrollar esas mediciones; y
+(b)
+para mediciones del valor razonable recurrentes utilizando datos de entrada no observables
+significativos (Nivel 3), el efecto de las mediciones sobre el resultado (ahorro o desahorro) del
+periodo u activos netos/patrimonio para el periodo.",NICSP-12 — INVENTARIOS — Información a revelar / Mediciones del valor actual — párr. 50A — p. 16-17,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0050A"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Mediciones del valor actual"", ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 16, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0050B,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,Mediciones del valor actual,50,50,17,17,paragraph,"Para cumplir los objetivos del párrafo 50A, una entidad considerará todos los elementos siguientes:
+(a)
+el nivel de detalle necesario para satisfacer los requerimientos de información a revelar;
+(b)
+cuánto énfasis poner en cada uno de los distintos requerimientos;
+(c)
+cuánta agrupación o desagregación realizar; y
+(d)
+si los usuarios de los estados financieros necesitan información adicional para evaluar la información
+cuantitativa revelada.
+Si la información a revelar proporcionada de acuerdo con esta y otras NICSP, es insuficiente para alcanzar
+los objetivos del párrafo 50A, una entidad revelará la información adicional necesaria para cumplir con esos
+objetivos.",NICSP-12 — INVENTARIOS — Información a revelar / Mediciones del valor actual — párr. 50B — p. 17,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0050B"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Mediciones del valor actual"", ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0050C,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,Mediciones del valor actual,50,50,17,18,paragraph,"Para cumplir los objetivos del párrafo 50A, una entidad revelará, como mínimo, la siguiente información para
+cada clase de inventarios (véase el párrafo 50D para información sobre la determinación de las clases
+apropiadas de inventarios) medidos al valor razonable (incluyendo las mediciones basadas en el valor
+razonable dentro del alcance de la NICSP 46, Medición) en el estado de situación financiera después del
+reconocimiento inicial:
+(a)
+para las mediciones del valor razonable recurrentes y no recurrentes, la medición del valor razonable
+al final del periodo sobre el que se informa, y para mediciones de valor razonable recurrentes y no
+recurrentes, las razones de la medición. Mediciones recurrentes del valor razonable de los inventarios
+son aquellas que esta Norma requiere o permite que se presenten en el estado de situación financiera,
+al final de cada periodo sobre el que se informa. Mediciones no recurrentes del valor razonable de los
+inventarios son aquellas que esta Norma requiere o permite en el estado de situación financiera en
+circunstancias particulares;
+(b)
+para las mediciones del valor razonable recurrentes y no recurrentes, el nivel de la jerarquía del valor
+razonable dentro del cual se clasifican las mediciones del valor razonable en su totalidad (Nivel 1, 2 o
+3);
+(c)
+para las mediciones del valor razonable recurrentes y no recurrentes estimadas utilizando datos de
+entrada no observables, una descripción de la técnica o técnicas de medición y los datos de entrada
+utilizados en la medición del valor razonable. Si se ha producido un cambio en la técnica de medición
+(por ejemplo, pasar de un enfoque de mercado a un enfoque de ingresos o el uso de una técnica de
+medición adicional), la entidad revelará dicho cambio y la razón o razones para realizarlo. Para
+mediciones del valor razonable clasificadas en el Nivel 3 de la jerarquía del valor razonable, una
+entidad proporcionará información cuantitativa sobre los datos de entrada no observables
+significativos utilizados en la medición del valor razonable. No se requiere que una entidad elabore
+información cuantitativa para cumplir con este requerimiento de información a revelar si los datos de
+entrada no observables cuantitativos no están desarrollados por la entidad al medir el valor razonable
+(por ejemplo, cuando una entidad utiliza precios de transacciones anteriores o información de fijación
+de precios de terceros sin ajustar). Sin embargo, al proporcionar esta información a revelar una entidad
+no puede ignorar datos de entrada no observables cuantitativos que son significativos para la medición
+del valor razonable y están razonablemente disponibles para la entidad;
+(d)
+para las mediciones recurrentes del valor razonable clasificadas en el Nivel 3 de la jerarquía del valor
+razonable, o para las mediciones recurrentes del valor razonable estimadas utilizando datos de
+entrada no observables, una conciliación de los saldos iniciales con los saldos finales, revelando por
+separado los cambios durante el periodo atribuibles a lo siguiente:
+(i)
+total de ganancias o pérdidas del periodo reconocidas en el resultado (ahorro o desahorro), y
+partidas del resultado (ahorro o desahorro) en las que se reconocen dichas ganancias o
+pérdidas;
+(ii)
+las ganancias o pérdidas totales del periodo reconocidas en los activos netos/patrimonio, y la
+partida o partidas de los activos netos/patrimonio en las que se reconocen dichas ganancias o
+pérdidas; y
+(iii)
+Las compras, ventas, emisiones y liquidaciones (revelando por separado cada tipo de
+cambios).
+(e)
+para las mediciones recurrentes del valor razonable clasificadas en el Nivel 3 de la jerarquía del valor
+razonable, o para las mediciones recurrentes del valor razonable estimadas utilizando datos de
+entrada no observables, el importe de las pérdidas o ganancias totales del periodo en (d)(i) incluidas
+en el resultado (ahorro o desahorro) que sea atribuible a la variación en las pérdidas o ganancias no
+realizadas relacionadas con los inventarios mantenidos al final del periodo sobre el que se informa, y
+la partida o partidas del resultado (ahorro o desahorro) en las que se reconocen esas pérdidas o
+ganancias no realizadas;
+(f)
+para las mediciones del valor razonable recurrentes y no recurrentes clasificadas en el Nivel 3 de la
+jerarquía del valor razonable, o para las mediciones del valor razonable recurrentes y no recurrentes
+estimadas utilizando datos de entrada no observables, una descripción de los procesos de valoración
+utilizados por la entidad (incluyendo, por ejemplo, cómo decide la entidad sus políticas y
+procedimientos de valoración y analiza los cambios en las mediciones del valor razonable de un
+periodo a otro); y
+(g)
+para mediciones del valor razonable recurrentes clasificadas en el Nivel 3 de la jerarquía del valor
+razonable, una descripción narrativa de la sensibilidad de la medición del valor razonable a cambios
+en datos de entrada no observables si un cambio en esos datos de entrada a un importe diferente
+puede dar lugar a una medición del valor razonable significativamente mayor o menor. Si existen
+interrelaciones entre esos datos de entrada y otros no observables utilizados en la medición del valor
+razonable, una entidad proporcionará también una descripción de esas interrelaciones y de la forma
+en que puede aumentar o mitigar el efecto de los cambios en los datos de entrada no observables en
+la medición del valor razonable. Para cumplir con ese requerimiento de información a revelar, la
+descripción narrativa de la sensibilidad a cambios en datos de entrada no observables incluirán, como
+mínimo, los datos de entrada no observables revelados al cumplir con (c).",NICSP-12 — INVENTARIOS — Información a revelar / Mediciones del valor actual — párr. 50C — p. 17-18,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0050C"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Mediciones del valor actual"", ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 17, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0050D,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,Mediciones del valor actual,50,50,18,19,paragraph,"Una entidad determinará la desagregación adecuada de los inventarios en función de lo siguiente:
+(a)
+la naturaleza, características y riesgos de los inventarios; y
+(b)
+el nivel de la jerarquía del valor razonable dentro del que se clasifica la medición del valor razonable.
+La desagregación puede necesitar ser mayor para mediciones del valor razonable clasificadas dentro del
+Nivel 3 de la jerarquía del valor razonable porque esas mediciones tienen un mayor grado de incertidumbre
+y subjetividad. La determinación de la desagregación apropiada de los inventarios para los que debe
+revelarse información sobre las mediciones del valor razonable requiere juicio. A menudo, los inventarios
+requerirán una mayor desagregación que las partidas presentadas en el estado de situación financiera. Sin
+embargo, una entidad suministrará información suficiente para permitir la conciliación con las partidas
+presentadas en el estado de situación financiera. Si otra NICSP especifica la desagregación para un
+inventario, una entidad puede utilizar esa desagregación al suministrar la información a revelar requerida en
+esta Norma, siempre que esa desagregación cumpla los requerimientos de este párrafo.",NICSP-12 — INVENTARIOS — Información a revelar / Mediciones del valor actual — párr. 50D — p. 18-19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0050D"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Mediciones del valor actual"", ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 18, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0050E,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,Mediciones del valor actual,50,50,19,19,paragraph,"Para cada clase de inventarios no medidos al valor razonable en el estado de situación financiera, pero para
+los que se revele el valor razonable, una entidad revelará la información requerida en el párrafo 50C(b), (c)
+y (g). Sin embargo, no se requiere que una entidad proporcione información a revelar cuantitativa sobre
+datos de entrada no observables significativas utilizadas en las mediciones del valor razonable clasificadas
+en el Nivel 3 de la jerarquía del valor razonable requerida por el párrafo 50(c). Para estos inventarios, una
+entidad no necesitará proporcionar la otra información a revelar requerida por esta Norma.",NICSP-12 — INVENTARIOS — Información a revelar / Mediciones del valor actual — párr. 50E — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0050E"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Mediciones del valor actual"", ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0050F,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Información a revelar,Mediciones del valor actual,50,50,19,19,paragraph,"Una entidad presentará la información a revelar de tipo cuantitativo requerida por esta Norma en forma de
+tabla, a menos que sea más apropiado otro formato.",NICSP-12 — INVENTARIOS — Información a revelar / Mediciones del valor actual — párr. 50F — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0050F"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Mediciones del valor actual"", ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,19,19,paragraph,"Una entidad aplicará esta Norma para los estados financieros anuales que cubran periodos que
+comiencen a partir del 1 de enero de 2008. Se aconseja su aplicación anticipada. Si una entidad aplica
+esta Norma en periodos que comiencen antes del 1 de enero de 2008, se revelará este hecho.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51 — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051A,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,19,19,paragraph,"La NICSP 27 modificó el párrafo 29. Una entidad aplicará esa modificación para los estados
+financieros anuales que cubran periodos que comiencen a partir del 1 de abril de 2011. Si una entidad
+aplica la NICSP 27 para un periodo que comience antes del 1 de abril de 2011, la modificación se
+aplicará para dicho periodo anterior.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51A — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051A"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051B,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,19,19,paragraph,"La NICSP 33, Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector
+Público de Base de Acumulación (o devengo) (NICSP) emitida en enero de 2015 modificó el párrafo
+52. Una entidad debe aplicar esa modificación para los estados financieros anuales que cubran
+periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación anticipada. Si una
+entidad aplica la NICSP 33 en un periodo que comience antes del 1 de enero de 2017, la modificación
+también se aplicará para dicho periodo.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51B — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051B"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051C,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,19,19,paragraph,"El párrafo 12 fue modificado y el párrafo 14A añadido mediante el documento Mejoras a las NICSP
+2015, emitido en abril de 2016. Una entidad aplicará esas modificaciones para los estados financieros
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2017. Se aconseja su
+aplicación anticipada. Si una entidad aplicase las modificaciones para un periodo que comience
+antes del 1 de enero de 2017, deberá revelar este hecho.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51C — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051C"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051D,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,19,19,paragraph,"Los párrafos 4 y 5 fueron eliminados por el documento La Aplicabilidad de las NICSP, emitido en
+abril de 2016. Una entidad aplicará esas modificaciones para los estados financieros anuales que
+cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada.
+Si una entidad aplica las modificaciones para un periodo que comience antes del 1 de enero de 2018,
+deberá revelar este hecho.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51D — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051D"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051E,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,19,19,paragraph,"El párrafo 2 fue modificado por la NICSP 41, emitida en agosto de 2018. Una entidad aplicará esta
+modificación para los estados financieros anuales que cubran periodos que comiencen a partir del
+1 de enero de 2023. Se aconseja su aplicación anticipada. Si una entidad aplicase la modificación
+para un periodo que comience antes del 1 de enero de 2023, revelará este hecho y aplicará al mismo
+tiempo la NICSP 41.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51E — p. 19,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051E"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051F,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,19,20,paragraph,"El párrafo 20 fue modificado por la NICSP 43, emitida en enero de 2022. Una entidad aplicará esta
+modificación para los estados financieros anuales que cubran periodos que comiencen a partir del
+1 de enero de 2025. Se permite su aplicación anticipada. Si una entidad aplicase las modificaciones
+para un periodo que comience antes del 1 de enero de 2025, revelará este hecho y al mismo tiempo
+aplicará la NICSP 43.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51F — p. 19-20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051F"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 19, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051G,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,20,20,paragraph,"Los párrafos 12(d) y 14A fueron modificados por la NICSP 45, emitida en agosto de 2023. Una entidad
+aplicará estas modificaciones para los estados financieros anuales que cubran periodos que
+comiencen a partir del 1 de enero de 2025. Se aconseja su aplicación anticipada. Si una entidad
+aplicase estas modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará
+este hecho y aplicará al mismo tiempo la NICSP 45.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51G — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051G"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051H,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,20,20,paragraph,"Los párrafos 10 y 47 fueron modificados y los párrafos 50A a 50F fueron añadidos por la NICSP 46,
+Medición, emitida en mayo de 2023. Una entidad aplicará estas modificaciones para los estados
+financieros anuales que cubran periodos que comiencen a partir del 1 de enero de 2025. Se aconseja
+su aplicación anticipada. Si una entidad aplicase las modificaciones para un periodo que comience
+antes del 1 de enero de 2025, revelará este hecho y al mismo tiempo aplicará la NICSP 46.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51H — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051H"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051I,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,20,20,paragraph,"Los párrafos 2, 9, 11, 39 y 48 se modificaron y el párrafo 28 se eliminó mediante la NICSP 47, emitida
+en mayo de 2023. Una entidad aplicará estas modificaciones para los estados financieros anuales
+que cubran periodos que comiencen a partir del 1 de enero de 2026. Se aconseja su aplicación
+anticipada. Si una entidad aplicase las modificaciones para un periodo que comience antes del 1 de
+enero de 2026, revelará este hecho y al mismo tiempo aplicará la NICSP 47.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51I — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051I"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051J,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,20,20,paragraph,"Los párrafos 11, 17, 43 y 44 fueron modificados por la NICSP 48, Gastos por Transferencias, emitida
+en mayo de 2023. Una entidad aplicará estas modificaciones para los estados financieros anuales
+que cubran periodos que comiencen a partir del 1 de enero de 2026. Se aconseja su aplicación
+anticipada. Si una entidad aplicase las modificaciones para un periodo que comience antes del 1 de
+enero de 2026, revelará este hecho y al mismo tiempo aplicará la NICSP 48.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51J — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051J"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0051K,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,51,51,20,20,paragraph,"El Apéndice A fue añadido por Costos de Desmonte en la Fase de Producción de una Mina a Cielo
+Abierto (Modificaciones a la NICSP 12) emitida en noviembre de 2024. Una entidad aplicará estas
+modificaciones para los estados financieros anuales que cubran periodos que comiencen a partir
+del 1 de enero de 2027. Se permite su aplicación anticipada. Si una entidad aplicase las
+modificaciones para un periodo que comience antes del 1 de enero de 2027, revelará este hecho.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 51K — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0051K"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0052,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Fecha de vigencia,52,52,20,20,paragraph,"Cuando una entidad adopte las NICSP de base de acumulación (o devengo) tal como se define en la NICSP
+33 Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector Público de Base de
+Acumulación (o devengo) (NICSP) para propósitos de información financiera con posterioridad a esta fecha
+de vigencia, esta Norma se aplicará a los estados financieros anuales que cubran periodos que comiencen
+a partir de la fecha de adopción de las NICSP.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Fecha de vigencia — párr. 52 — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0052"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 52, ""parrafo_fin"": 52, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0052A,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Transición,52,52,20,20,paragraph,"Una entidad aplicará el Apéndice A a los costos de producción del desmonte incurridos a partir del comienzo
+del primer periodo presentado.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Transición — párr. 52A — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0052A"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Transición"", ""parrafo_ini"": 52, ""parrafo_fin"": 52, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0052B,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Transición,52,52,20,20,paragraph,"Al comienzo del primer periodo presentado, cualquier saldo de activos reconocidos con anterioridad
+procedente de la actividad de desmonte realizada durante la fase de producción (""activo de desmonte
+predecesor"") se reclasificará como una parte de un activo existente con el que se relaciona la actividad de
+desmonte, en la medida que en que permanezca un componente identificable del yacimiento con el que el
+activo de desmonte predecesor pueda asociarse. Estos saldos se depreciarán o amortizarán a lo largo de
+la vida útil esperada restante del componente identificado del yacimiento con el que se relaciona cada saldo
+de activo de desmonte predecesor.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Transición — párr. 52B — p. 20,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0052B"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Transición"", ""parrafo_ini"": 52, ""parrafo_fin"": 52, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0052C,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Transición,52,52,21,21,paragraph,"Si no existe un componente identificable del yacimiento con el que se relaciona el activo de desmonte
+predecesor, se reconocerá en el resultado (ahorro o desahorro) acumulado de apertura al comienzo del
+primer periodo presentado.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Transición — párr. 52C — p. 21,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0052C"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Transición"", ""parrafo_ini"": 52, ""parrafo_fin"": 52, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0053,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Transición,53,53,21,21,paragraph,"Una entidad aplicará el Apéndice A a los costos de producción del desmonte incurridos a partir del comienzo
+del primer periodo presentado.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Transición — párr. 53 — p. 21,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0053"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Transición"", ""parrafo_ini"": 53, ""parrafo_fin"": 53, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0054,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Transición,54,54,21,21,paragraph,"Al comienzo del primer periodo presentado, cualquier saldo de activos reconocidos con anterioridad
+procedente de la actividad de desmonte realizada durante la fase de producción (""activo de desmonte
+predecesor"") se reclasificará como una parte de un activo existente con el que se relaciona la actividad de
+desmonte, en la medida que en que permanezca un componente identificable del yacimiento con el que el
+activo de desmonte predecesor pueda asociarse. Estos saldos se depreciarán o amortizarán a lo largo de
+la vida útil esperada restante del componente identificado del yacimiento con el que se relaciona cada saldo
+de activo de desmonte predecesor.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Transición — párr. 54 — p. 21,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0054"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Transición"", ""parrafo_ini"": 54, ""parrafo_fin"": 54, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0055,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Fecha de vigencia y transición,Transición,55,55,21,21,paragraph,"Si no existe un componente identificable del yacimiento con el que se relaciona el activo de desmonte
+predecesor, se reconocerá en el resultado (ahorro o desahorro) acumulado de apertura al comienzo del
+primer periodo presentado.",NICSP-12 — INVENTARIOS — Fecha de vigencia y transición / Transición — párr. 55 — p. 21,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0055"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia y transición"", ""subseccion"": ""Transición"", ""parrafo_ini"": 55, ""parrafo_fin"": 55, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0056,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Derogación de la NICSP 12 (2001),,56,56,21,21,paragraph,Esta Norma deroga la NICSP 12 Inventarios emitida en 2001.,NICSP-12 — INVENTARIOS — Derogación de la NICSP 12 (2001) — párr. 56 — p. 21,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0056"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Derogación de la NICSP 12 (2001)"", ""subseccion"": null, ""parrafo_ini"": 56, ""parrafo_fin"": 56, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA001,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Introducción,1,1,22,22,paragraph,"En las operaciones de minería a cielo abierto, las entidades pueden verse forzadas a extraer materiales de
+escombro de la mina (""sobrecarga"") para acceder a los yacimientos del mineral. Esta actividad de extracción
+del escombro se conoce como ""desmonte"".",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Introducción — párr. A1 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Introducción"", ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA002,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Introducción,2,2,22,22,paragraph,"Durante la fase de desarrollo de la mina (antes de que la producción comience), los costos de desmonte se
+capitalizan habitualmente como parte del costo depreciable de construir, desarrollar y estructurar la mina.
+Esos costos capitalizados se deprecian o amortizan sobre una base sistemática, habitualmente mediante la
+utilización del método de las unidades de producción, una vez que comienza la producción.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Introducción — párr. A2 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Introducción"", ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA003,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Introducción,3,3,22,22,paragraph,"Una entidad minera puede continuar extrayendo sobrecarga e incurrir en costos de desmonte durante la
+fase de producción de la mina.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Introducción — párr. A3 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Introducción"", ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA004,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Introducción,4,4,22,22,paragraph,"El material extraído al desescombrar en la fase de producción no será necesariamente 100 por cien
+escombros; a menudo contendrá una combinación de mineral y escombro. La proporción de mineral con
+respecto al escombro puede fluctuar de un bajo grado no rentable a un alto grado rentable. La extracción
+del material con baja proporción de mineral con respecto al escombro puede producir algún material
+utilizable, que pueda usarse para producir inventario. Esta extracción puede también proporcionar acceso a
+niveles más profundos de material que contengan una proporción mayor de mineral con respecto al
+escombro. Puede haber, por ello, dos beneficios acumulándose (devengándose) en la entidad procedentes
+de la actividad de desmonte: el mineral utilizable que puede usarse para producir inventario y la mejora del
+acceso a cantidades adicionales de material que se explotarán en periodos futuros.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Introducción — párr. A4 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Introducción"", ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA005,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Introducción,5,5,22,22,paragraph,"Este Apéndice considera cuándo y cómo contabilizar por separado estos dos beneficios que surgen de la
+actividad de desmonte, así como la forma de medir dichos beneficios en el momento inicial y posteriormente.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Introducción — párr. A5 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Introducción"", ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA006,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,6,6,22,22,paragraph,"Este Apéndice se aplica a los costos de extracción del escombro en los que se incurre en la actividad de
+minería a cielo abierto durante la fase de producción de la mina (""costos de producción del desmonte "").",NICSP-12 — INVENTARIOS — Alcance — párr. A6 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA007,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,,7,7,22,22,paragraph,"Este Apéndice trata los siguientes problemas:
+(a)
+reconocimiento de los costos de producción del desmonte como un activo;
+(b)
+medición inicial de los activos de la actividad de desmonte; y
+(c)
+medición posterior del activo de la actividad de desmonte.",NICSP-12 — INVENTARIOS — Alcance — párr. A7 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA008,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Alcance,Reconocimiento de los costos de producción del desmonte como un activo,8,8,22,22,paragraph,"En la medida en que el beneficio de la actividad de desmonte se realiza en forma de inventario producido,
+la entidad contabilizará los costos de esa actividad de desmonte de acuerdo con los principios de la NICSP
+12 Inventarios. En la medida en que el beneficio es un acceso mejorado al yacimiento, la entidad reconocerá
+estos costos como un activo no corriente, si se cumplen los criterios del párrafo A9 siguientes. Este Apéndice
+se refiere al activo no corriente como ""activo de la actividad de desmonte"".",NICSP-12 — INVENTARIOS — Alcance / Reconocimiento de los costos de producción del desmonte como un activo — párr. A8 — p. 22,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Reconocimiento de los costos de producción del desmonte como un activo"", ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA009,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,,9,9,23,23,paragraph,"Una entidad reconocerá un activo de la actividad de desmonte sí, y solo si, se satisfacen todos los elementos
+siguientes:
+(a)
+es probable que la entidad obtendrá el beneficio económico futuro (acceso mejorado al yacimiento)
+asociado con la actividad de desmonte;
+(b)
+la entidad puede identificar el componente del yacimiento cuyo acceso se ha mejorado; y
+(c)
+los costos relacionados con la actividad de desmonte asociados con ese componente pueden medirse
+con fiabilidad.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto — párr. A9 — p. 23,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": null, ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 23, ""page_fin_pdf"": 23, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA010,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,,10,10,23,23,paragraph,"El activo de la actividad de desmonte se contabilizará como una ampliación o como una mejora, de un activo
+existente. En otras palabras, el activo de la actividad de desmonte se contabilizará como parte de un activo
+existente.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto — párr. A10 — p. 23,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": null, ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 23, ""page_fin_pdf"": 23, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA011,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,,11,11,23,23,paragraph,"La clasificación del activo de la actividad de desmonte como un activo tangible o intangible es la misma que
+la del activo existente. En otras palabras, la naturaleza de este activo existente determinará si la entidad
+clasificará el activo de la actividad de desmonte como tangible o intangible.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto — párr. A11 — p. 23,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": null, ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 23, ""page_fin_pdf"": 23, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA012,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Medición inicial de los activos de la actividad de desmonte,12,12,23,23,paragraph,"La entidad medirá inicialmente el activo de la actividad de desmonte al costo, siendo éste la acumulación de
+los costos directamente incurridos para realizar la actividad de desmonte que mejora el acceso al
+componente identificado del yacimiento, más una distribución de los costos indirectos atribuibles
+directamente a esa actividad. Algunas operaciones secundarias pueden tener lugar al mismo tiempo que la
+actividad de producción del desmonte, pero no son necesarias para que la actividad de producción del
+desmonte continúe como estaba prevista. Los costos asociados con estas operaciones secundarias no se
+incluirán en el costo del activo de la actividad desmonte.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Medición inicial de los activos de la actividad de desmonte — párr. A12 — p. 23,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Medición inicial de los activos de la actividad de desmonte"", ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 23, ""page_fin_pdf"": 23, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA013,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Medición inicial de los activos de la actividad de desmonte,13,13,23,23,paragraph,"Cuando los costos del activo de la actividad de desmonte y el inventario producido no sean identificables
+por separado, la entidad distribuirá los costos de producción del desmonte entre el inventario producido y el
+activo de la actividad de desmonte utilizando una base de reparto que se fundamente en una medida de
+producción relevante. Esta medida de producción se calculará para el componente identificado del
+yacimiento y se utilizará como una referencia para identificar la medida en que ha dado lugar la actividad
+adicional de crear un beneficio futuro. Ejemplos de estas medidas incluyen:
+(a)
+el costo del inventario producido comparado con el costo esperado;
+(b)
+el volumen de escombro extraído comparado con el volumen esperado, para un volumen dado de
+producción de mineral; y
+(c)
+el contenido del mineral extraído comparado con el contenido de mineral que se esperaba extraer,
+para una cantidad dada de mineral producido.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Medición inicial de los activos de la actividad de desmonte — párr. A13 — p. 23,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Medición inicial de los activos de la actividad de desmonte"", ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 23, ""page_fin_pdf"": 23, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA014,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Medición posterior de los activos de la actividad de desmonte,14,14,23,23,paragraph,"Después del reconocimiento inicial, el activo de la actividad de desmonte se registrará de la misma forma
+que el activo existente del que es parte, bien por su:
+•
+costo histórico menos cualquier la depreciación o amortización acumulada y cualquier pérdida por
+deterioro acumulada, o
+•
+importe revaluado, que será su valor razonable en la fecha de la revaluación, menos cualquier
+depreciación o amortización acumulada posterior y cualesquiera pérdidas por deterioro de valor
+acumuladas posteriores.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Medición posterior de los activos de la actividad de desmonte — párr. A14 — p. 23,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Medición posterior de los activos de la actividad de desmonte"", ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 23, ""page_fin_pdf"": 23, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA015,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,,15,15,24,24,paragraph,"El activo de la actividad de desmonte se depreciará o amortizará de forma sistemática, a lo largo de la vida
+útil esperada del componente identificado del yacimiento que pasa a ser más accesible como resultado de
+la actividad de desmonte. Se aplicará el método de las unidades de producción a menos que otro método
+sea más apropiado.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto — párr. A15 — p. 24,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": null, ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 24, ""page_fin_pdf"": 24, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-PA016,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,,16,16,24,24,paragraph,"La vida útil esperada del componente identificado del yacimiento que se utiliza para depreciar o amortizar el
+activo de la actividad de desmonte diferirá de la vida útil esperada que se utiliza para depreciar o amortizar
+la mina en sí misma y los activos relacionados con la vida de ésta. La excepción a esto son las circunstancias
+limitadas en las que la actividad de desmonte proporciona acceso mejorado a todo el yacimiento restante.
+Por ejemplo, esto puede ocurrir hacia el final de la vida útil de una mina cuando el componente identificado
+representa la parte final del yacimiento a extraer.",NICSP-12 — INVENTARIOS — Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto — párr. A16 — p. 24,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-PA016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice A: Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": null, ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 24, ""page_fin_pdf"": 24, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0062F,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Modificaciones de la NICSP 33,62,62,25,25,paragraph,"Cuando una entidad que adopta por primera vez las NICSP aprovecha la exención del párrafo 36 que
+permite un periodo de dispensa transitorio de tres años para no reconocer activos, no se requiere
+que aplique los requerimientos relacionados con los activos de la actividad de desmonte hasta que
+la exención que proporcionó la dispensa haya expirado, o cuando los activos correspondientes se
+reconozcan de acuerdo con las NICSP aplicables (lo que tenga lugar primero).",NICSP-12 — INVENTARIOS — Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Modificaciones de la NICSP 33 — párr. 62F — p. 25,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0062F"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Modificaciones de la NICSP 33"", ""parrafo_ini"": 62, ""parrafo_fin"": 62, ""page_ini_pdf"": 25, ""page_fin_pdf"": 25, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0062G,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Modificaciones de la NICSP 33,62,62,25,25,paragraph,"Esta NICSP concede a una entidad que adopta por primera vez las NICSP un periodo de hasta tres años
+desde la fecha de adopción de las NICSP para no reconocer activos de acuerdo con las NICSP 45 o 31,
+según corresponda. Durante este periodo, una entidad que adopta por primera vez las NICSP puede
+necesitar considerar los requerimientos de reconocimiento de esta NICSP al mismo tiempo que considera
+el reconocimiento de los activos de exploración y evaluación en esta NICSP. Cuando una entidad que adopta
+por primera vez las NICSP aprovecha la exención de acuerdo con la NICSP 45 o 31, según corresponda,
+no se requiere que reconozca activos de la actividad de desmonte hasta que las exenciones que
+proporcionaron la dispensa hayan expirado, o cuando los activos correspondientes se reconozcan de
+acuerdo con la NICSP aplicable (lo que tenga lugar primero).
+…",NICSP-12 — INVENTARIOS — Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Modificaciones de la NICSP 33 — párr. 62G — p. 25,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0062G"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Modificaciones de la NICSP 33"", ""parrafo_ini"": 62, ""parrafo_fin"": 62, ""page_ini_pdf"": 25, ""page_fin_pdf"": 25, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"
+NICSP-12-P0154Q,NICSP,NICSP-12,INVENTARIOS,2025-01-31,es,Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto,Fecha de vigencia,154,154,25,25,paragraph,"Los párrafos 62H y 62I fueron añadidos por Costos de Desmonte en la Fase de Producción de una Mina a
+Cielo Abierto (Modificaciones a la NICSP 12), emitida en noviembre de 2024. Una entidad aplicará esta
+modificación para los estados financieros anuales que cubran periodos que comiencen a partir del 1 de
+enero de 2027. Se aconseja su aplicación anticipada. Si una entidad aplicase las modificaciones para un
+periodo que comience antes del 1 de enero de 2027, revelará este hecho.",NICSP-12 — INVENTARIOS — Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto / Fecha de vigencia — párr. 154Q — p. 25,NICSP 12.pdf,"{""chunk_id"": ""NICSP-12-P0154Q"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-12"", ""norma_titulo"": ""INVENTARIOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Apéndice B: Modificaciones a otras NICSP como resultado de Costos de Desmonte en la Fase de Producción de una Mina a Cielo Abierto"", ""subseccion"": ""Fecha de vigencia"", ""parrafo_ini"": 154, ""parrafo_fin"": 154, ""page_ini_pdf"": 25, ""page_fin_pdf"": 25, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 12.pdf""}"

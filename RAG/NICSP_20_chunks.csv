@@ -1,0 +1,409 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP-20-P0000,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Objetivo,,0,0,5,5,paragraph,"El objetivo de la presente Norma es exigir la revelación de información sobre la existencia de relaciones entre partes 
+relacionadas cuando existe control, y la revelación de información sobre transacciones entre la entidad y sus partes 
+relacionadas bajo ciertas circunstancias. Esta información se exige para fines de rendición de cuentas y para facilitar 
+una mejor comprensión de la situación financiera y rendimiento de la entidad que informa. Los principales elementos 
+a tener en cuenta a la hora de revelar información acerca de partes relacionadas son (a) identificar qué partes controlan 
+o influyen significativamente a la entidad que informa, y (b) determinar qué información debe revelarse sobre las 
+transacciones con esas partes.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Objetivo — párr. 0 — p. 5,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0000"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Objetivo"", ""subseccion"": null, ""parrafo_ini"": 0, ""parrafo_fin"": 0, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0001,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Alcance,,1,1,5,5,paragraph,"Una entidad que prepare y presente sus estados financieros sobre la base contable de acumulación 
+(o devengo) debe aplicar esta Norma para la revelación de información sobre relaciones entre partes 
+relacionadas y ciertas transacciones con partes relacionadas.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Alcance — párr. 1 — p. 5,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0002,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Alcance,,2,2,5,5,deleted,[Eliminado],NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Alcance — párr. 2 — p. 5,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0003,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Alcance,,3,3,5,5,deleted,[Eliminado],NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Alcance — párr. 3 — p. 5,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0004,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,,4,4,5,6,definition,"Los términos siguientes se usan en esta Norma, con los significados que a continuación se 
+especifican: 
+Familiares cercanos a una persona son aquellos miembros de la familia inmediata de una persona o 
+familiares cercanos que podrían ejercer influencia en, o ser influidos por, esa persona en sus 
+relaciones con la entidad.  
+Personal clave de la gerencia son:  
+(a) Todos los directivos o miembros del órgano de gobierno de la entidad; y 
+(b) otras personas que tienen autoridad y responsabilidad en la planificación, la gerencia y el 
+control de las actividades de la entidad que informa. Cuando se cumple esta exigencia, el 
+personal clave de la gerencia incluye: 
+(i) cuando haya un miembro del órgano de gobierno de una entidad con autoridad y 
+responsabilidad en la planificación, la gerencia y el control de las actividades de la 
+entidad que presenta los estados financieros, ese miembro;  
+(ii) cualquier consejero clave de ese miembro; y 
+(iii) a menos que ya esté incluido en (a), el grupo de altos cargos de la entidad que presenta 
+los estados financieros, incluyendo el director general o principal responsable de la 
+entidad que informa.  
+Supervisión significa la vigilancia de las actividades de una entidad, con la autoridad y 
+responsabilidad de controlar, o ejercitar una influencia significativa sobre, las decisiones financieras 
+y operativas de la entidad.  
+Parte relacionada significa que una parte se considera relacionada con otra parte si una de ellas tiene 
+la posibilidad (a) de ejercer el control sobre la otra, o (b) de ejercer influencia significativa sobre ella 
+al tomar sus decisiones financieras y operativas, o si la parte relacionada y la otra entidad están 
+sujetas a control común. Las partes relacionadas incluyen: INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+NICSP 20 534 
+(a) entidades que directamente, o indirectamente a través de uno o más intermediarios, controlan 
+o son controladas por la entidad que presenta los estados financieros; 
+(b) asociadas (véase la NICSP 36, Inversiones en Asociadas y Negocios Conjuntos); 
+(c) individuos que posean, directa o indirectamente, alguna participación en la entidad que 
+informa, de manera que les permita ejercer influencia significativa sobre la misma, así como 
+los familiares próximos de tales individuos; 
+(d) personal clave de la gerencia y familiares próximos a los mismos; y 
+(e) entidades en las cuales cualquiera de las personas descritas en c) o d) posea, directa o 
+indirectamente, una participación sustancial, o sobre las que tales personas pueden ejercer 
+influencia significativa. 
+Transacción entre partes relacionadas es toda transferencia de recursos u obligaciones entre partes 
+relacionadas, con independencia de que se cargue o no un precio. Las transacciones entre partes 
+relacionadas excluyen transacciones con cualquier otra entidad que sea una parte relacionada 
+debido solo a su dependencia económica de la entidad que informa o del gobierno del que forma 
+parte. 
+Remuneración del personal clave de la gerencia es cualquier prestación o beneficio pagado por la 
+entidad que presenta los estados financieros al personal clave de la gerencia, que se deriva directa 
+o indirectamente de los servicios prestados en su condición de miembros del órgano de gobierno, o 
+de cualquier otro modo como empleados de la entidad que informa.  
+Influencia significativa (a los efectos de esta Norma) es la capacidad de intervenir en las decisiones 
+de política financiera y operativa de la entidad, sin llegar a tener el control sobre esas políticas. La 
+influencia significativa se puede ejercer de varias formas, normalmente, a través de la representación 
+en el consejo de administración u órgano de gobierno equivalente pero también, por ejemplo, a 
+través de la participación en (a) el proceso de fijación de políticas, (b) transacciones de importancia 
+entre entidades que pertenecen a una misma entidad económica, (c) intercambio de personal 
+directivo, o (d) dependencia en la información técnica. La influencia significativa puede obtenerse a 
+través de una participación en la propiedad, por derecho legal o por acuerdos. En el caso de 
+participación en la propiedad, se presume la existencia de influencia significativa si se cumplen las 
+condiciones dadas en la definición de la NICSP 36. 
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en 
+dichas Normas, y se reproducen en el Glosario de términos definidos publicado por separado. 
+Familiares cercanos de un individuo",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones — párr. 4 — p. 5-6,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 5, ""page_fin_pdf"": 6, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0005,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Familiares cercanos de un individuo,5,5,6,6,definition,"A efectos de aplicación de esta Norma es necesario valorar si un individuo debe ser identificado como 
+familiar cercano de un individuo. En ausencia de información que indique lo contrario, como que el cónyuge 
+u otro pariente está alejado del individuo, se presume que los siguientes miembros próximos a la familia y 
+parientes cercanos tienen, o están sujetos a, una influencia tal como para satisfacer la definición de 
+familiares cercanos de un individuo:  
+(a) un cónyuge, pareja, hijos a su cargo o parientes que viven en el hogar común; 
+(b) un abuelo/a, padre o madre, los hijos que no estén a su cargo, nietos, hermano o hermana; y 
+(c) el cónyuge o pareja de un hijo/a, un suegro/a o un cuñado/a.  INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+ 535 NICSP 20 
+Personal clave de la gerencia",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Familiares cercanos de un individuo — párr. 5 — p. 6,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Familiares cercanos de un individuo"", ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0006,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Personal clave de la gerencia,6,6,7,7,definition,"El personal clave de la gerencia incluye a todos los directivos o miembros del órgano de gobierno de la 
+entidad que informa, cuando dicho órgano tiene la autoridad y responsabilidad de la planificación, la gerencia 
+y el control de las actividades de la ent idad. En el nivel del gobierno en su conjunto, el órgano de gobierno 
+puede consistir de un conjunto elegido o nombrado de representantes (por ejemplo, un presidente o 
+gobernador, ministros, consejeros o concejales o los designados por ellos).",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Personal clave de la gerencia — párr. 6 — p. 7,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Personal clave de la gerencia"", ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0007,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Personal clave de la gerencia,7,7,7,7,definition,"Si una entidad está sometida a la supervisión de un representante electo o nombrado del órgano de gobierno 
+o gobierno al cual pertenece dicha entidad, esa persona se incluirá en el personal clave de la gerencia si la 
+función de supervisión incluye la autoridad y responsabilidad en la planificación, la gerencia y el control de 
+las actividades de la entidad. En muchas jurisdicciones, los consejeros clave de esa persona pueden no 
+poseer suficiente autoridad, legal o de otro tipo, como para satisfacer la defini ción de personal clave de la 
+gerencia. En otras jurisdicciones, los consejeros clave de esa persona pueden ser considerados como 
+personal clave de la gerencia porque tienen una relación especial de trabajo con un individuo que tiene 
+control sobre la entidad. Ellos, por lo tanto, tienen acceso a información privilegiada y también pueden ejercer 
+control o una influencia significativa sobre una entidad. Se requiere el ejercicio del juicio para valorar si un 
+individuo es un consejero clave, y si ese consejero satisface la definición de personal clave de la gerencia, 
+o es una parte relacionada.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Personal clave de la gerencia — párr. 7 — p. 7,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Personal clave de la gerencia"", ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0008,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Personal clave de la gerencia,8,8,7,7,definition,"El órgano de gobierno, junto con el director general y el grupo de altos cargos, tiene la autoridad y 
+responsabilidad en la planificación y control de las actividades de la entidad, gestión de los recursos y del 
+logro en general de los objetivos de la enti dad. Por lo tanto, el personal clave de la gerencia incluirá al 
+director general y grupo de altos cargos de la entidad que presenta sus estados financieros. En algunas 
+jurisdicciones, los funcionarios no tienen suficiente autoridad y responsabilidad como para ser calificados 
+como personal clave de la gerencia (tal y como se define en esta norma) de la entidad que informa 
+considerada como el gobierno en su conjunto. En estos casos, el personal clave de la gerencia solo incluirá 
+aquellos miembros elegidos del órgano de gobierno que tienen mayor responsabilidad para el gobierno; a 
+menudo a esas personas se las denomina Consejo, o Gabinete de Ministros.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Personal clave de la gerencia — párr. 8 — p. 7,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Personal clave de la gerencia"", ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0009,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Personal clave de la gerencia,9,9,7,7,definition,"El grupo de altos cargos de una entidad económica puede abarcar individuos tanto de la entidad controladora 
+como de otras entidades que integran colectivamente la entidad económica. 
+Partes relacionadas",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Personal clave de la gerencia — párr. 9 — p. 7,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Personal clave de la gerencia"", ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0010,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Partes relacionadas,10,10,7,7,definition,"Al considerar cada posible relación de vinculación, el énfasis se coloca en el fondo económico de la relación, 
+y no meramente en la forma legal de la misma.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Partes relacionadas — párr. 10 — p. 7,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Partes relacionadas"", ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0011,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Partes relacionadas,11,11,7,7,definition,"Si dos entidades tienen un miembro del personal clave de la gerencia en común, es necesario considerar la 
+posibilidad, y valorar la probabilidad, de que el directivo pueda influir en las políticas de ambas entidades en 
+sus relaciones mutuas. Sin embargo, el mero hecho de que haya un miembro del personal clave de la 
+gerencia en común no crea necesariamente una relación entre partes relacionadas.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Partes relacionadas — párr. 11 — p. 7,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Partes relacionadas"", ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0012,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Partes relacionadas,12,12,7,7,definition,"En el contexto de la presente Norma, los siguientes casos no se consideran partes relacionadas: 
+(a) Proveedores de financiación en el curso de su actividad en ese sentido; y 
+(i) sindicatos; 
+(ii) en el curso de sus relaciones normales con una entidad en virtud de las mismas (aunque 
+puedan condicionar la libertad de acción de la entidad o participar en su proceso de toma de 
+decisiones); y 
+(b) Una entidad con la cual la relación sea meramente la de una agencia. INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+NICSP 20 536",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Partes relacionadas — párr. 12 — p. 7,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Partes relacionadas"", ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0013,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Partes relacionadas,13,13,8,8,definition,"Las relaciones entre partes relacionadas pueden surgir cuando un individuo es o miembro del órgano de 
+gobierno o participa en las decisiones financieras y operativas de la entidad que informa. Las relaciones 
+entre partes relacionadas también pueden surgir a través de relaciones operativas externas entre la entidad 
+que informa y la parte relacionada. Tales relaciones implicarán, a menudo, cierto grado de dependencia 
+económica.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Partes relacionadas — párr. 13 — p. 8,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Partes relacionadas"", ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0014,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Partes relacionadas,14,14,8,8,definition,"Dependencia económica, si una entidad es dependiente de otra en el sentido de que depende de esta última 
+un volumen significativo de su financiación o venta de bienes y servicios, sería poco probable que por sí sola 
+condujese a la existencia de control o de una influencia significativa y, por lo tanto, es poco probable que 
+origine una relación entre partes relacionadas. Por lo tanto, cualquier mero cliente, proveedor, concesionario, 
+distribuidor o agente en exclusiva con los que la entidad realiza un signif icativo volumen de transacciones 
+no será una parte relacionada simplemente en virtud de la dependencia económica resultante de las mismas. 
+Sin embargo, la dependencia económica junto con otros factores, puede originar una influencia significativa 
+y, por lo tanto, una relación entre partes relacionadas. Se requiere del juicio profesional para valorar el 
+impacto de la dependencia económica de una relación. Si la entidad que presenta los estados financieros 
+es económicamente dependiente de otra entidad, se aco nseja a la entidad que informa que revele la 
+existencia de esa dependencia.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Partes relacionadas — párr. 14 — p. 8,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Partes relacionadas"", ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0015,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Partes relacionadas,15,15,8,8,definition,"La definición de parte relacionada incluye entidades propiedad del personal clave de la gerencia o de sus 
+familiares cercanos o accionistas importantes (o su equivalente cuando la entidad no posea una estructura 
+formal de capital) de la entidad que present a los estados financieros. La definición de parte relacionada 
+también incluye las circunstancias en las que una parte posee la capacidad de ejercer una influencia 
+significativa sobre la otra parte. En el sector público, puede otorgarse a un individuo o a una entidad la 
+responsabilidad de supervisar a una entidad que presenta estados financieros, lo que le otorga una influencia 
+significativa, pero no el control, sobre las decisiones financieras y operativas de la entidad que presenta los 
+estados financieros. A efectos de esta Norma, se utiliza el término influencia significativa para referirse al 
+control conjunto. 
+Remuneración del personal clave de la gerencia",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Partes relacionadas — párr. 15 — p. 8,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Partes relacionadas"", ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0016,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Remuneración del personal clave de la gerencia,16,16,8,8,definition,"La remuneración del personal clave de la gerencia incluye remuneraciones pagadas por la entidad que 
+presenta los estados financieros por servicios suministrados a la entidad a favor de los individuos en su 
+condición de miembros del órgano de administración  o de empleados. Los beneficios pagados directa o 
+indirectamente por la entidad, por servicios de cualquier naturaleza, distintos a aquellos como empleado o 
+miembro del órgano de gobierno, no satisfacen la definición de remuneración del personal clave de l a 
+gerencia en esta Norma. Sin embargo, el párrafo 34 exige que se revele información acerca de ciertos de 
+esos otros beneficios. La remuneración del personal clave de la gerencia excluye cualquier contraprestación 
+suministrada meramente como reembolso de desembolsos incurridos por esos individuos en beneficio de la 
+entidad que presenta los estados financieros, tales como el reembolso de costos de alojamiento asociados 
+con viajes de trabajo. 
+Derechos de voto",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Remuneración del personal clave de la gerencia — párr. 16 — p. 8,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Remuneración del personal clave de la gerencia"", ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0017,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Definiciones,Derechos de voto,17,17,8,8,definition,"La definición de parte relacionada incluye a cualquier individuo que posea, directa o indirectamente, alguna 
+participación en los derechos de voto de la entidad que presenta los estados financieros, de manera que les 
+permita ejercer influencia significativ a sobre la misma. El mantenimiento de una participación en los 
+derechos de voto puede surgir cuando una entidad del sector público tiene una estructura corporativa y un 
+ministro o agencia del gobierno posee acciones de la entidad. 
+Acerca de las partes relacionadas",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Definiciones / Derechos de voto — párr. 17 — p. 8,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Derechos de voto"", ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0018,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Acerca de las partes relacionadas,,18,18,9,9,paragraph,"Las relaciones entre partes relacionadas existen en el sector público, por las siguientes razones:  INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+ 537 NICSP 20 
+(a) las unidades administrativas están sujetas a la dirección general del poder ejecutivo y, finalmente, del 
+Parlamento u órgano similar de dirigentes electos o nombrados, y operan conjuntamente para cumplir 
+con las políticas del gobierno;  
+(b) los ministerios y agencias del gobierno frecuentemente llevan a cabo actividades necesarias para el 
+logro de los distintos componentes de sus responsabilidades y objetivos a través de entidades 
+controladas separadas, y a través de entidades sobre las que ejercen una influencia significativa; y 
+(c) los ministros u otros miembros electos o nombrados del gobierno y del grupo de altos cargos pueden 
+ejercer una influencia significativa sobre las operaciones de un departamento o agencia.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Acerca de las partes relacionadas — párr. 18 — p. 9,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Acerca de las partes relacionadas"", ""subseccion"": null, ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0019,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Acerca de las partes relacionadas,,19,19,9,9,paragraph,"La revelación de información sobre ciertas relaciones y transacciones entre partes relacionadas y la relación 
+que subyace bajo esas transacciones es necesaria para fines de rendición de cuentas, y permite a los 
+usuarios entender mejor los estados financieros de la entidad que presenta los estados financieros, porque: 
+(a) las relaciones entre partes relacionadas pueden influir en el modo en el que una entidad opera con 
+otras entidades en el logro de sus objetivos individuales, y el modo en que coopera con otras entidades 
+para cumplir con los objetivos comunes o colectivos;  
+(b) las relaciones entre partes relacionadas pueden exponer a una entidad a riesgos, u ofrecerle 
+oportunidades, que no habrían existido en ausencia de dicha relación; y 
+(c) las partes relacionadas pueden realizar transacciones que otras partes sin relación no emprenderían, 
+o pueden acceder a realizar transacciones en diferentes plazos y condiciones de las que estarían 
+disponibles normalmente para partes sin vinculación alguna. Esto ocurre frecuentemente en 
+departamentos y agencias gubernamentales, cuando los bienes y servicios se transfieren entre los 
+mismos por un importe menor al de recuperación total del costo como parte de los procedimientos 
+operativos normales en congruen cia con el logro de los objetivos de la entidad que presenta los 
+estados financieros y del gobierno. Se espera que los gobiernos y las entidades individuales del sector 
+público utilicen los recursos de forma eficiente, efectiva y de la forma propuesta y qu e gestionen los 
+fondos públicos con los niveles más elevados de integridad. La existencia de relaciones entre partes 
+relacionadas implica que una parte puede controlar o influir significativamente en las actividades de 
+otra entidad. Esto hace posible que las transacciones tengan lugar de una forma que puede favorecer 
+inapropiadamente a una de las partes a expensas de otra.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Acerca de las partes relacionadas — párr. 19 — p. 9,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Acerca de las partes relacionadas"", ""subseccion"": null, ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0020,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Acerca de las partes relacionadas,,20,20,9,9,paragraph,"La revelación de ciertos tipos de transacciones entre partes relacionadas, y los plazos y condiciones en las 
+que se han llevado a cabo, permite a los usuarios valorar el impacto de dichas transacciones sobre la 
+situación financiera y rendimiento de una entidad y su capacidad para suministrar los servicios convenidos. 
+La revelación de esta información también asegura que la entidad es transparente acerca de sus relaciones 
+con partes relacionadas.  
+Remuneración del personal clave de la gerencia",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Acerca de las partes relacionadas — párr. 20 — p. 9,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Acerca de las partes relacionadas"", ""subseccion"": null, ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0021,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Acerca de las partes relacionadas,Remuneración del personal clave de la gerencia,21,21,9,10,paragraph,"El personal clave de la gerencia mantiene posiciones de responsabilidad dentro de una entidad. Son 
+responsables de la planificación estratégica y gestión operativa de la entidad y se les encomienda una 
+autoridad significativa. Sus salarios a menudo se establecen por disposición estatutaria o por un tribunal 
+independiente o por otro órgano independiente de la entidad que informa. Sin embargo, sus 
+responsabilidades pueden capacitarlos para influir en los beneficios del centro administrativo que fluyen 
+hacia ellos o a sus partes relacionadas. Esta Norma exige que se revele cierta información sobre (a) la 
+remuneración del personal clave de la gerencia y sus familiares cercanos durante el periodo sobre el que se 
+informa, (b) préstamos que les han sido concedidos, y (c) la contraprestación que se les ha pagado por los 
+servicios que prestan a la entidad distintos de los que perciben como miembros del órgano de gobierno o INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+NICSP 20 538 
+como empleados. La revelación de información exigida por esta Norma asegura que se aplican unos niveles 
+mínimos de transparencia a la remuneración del personal clave de la gerencia y sus familiares cercanos.  
+Materialidad o Importancia relativa",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Acerca de las partes relacionadas / Remuneración del personal clave de la gerencia — párr. 21 — p. 9-10,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Acerca de las partes relacionadas"", ""subseccion"": ""Remuneración del personal clave de la gerencia"", ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 9, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0022,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Materialidad o Importancia relativa,,22,22,10,10,paragraph,"La NICSP 1 requiere que se revele información separada de partidas materiales. La materialidad de una 
+partida se determina en relación a su naturaleza o magnitud. Al valorar la materialidad de transacciones 
+entre partes relacionadas, la naturaleza de la relación existente entre la entidad que presenta los estados 
+financieros y la parte relacionada, y la naturaleza de la transacción, pueden implicar que una transacción 
+tiene materialidad independientemente de su magnitud. 
+Información a revelar",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Materialidad o Importancia relativa — párr. 22 — p. 10,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Materialidad o Importancia relativa"", ""subseccion"": null, ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0023,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,,23,23,10,10,paragraph,"En muchos países, las leyes y otras disposiciones legales para la presentación de información financiera 
+exigen que los estados financieros de entidades del sector privado y entidades del sector público comercial 
+revelen información sobre ciertas categorías de partes relacionadas y transacciones entre partes 
+relacionadas. Particularmente, la atención se centra en las transacciones con los directivos de la entidad o 
+los miembros de su órgano de gobierno y con su grupo de altos cargos, especialmente en las 
+remuneraciones y préstamos concedidos. Esto es así (a) a consecuencia de las responsabilidades 
+fiduciarias de los directivos, miembros del órgano de gobierno y grupo de altos cargos, y (b) porque tienen 
+amplios poderes sobre el despliegue de recursos de la entidad. En algunas jurisdicciones, se incluyen 
+exigencias similares en los estatutos y regulaciones aplicables a las entidades del sector público.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar — párr. 23 — p. 10,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0024,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,,24,24,10,10,paragraph,"Algunas NICSP también requieren revelar información sobre transacciones con partes relacionadas. Por 
+ejemplo, la NICSP 1 requiere la revelación de los importes a pagar y recibir de entidades controladoras, 
+otras entidades controladas, asociadas y otras par tes relacionadas. La NICSP  38, Información a Revelar 
+sobre Participaciones en Otras Entidades , requiere que una entidad revele información que permita a los 
+usuarios de sus estados financieros consolidados comprender la composición de la entidad económica e 
+información acerca de cada acuerdo conjunto y asociada que es significativo para la entidad que informa. 
+Información a revelar sobre control",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar — párr. 24 — p. 10,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0025,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre control,25,25,10,10,paragraph,"Cuando exista control deben revelarse las relaciones entre partes relacionadas, con independencia 
+de que se hayan producido transacciones entre las mismas.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre control — párr. 25 — p. 10,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre control"", ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0026,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre control,26,26,10,10,paragraph,"Para que el lector de los estados financieros pueda hacerse una idea de los efectos que la existencia de 
+partes relacionadas tiene sobre la entidad que presenta los estados financieros, es apropiado revelar dichas 
+relaciones, siempre que haya control, con independencia de que se hayan o no producido transacciones 
+entre las partes relacionadas. Esto implicará la revelación de los nombres de toda entidad controlada, el 
+nombre de la inmediata controladora y el nombre de la controladora final, si la hubiera.  
+Información a revelar sobre transacciones entre partes relacionadas",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre control — párr. 26 — p. 10,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre control"", ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0027,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre transacciones entre partes relacionadas,27,27,10,10,paragraph,"Con respecto a las transacciones entre partes relacionadas distintas a las transacciones que 
+tendrían lugar dentro de la relación normal entre un proveedor y un cliente bajo plazos y condiciones 
+ni más ni menos favorables que aquellas que razonablemente se espera que la entidad habría 
+adoptado, en las mismas circunstancias, si estuviera negociando con un individuo o entidad en una 
+transacción libre, la entidad que presenta sus estados financieros debe revelar: 
+(a) la naturaleza de la relación con la parte relacionada; 
+(b) los tipos de transacciones que han tenido lugar; y 
+(c) los elementos de las transacciones necesarios para clarificar el significado de las mismas para 
+sus operaciones y suficientes como para permitir que los estados financieros proporcionen INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+ 539 NICSP 20 
+información relevante y fielmente representativa para la toma de decisiones y a efectos de la 
+rendición de cuentas.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre transacciones entre partes relacionadas — párr. 27 — p. 10,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre transacciones entre partes relacionadas"", ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0028,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre transacciones entre partes relacionadas,28,28,11,11,paragraph,"Las situaciones siguientes son ejemplos en los que la existencia de partes relacionadas puede dar lugar a 
+la revelación de información por parte de la entidad que informa: 
+(a) prestación o recepción de servicios; 
+(b) compras o transferencias/ventas de bienes (terminados o no); 
+(c) compras o transferencias/ventas de propiedades y otros activos; 
+(d) acuerdos de agencia; 
+(e) acuerdos sobre arrendamientos financieros; 
+(f) transferencias de investigación y desarrollo; 
+(g) acuerdos sobre licencias; 
+(h) financiación (incluyendo préstamos, aportaciones de capital, donaciones, ya sean en efectivo o 
+especie, y otro tipo de soporte financiero incluyendo acuerdos para compartir costos); y 
+(i) garantías y avales.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre transacciones entre partes relacionadas — párr. 28 — p. 11,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre transacciones entre partes relacionadas"", ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0029,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre transacciones entre partes relacionadas,29,29,11,11,paragraph,"Las entidades del sector público diariamente realizan numerosas transacciones entre ellas. Estas 
+transacciones pueden llevarse a cabo por el costo, por menos del costo o libres de todo cargo. Por ejemplo, 
+un departamento gubernamental de servicios administ rativos puede ofrecer alojamiento para oficinas libre 
+de todo cargo a otros departamentos, o una entidad del sector público puede actuar como un agente 
+comprador para otras entidades del sector público. En algunos modelos de gobierno puede darse la 
+capacidad de recuperar un importe superior al costo completo del servicio suministrado. Los departamentos 
+son partes relacionadas porque están sujetos a control común y estas transacciones cumplen con la 
+definición de transacciones entre partes relacionadas. Sin embargo, no se exige la revelación de información 
+sobre transacciones entre estas entidades cuando (a) las transacciones son congruentes con las relaciones 
+operativas normales entre las entidades, y (b) se llevan a cabo bajo plazos y condiciones que son normales 
+para esas transacciones en esas circunstancias. La exclusión de estas transacciones entre partes 
+relacionadas de las exigencias de información establecidas en el párrafo 27 refleja que las entidades del 
+sector público operan conjuntamente para lograr los objetivos comunes, y reconoce que pueden adoptarse 
+diferentes mecanismos para la prestación de servicios por las entidades del sector público en diferentes 
+jurisdicciones. La presente Norma requiere la revelación de información sobre transacciones entre partes 
+relacionadas solo cuando esas transacciones no se lleven a cabo según los parámetros operativos 
+establecidos en esa jurisdicción.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre transacciones entre partes relacionadas — párr. 29 — p. 11,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre transacciones entre partes relacionadas"", ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0030,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre transacciones entre partes relacionadas,30,30,11,11,paragraph,"La información sobre transacciones entre partes relacionadas que será necesario que se revele para cumplir 
+con los propósitos generales de presentación de información financiera, normalmente incluirá: 
+(a) una descripción de la naturaleza de la relación existente entre las partes relacionadas involucradas 
+en esas transacciones, por ejemplo, si la relación era de una entidad controladora, de una entidad 
+controlada, de una entidad bajo control común, o de personal clave de la gerencia; 
+(b) una descripción de las transacciones entre partes relacionadas dentro de cada clase general de 
+transacción y una indicación sobre el volumen de las transacciones, ya sea por una cuantía monetaria 
+específica o como una proporción en esa clase de transacciones y/o saldos; 
+(c) un resumen de los plazos y condiciones generales de las transacciones con partes relacionadas, 
+incluyendo la revelación de cómo dichos plazos y condiciones difieren de los asociados normalmente 
+con transacciones similares con partes no relacionadas; y INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+NICSP 20 540 
+(d) las cuantías absolutas o las proporciones de las partidas más importantes.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre transacciones entre partes relacionadas — párr. 30 — p. 11,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre transacciones entre partes relacionadas"", ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0031,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre transacciones entre partes relacionadas,31,31,12,12,paragraph,"El párrafo 34 de esta Norma requiere que se revele información adicional sobre ciertas transacciones entre 
+una entidad y el personal clave de la gerencia y/o sus familiares cercanos.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre transacciones entre partes relacionadas — párr. 31 — p. 12,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre transacciones entre partes relacionadas"", ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0032,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre transacciones entre partes relacionadas,32,32,12,12,paragraph,"Las partidas de naturaleza similar pueden revelarse de forma agregada, excepto cuando la revelación 
+por separado sea necesaria para suministrar información relevante y fielmente representativa para 
+la toma de decisiones y a efectos de la rendición de cuentas.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre transacciones entre partes relacionadas — párr. 32 — p. 12,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre transacciones entre partes relacionadas"", ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0033,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar sobre transacciones entre partes relacionadas,33,33,12,12,paragraph,"La revelación de transacciones entre partes relacionadas entre miembros de una entidad económica es 
+innecesaria en los estados financieros consolidados puesto que los estados financieros consolidados 
+presentan información acerca de la controladora y las co ntroladas como una única entidad que presenta 
+estados financieros. Las transacciones entre partes relacionadas que tienen lugar entre entidades dentro de 
+una entidad económica, excepto las que ocurren entre una entidad de inversión y sus entidades controladas 
+medidas a valor razonable con cambios en resultados (ahorro o desahorro) del periodo, se eliminan en la 
+consolidación de acuerdo con la NICSP 35, Estados Financieros Consolidados . Las transacciones con 
+entidades asociadas contabilizadas según el método de la participación no se eliminan y, por lo tanto, 
+requieren la revelación de información separadamente como transacciones entre partes relacionadas. 
+Información a revelar - Personal clave de la gerencia",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar sobre transacciones entre partes relacionadas — párr. 33 — p. 12,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar sobre transacciones entre partes relacionadas"", ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0034,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,34,34,12,12,paragraph,"Una entidad revelará: 
+(a) la remuneración agregada del personal clave de la gerencia y el número de individuos, 
+determinado como el equivalente en una base de medición de jornada completa, que recibe 
+remuneración dentro de esta categoría, mostrando de forma separada las clases prin cipales 
+de personal clave de la gerencia e incluyendo una descripción de cada clase; 
+(b) el importe total del resto de remuneraciones y compensaciones suministradas al personal 
+clave de la gerencia, y sus familiares cercanos, por la entidad que presenta los estados 
+financieros durante el periodo sobre el que se informa, mostrando separadamente los importes 
+agregados proporcionados a: 
+(i) personal clave de la gerencia; y 
+(ii) los familiares cercanos del personal clave de la gerencia; y 
+(c) con respecto a préstamos que generalmente no están a disposición de personas que no 
+pertenezcan al personal clave de la gerencia, y préstamos cuya disponibilidad no es muy 
+conocida por el público en general, para cada individuo del personal clave de la ger encia y 
+cada familiar cercano del personal clave de la gerencia: 
+(i) el importe de los préstamos anticipados durante el periodo y sus plazos y condiciones; 
+(ii) el importe de los préstamos que han sido devueltos durante el periodo; 
+(iii) el importe, en la fecha de cierre del estado de situación financiera, de los préstamos y 
+cuentas por cobrar; y 
+(iv) si el individuo no es un directivo o un miembro del órgano de gobierno o del grupo de 
+altos cargos de la entidad, la relación existente entre el individuo y el órgano de gobierno 
+o el grupo de altos cargos.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 34 — p. 12,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0035,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,35,35,12,13,paragraph,"El párrafo 27 de esta Norma requiere la revelación de información sobre transacciones con partes 
+relacionadas que se han llevado a cabo sobre una base distinta a la de una transacción independiente de 
+acuerdo con las condiciones operativas establecidas por  la entidad. Esta Norma también requiere la 
+revelación de información sobre ciertas transacciones con el personal clave de la gerencia identificadas en INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+ 541 NICSP 20 
+el párrafo 34, tanto si se han realizado como si fuesen transacciones independientes como si no, de acuerdo 
+con las condiciones operativas que aplica la entidad en operaciones de ese tipo.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 35 — p. 12-13,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 12, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0036,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,36,36,13,13,paragraph,"Las personas que son personal clave de la gerencia pueden estar contratadas a tiempo completo o a tiempo 
+parcial. El número de individuos que se revela que recibe remuneración según lo establecido el párrafo 34(a) 
+necesita ser estimado sobre una base de ti empo completo. Las entidades revelarán por separado las 
+principales clases de personal clave de la gerencia de que disponen. Por ejemplo, si una entidad tiene un 
+órgano de gobierno separado de su grupo de altos cargos, la revelación de información sobre la  
+remuneración de los dos grupos deberá hacerse por separado. Si un individuo es miembro tanto del órgano 
+de gobierno como del grupo de altos cargos, a efectos de esta Norma, ese individuo se incluirá solo en uno 
+de esos grupos. Las categorías de personal c lave de la gerencia que se identifican en la definición de 
+personal clave de la gerencia ofrecen una guía para identificar las distintas clases de personal clave de la 
+gerencia.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 36 — p. 13,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0037,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,37,37,13,13,paragraph,"La remuneración del personal clave de la gerencia puede incluir distintos beneficios directos e indirectos. Si 
+el costo de tales beneficios puede ser determinado, ese costo será incluido en la cantidad de remuneración 
+agregada revelada. Si el costo de esos  beneficios no puede ser determinado, la mejor estimación posible 
+del costo para la entidad, o entidades, que presenta estados financieros se incluirá en la remuneración 
+agregada revelada.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 37 — p. 13,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0038,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,38,38,13,13,paragraph,"Los requerimientos sobre la medición de los beneficios a los empleados se encuentran en la NICSP 39, 
+Beneficios a los Empleados . Si una remuneración no monetaria que es objeto de medición fiable ha sido 
+incluida en el importe agregado de remuneración del personal clave de la gerencia revelado durante el 
+periodo, también deberá revelarse en las notas a los estados financieros sobre la base de medición de esa 
+remuneración no monetaria.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 38 — p. 13,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0039,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,39,39,13,13,paragraph,"Esta Norma exige la revelación de cierta información sobre los plazos y condiciones de los préstamos 
+concedidos al personal clave de la gerencia y sus familiares cercanos, cuando estos préstamos: 
+(a) generalmente no están a disposición de personas que no pertenezcan al personal clave de la gerencia; 
+y  
+(b) pueden estar generalmente disponibles para personas que no pertenezcan al personal clave de la 
+gerencia, pero dicha disponibilidad no es muy conocida por el público en general. 
+La revelación de esta información se exige a efectos de rendición de cuentas. Puede ser necesario ejercer 
+el juicio para determinar qué préstamos deben ser revelados para satisfacer las exigencias de esta Norma. 
+Estos juicios deberán ejercerse después de considerar los hechos relevantes y de forma congruente con el 
+logro de los objetivos de la presentación de información financiera.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 39 — p. 13,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0040,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,40,40,13,13,paragraph,"El párrafo 34(a) de esta Norma requiere la revelación de la remuneración agregada del personal clave de la 
+gerencia. El personal clave de la gerencia incluye directores o miembros del órgano de gobierno y miembros 
+del grupo de altos cargos de la entidad. Los directivos o miembros del órgano de gobierno de la entidad 
+también pueden recibir remuneraciones o compensaciones de la entidad por servicios suministrados en 
+calidad distinta (a) a la de ser directivo o miembro del órgano de gobierno de la entidad, o ( b) a la de 
+empleado de la entidad. El párrafo 34(b)(i) de esta Norma requiere la revelación de la cuantía total de esta 
+otra remuneración o compensación.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 40 — p. 13,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0041,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Información a revelar,Información a revelar - Personal clave de la gerencia,41,41,13,13,paragraph,"Los familiares cercanos del personal clave de la gerencia pueden influir, o ser influidos por, el personal clave 
+de la gerencia en sus transacciones con la entidad que presenta los estados financieros. El párrafo 34(b)(ii) 
+de esta Norma requiere la revelac ión de la remuneración total y compensación suministrada durante el 
+periodo a los familiares cercanos del personal clave de la gerencia. 
+Fecha de vigencia INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS 
+NICSP 20 542",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Información a revelar / Información a revelar - Personal clave de la gerencia — párr. 41 — p. 13,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0041"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información a revelar - Personal clave de la gerencia"", ""parrafo_ini"": 41, ""parrafo_fin"": 41, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0042,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Fecha de vigencia,,42,42,14,14,paragraph,"Una entidad aplicará esta Norma para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de enero de 2004. Se aconseja su aplicación anticipada. Si una entidad aplica 
+esta Norma en periodos que comiencen antes del 1 de enero de 2004, deberá revelar este hecho. La NICSP 33, Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector 
+Público de Base de Acumulación (o devengo) (NICSP) emitida en enero de 2015 modificó el párrafo La NICSP 35, Estados Financieros Consolidados  la NICSP 37, Acuerdos Conjuntos  y la NICSP 38, 
+Información a Revelar sobre Participaciones en Otras Entidades, emitidas en enero de 2015, 
+modificaron los párrafos 4, 15, 24 y 33. Una entidad aplicará esas modificaciones cuando aplique las 
+NICSP 35, NICSP 37 y NICSP 38. Los párrafos 27 y 32 fueron modificados por el documento Mejoras a las NICSP 2015 emitido en abril 
+de 2016. Una entidad aplicará estas modificaciones para los estados financieros anuales que cubran 
+periodos que comiencen a partir del 1 de enero de 2017. Se aconseja su aplicación anticipada. Si una 
+entidad aplica estas modificaciones par a un periodo que comience antes del 1 de enero de 2017, 
+deberá revelar este hecho. Los párrafos 2 y 3 fueron eliminados por el documento La Aplicabilidad de las NICSP, emitido en 
+abril de 2016. Una entidad aplicará esas modificaciones para los estados financieros anuales que 
+cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada. 
+Si una entidad aplica las modificaciones para un periodo que comience antes del 1 de enero de 2018, 
+deberá revelar este hecho. El párrafo 38 fue modificado por la NICSP 39, Beneficios a los Empleados, emitida en julio de 2016. 
+Una entidad aplicará esa modificación para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada. Si una entidad 
+aplicase la modificación para un periodo que comience antes del 1 de enero de 2018, revelará este 
+hecho y aplicará al mismo tiempo la NICSP 39.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Fecha de vigencia — párr. 42 — p. 14,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 42, ""parrafo_fin"": 42, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"
+NICSP-20-P0043,NICSP,NICSP-20,INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS,2025-01-31,es,Fecha de vigencia,,43,43,14,14,paragraph,"Cuando una entidad adopte las NICSP de contabilidad de acumulación (o devengo), tal como se definen en 
+la NICSP 33, Adopción por Primera Vez de las Normas Internacionales de Contabilidad del Sector Público  
+(NICSP), a efectos de información financiera con posterioridad a esta fecha de vigencia, esta Norma se 
+aplicará a los estados financieros anuales de la entidad que cubran periodos que comiencen a partir de la 
+fecha de adopción de las NICSP.",NICSP-20 — INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS — Fecha de vigencia — párr. 43 — p. 14,NICSP 20.pdf,"{""chunk_id"": ""NICSP-20-P0043"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-20"", ""norma_titulo"": ""INFORMACIÓN A REVELAR SOBRE PARTES RELACIONADAS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 43, ""parrafo_fin"": 43, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 20.pdf""}"

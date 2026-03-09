@@ -1,0 +1,752 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP-21-P0001,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Objetivo,,1,1,8,8,paragraph,"El objetivo de esta Norma es establecer los procedimientos que una entidad debe aplicar para determinar si 
+un activo no generador de efectivo se ha deteriorado y asegurar que se reconocen las correspondientes 
+pérdidas por deterioro. Esta Norma también espe cifica cuándo la entidad revertirá la pérdida por deterioro 
+del valor, así como la información a revelar. 
+Alcance",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Objetivo — párr. 1 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Objetivo"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0002,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,2,2,8,8,paragraph,"Una entidad que prepare y presente sus estados financieros según la base contable de acumulación (o 
+devengo), deberá aplicar la presente Norma en la contabilización del deterioro del valor de activos no 
+generadores de efectivo, excepto: 
+(a) inventarios (véase la NICSP 12, Inventarios);  
+(b) activos por acuerdos vinculantes y los activos derivados de los costos para obtener o cumplir 
+un acuerdo vinculante que se reconocen de conformidad con la NICSP 47, Ingresos; 
+(c) activos financieros que se encuentren incluidos en el alcance de la NICSP  41, Instrumentos 
+Financieros;  
+(d) propiedades de inversión que se midan utilizando el modelo del valor actual (véase la NICSP 
+16, Propiedades de Inversión); 
+(e) [Eliminado] 
+(f) [Eliminado] 
+(fa) activos no corrientes (o grupos de activos para su disposición) clasificados como mantenidos 
+para la venta de acuerdo con la NICSP 44, Activos no Corrientes Mantenidos Para la Venta y 
+Operaciones Discontinuadas; y 
+(g) otros activos con respecto a los requerimientos contables para el deterioro de valor que se 
+incluyen en otra NICSP.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 2 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0003,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,3,3,8,8,deleted,[Eliminado],NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 3 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0004,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,4,4,8,8,deleted,[Eliminado],NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 4 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0005,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,5,5,8,8,paragraph,"Las entidades el sector público que posean activos generadores de efectivo tal y como se definen en el 
+párrafo 14, deberán aplicar la NICSP 26, Deterioro del Valor de Activos Generadores de Efectivo, a dichos 
+activos. Las entidades del sector público que posean activos no generadores de efectivo deberán aplicar los 
+requerimientos de esta Norma a los activos no generadores de efectivo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 5 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0006,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,6,6,8,8,paragraph,"La presente Norma excluye de su alcance el deterioro del valor de activos que se trate en otra NICSP. Las 
+entidades del sector público aplicarán la NICSP 26 a sus activos generadores de efectivo y la presente 
+Norma a sus activos no generadores de efectivo.  En los párrafos 6 a 13 se explica con mayor detalle el 
+alcance de esta Norma.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 6 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0007,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,7,7,8,8,deleted,[Eliminado],NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 7 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0008,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,8,8,8,8,paragraph,"Esta Norma no se aplica a los inventarios ni a los activos procedentes de acuerdos vinculantes y activos 
+procedentes de los costos para obtener o cumplir un acuerdo vinculante (o incluidos en un grupo enajenable 
+clasificado como mantenido para la venta) porque las NICSP existentes aplicables a estos activos contienen 
+requerimientos para reconocer y medir dichos activos.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 8 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0009,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,9,9,8,8,paragraph,"Esta Norma no se aplica a los activos financieros incluidos en el alcance de la NICSP  28, Instrumentos 
+Financieros: Presentación. El deterioro de valor de estos activos se trata en la NICSP 41. 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 555 NICSP 21",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 9 — p. 8,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0010,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,10,10,9,9,paragraph,"Esta Norma no requiere la aplicación de una prueba de deterioro de valor a propiedades de inversión que 
+se miden por su valor razonable dentro del alcance de la NICSP 16. Esto es así porque, según el modelo 
+de valor actual de la NICSP 16, una propiedad de inversión se contabiliza por su valor razonable en la fecha 
+de presentación y cualquier deterioro de valor será tenido en cuenta en su valoración. Sin embargo, esta Norma se aplicará, a los activos no generadores de efectivo que se contabilicen por 
+su importe revaluado (es decir, su valor razonable o su valor operativo actual en la fecha de la revaluación 
+menos la depreciación acumulada posterior y las pérdidas por deterioro de valor acumuladas posteriores), 
+de acuerdo con otras NICSP, tales como el modelo del valor actual de la NICSP 45, Propiedades, Planta y 
+Equipo, y el modelo de revaluación de la NICSP 31, Activos Intangibles.  
+(a) Si los costos de disposición son insignificantes, el importe de servicio recuperable del activo no 
+generador de efectivo revaluado necesariamente estará próximo a su valor revaluado, o será superior 
+a éste. En este caso, después de la aplicación de los criterios de la revaluación, es improbable que el 
+activo no generador de efectivo revaluado se haya deteriorado, y por tanto no es necesario estimar el 
+importe de servicio recuperable. 
+(b) Si los costos de disposición no fueran insignificantes, el valor razonable menos los costos de 
+disposición del activo no generador de efectivo revaluado será necesariamente menor que su valor 
+razonable. En consecuencia, se deteriorará el valor del activo no generador de efectivo si su valor en 
+uso es menor que su importe revaluado. En este caso, después de la aplicación de los requerimientos 
+de la revaluación, una entidad aplicará esta Norma para determinar si el activo no generador de 
+efectivo ha sufrido o no un deterioro de su valor.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 10 — p. 9,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0011,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,11,11,9,9,deleted,[Eliminado],NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 11 — p. 9,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0012,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,12,12,9,9,paragraph,"De forma congruente con los requerimientos establecidos en el párrafo 5 anterior, las partidas de 
+propiedades, planta y equipo clasificadas como activos generadores de efectivo, incluyendo aquéllas que 
+se contabilizan por su importe revaluado siguiendo el modelo de valor actual de la NICSP 45, se tratarán 
+conforme a la NICSP 26.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 12 — p. 9,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0013,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Alcance,,13,13,9,9,paragraph,"Las inversiones en: 
+(a) entidades controladas, según se definen en la NICSP 35, Estados Financieros Consolidados; 
+(b) asociadas, según se definen en la NICSP 36, Inversiones en Asociadas y Negocios Conjuntos; y  
+(c) acuerdos conjuntos, según se definen en la NICSP 37, Acuerdos Conjuntos; 
+son activos financieros que se excluyen del alcance de la NICSP 41. Si estas inversiones se clasifican como 
+activos generadores de efectivo, se tratarán según la NICSP 26. Si estos activos no son generadores de 
+efectivo, se tratarán según esta Norma. 
+Definiciones",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Alcance — párr. 13 — p. 9,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0014,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,,14,14,9,10,definition,"Los términos siguientes se usan en esta Norma, con los significados que a continuación se especifican:  
+Un mercado activo es un mercado en el que se dan todas las siguientes condiciones: 
+(a) las partidas objeto de transacción son homogéneas; 
+(b) siempre es posible encontrar compradores y vendedores; y 
+(c) los precios están disponibles para el público. 
+Activos generadores de efectivo son activos mantenidos con el objetivo fundamental de generar un 
+rendimiento comercial. A efectos del deterioro del  valor, la plusvalía se considera un activo 
+generador de efectivo. 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 556 
+Costos de disposición son los costos incrementales directamente atribuibles a la disposición de un 
+activo, excluyendo los costos financieros y el gasto por impuesto a las ganancias. 
+Valor razonable menos los costos necesarios para la venta es el importe que se puede obtener de la 
+venta de un activo en una transacción realizada en condiciones de independencia mutua, entre 
+partes interesadas y debidamente informadas, menos los costos de su disposición. 
+Deterioro del valor es una pérdida en los beneficios económicos o potencial de servicio futuros de 
+un activo, además del reconocimiento sistemático de la pérdida de beneficios económicos o 
+potencial de servicio futuros que se lleva a cabo a través de la depreciación. 
+Activos no generadores de efectivo son aquellos activos distintos a los generadores de efectivo. 
+Importe de servicio recuperable  es el mayor entre el valor razonable de un activo no generador de 
+efectivo menos los costos necesarios para la venta y su valor en uso. 
+Vida útil es: 
+(a) el periodo en el cual se espera que el activo sea utilizado por la entidad; o 
+(b) el número de unidades de producción o similares que la entidad espera obtener del activo. 
+Valor en uso de un activo no generador de efectivo es el valor presente del potencial de servicio 
+restante del activo. 
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en 
+dichas Normas, y se reproducen en el Glosario de términos definidos publicado por separado. 
+ 
+Empresas públicas",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones — párr. 14 — p. 9-10,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 9, ""page_fin_pdf"": 10, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0015,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Empresas públicas,15,15,10,10,deleted,[Eliminado],NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Empresas públicas — párr. 15 — p. 10,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Empresas públicas"", ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0016,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Activos Generadores de Efectivo,16,16,10,10,definition,"Activos generadores de efectivo son activos mantenidos con el objetivo fundamental de generar un 
+rendimiento comercial. Un activo genera un rendimiento comercial cuando se utiliza de una forma 
+congruente con la adoptada por las entidades orientadas a la obtención de beneficios. La posesión de un 
+activo para generar un rendimiento comercial indica que una entidad pretende generar flujos de entrada de 
+efectivo a través de ese activo (o a través de la unidad generadora de efectivo a la que pertenece el activo) 
+y obtener un rendimiento comercial que refleje el riesgo que implica la posesión del mismo. Un activo puede 
+ser mantenido con el objetivo fundamental de generar un rendimiento comercial aunque no cumpla ese 
+objetivo durante un determinado periodo sobre el que se informa. Por el contrario, un activo puede que sea 
+un activo no generador de efectivo, aunque esté llegando a un punto de equilibrio o generando un 
+rendimiento comercial durante un determinado periodo sobre el que se informa. A menos que se indique lo 
+contrario, las referencias a un activo o activos en los siguientes párrafos de esta Norma son referencias a 
+activo(s) no generador(es) de efectivo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Activos Generadores de Efectivo — párr. 16 — p. 10,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos Generadores de Efectivo"", ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0017,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Activos Generadores de Efectivo,17,17,10,10,definition,"Existe un número de circunstancias en que las entidades del sector público pueden poseer algunos activos 
+con el objetivo fundamental de generar un rendimiento comercial, aunque la mayoría de sus activos no se 
+mantienen con ese propósito. Por ejemplo, un hospital puede utilizar un edificio para los pacientes que pagan 
+tarifas. Los activos generadores de efectivo de una entidad del sector público pueden operar 
+independientemente de los activos no generadores de efectivo de la entidad. Por ejemplo, la oficina del 
+registro de la propiedad puede obtener tarifas del registro de los terrenos en forma independiente del 
+departamento de asuntos sobre terrenos.  
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 557 NICSP 21",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Activos Generadores de Efectivo — párr. 17 — p. 10,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos Generadores de Efectivo"", ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0018,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Activos Generadores de Efectivo,18,18,11,11,definition,"En ciertos casos, un activo puede generar flujos de efectivo aunque se mantenga con el objetivo fundamental 
+de prestación de servicios . Por ejemplo, una planta de eliminación de residuos funciona para asegurar la 
+eliminación segura de los residuos médicos generados por los hospitales controlados por el estado, pero la 
+planta también trata una pequeña cantidad de residuos médicos generados por otros hospitales privados en 
+un régimen comercial. El tratamiento de los residuos médicos de los hospitales privados es eventual en las 
+actividades de la planta, y los activos que generan flujos de efectivo no pueden distinguirse de los activos 
+no generadores de efectivo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Activos Generadores de Efectivo — párr. 18 — p. 11,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos Generadores de Efectivo"", ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0019,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Activos Generadores de Efectivo,19,19,11,11,definition,"En otras circunstancias, un activo puede que genere flujos de efectivo y que también sean utilizados para 
+propósitos no generadores de efectivo. Por ejemplo, un hospital público tiene diez salas, nueve de las cuales 
+se utilizan para pacientes que pagan tarifas en un régimen comercial, y la otra se utiliza para los pacientes 
+que no pagan tarifas. Los pacientes de ambas salas utilizan conjuntamente otras instalaciones del hospital 
+(por ejemplo, instalaciones de quirófano). La medida en que el activo se mantiene con el objetivo de 
+proporcionar un rendimiento comercial necesita ser considerado para determinar si la entidad debe aplicar 
+las disposiciones de esta Norma o de la NICSP 26, Deterioro de Valor de Activos Generadores de Efectivo. 
+Si, como en este ejemplo, el componente no generador de efectivo es un componente insignificante del 
+contrato tomado en su conjunto, la entidad aplicará la NICSP 26, en lugar de esta Norma.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Activos Generadores de Efectivo — párr. 19 — p. 11,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos Generadores de Efectivo"", ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0020,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Activos Generadores de Efectivo,20,20,11,11,definition,"En algunos casos, puede que no esté claro si el objetivo fundamental de mantener un activo es generar un 
+rendimiento comercial. En tales casos es necesario evaluar la significatividad de los flujos de efectivo. Puede 
+que sea difícil determinar si el alcance al que el activo genera flujos de efectivo es tan significativo que esta 
+Norma es aplicable, en lugar de la NICSP 26. Se requiere juicio profesional para determinar qué Norma 
+aplicar. La entidad desarrollará criterios para poder ejercer tal juicio profes ional de forma congruente, de 
+acuerdo con la definición de activos generadores de efectivo y activos no generadores de efectivo, y con las 
+guías correspondientes que figuran en los párrafos 16 a 20. El párrafo 73A requiere que una entidad revele 
+los criterios utilizados al formar este juicio. Sin embargo, dados los objetivos generales de la mayoría de 
+entidades del sector público, la presunción es que los activos son no generadores de efectivo, y, por tanto, 
+se aplicará la NICSP 21. A efectos del deterioro de valor, la plusvalía se considera un activo generador de efectivo. La plusvalía no 
+genera beneficios económicos independientemente de otros activos, y se evalúa por deterioro de valor como 
+parte de un grupo de activos. Esta Norma trata la evaluación de activos individuales. La plusvalía solo se 
+reconoce cuando da lugar a entradas de efectivo o reducciones en las salidas de efectivo netas de una 
+adquirente. No se reconoce plusvalía con respecto al potencial de servicio que no da lugar a flujos de efectivo 
+relacionados. El importe de servicio recuperable usado en esta Norma para evaluar el deterioro del valor 
+incluye en el potencial de servicio. Por consiguiente, una entidad aplicará la NICSP 26 en lugar de esta 
+Norma para determinar si se ha deteriorado el valor de la plusvalía.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Activos Generadores de Efectivo — párr. 20 — p. 11,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos Generadores de Efectivo"", ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0021,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Activos Generadores de Efectivo,21,21,11,11,definition,"Activos mantenidos por entidades comerciales del sector público son activos generadores de efectivo. Las 
+entidades del sector público pueden poseer activos para generar un rendimiento comercial. Para los 
+propósitos de esta Norma, un activo poseído por una entidad pública se clasificará como activo generador 
+de efectivo si ese activo (o unidad de la que es parte integrante) se utiliza con el objetivo de generar un 
+rendimiento comercial a través de la provisión de bienes y/o servicios a partes externas. 
+Depreciación",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Activos Generadores de Efectivo — párr. 21 — p. 11,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Activos Generadores de Efectivo"", ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0022,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Depreciación,22,22,11,11,definition,"Depreciación y amortización son la distribución sistemática del importe depreciable de un activo a lo largo 
+de su vida útil. En el caso de un activo intangible, generalmente se utiliza el término amortización en lugar 
+del término depreciación. Ambos términos tienen el mismo significado.  
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 558 
+Deterioro del valor",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Depreciación — párr. 22 — p. 11,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Depreciación"", ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0023,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Definiciones,Deterioro del valor,23,23,12,12,definition,"Esta Norma define deterioro de valor como una pérdida en los beneficios económicos o potencial de servicio 
+futuros de un activo, adicional y por encima del reconocimiento sistemático de la pérdida de beneficios 
+económicos futuros o potencial de servicio a través de la depreciación (amortización). Por lo tanto, el 
+deterioro del valor refleja una disminución en la utilidad de un activo para la entidad que lo controla. Por 
+ejemplo, una entidad puede poseer un almacén diseñado específicamente para propósitos mi litares que 
+actualmente ya no utiliza. Además, dada la naturaleza tan específica de la instalación y su ubicación, es 
+poco probable que pueda ser arrendada o vendida y, por lo tanto, la entidad es incapaz de generar flujos de 
+efectivo por el arrendamiento o disposición del activo. Se considera que el activo ha visto deteriorado su 
+valor puesto que no es capaz de proporcionar a la entidad ningún potencial de servicio – es de poca, o nula, 
+utilidad para la entidad para la contribución al logro de sus objetivos. 
+Identificación de un activo que puede haber deteriorado su valor",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Definiciones / Deterioro del valor — párr. 23 — p. 12,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Deterioro del valor"", ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0024,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,24,24,12,12,paragraph,En los párrafos 26 a 34 se especifica cuándo se debe determinar el importe recuperable.,NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 24 — p. 12,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0025,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,25,25,12,12,paragraph,"El valor de un activo no generador de efectivo se deteriora cuando su importe del mismo en libros excede a 
+su importe de servicio recuperable. En el párrafo 27 se describen algunos indicios clave para saber si ha 
+tenido lugar un deterioro del valor. Si se presenta alguno de tales indicios, la entidad estará obligada a 
+realizar una estimación formal del importe de servicio recuperable. En caso de no presentarse indicio alguno 
+de una pérdida por deterioro potencial, esta Norma no requiere que una entidad real ice una estimación 
+formal del importe de servicio recuperable.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 25 — p. 12,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0026,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,26,26,12,12,paragraph,"Una entidad evaluará, en cada fecha de presentación, si existe algún indicio de deterioro del valor de sus 
+activos. Si existiera este indicio, la entidad estimará el importe de servicio recuperable del activo. Con independencia de la existencia de cualquier indicio de deterioro del valor, una entidad también 
+comprobará anualmente si un activo intangible con una vida útil indefinida o si un activo intangible 
+que no está todavía disponible para el uso ha experime ntado deterioro del valor comparando su 
+importe en libros con su importe de servicio recuperable. Esta comprobación del deterioro del valor 
+puede efectuarse en cualquier momento dentro del periodo sobre el que se informa, siempre que se 
+efectúe en la m isma fecha cada año. La comprobación del deterioro del valor de los activos 
+intangibles diferentes puede realizarse en distintas fechas. No obstante, si este activo intangible se 
+hubiese reconocido inicialmente durante el periodo corriente sobre el que se informa, se comprobará 
+el deterioro de este activo intangible antes de que finalice el periodo corriente sobre el que se 
+informa. 
+26B  La capacidad de un activo intangible para generar los beneficios económicos o potencial de servicio futuros 
+suficientes para recuperar su importe en libros está sujeta, generalmente, a una mayor incertidumbre antes 
+de que el activo esté disponible para su uso que después. En consecuencia, esta Norma requiere que la 
+entidad compruebe, al menos anualmente, el deterioro del valor del importe en libros de un activo intangible 
+que todavía no se encuentre disponible para su uso.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 26 — p. 12,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0027,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,27,27,12,13,paragraph,"Al evaluar si existe algún indicio de que pueda haberse deteriorado el valor de un activo, una entidad 
+considerará, como mínimo, los siguientes indicios: 
+Fuentes externas de información 
+(a) cese o próximo cese, de la demanda o necesidad de los servicios prestados por el activo; 
+(b) han tenido lugar durante el periodo, o van a tener lugar en el futuro inmediato, cambios 
+significativos a largo plazo con una incidencia adversa sobre la entidad, referentes al entorno 
+tecnológico, legal o de política gubernamental en los que ésta opera; 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 559 NICSP 21 
+Fuentes internas de información 
+(c) se dispone de evidencia sobre el deterioro físico del activo; 
+(d) han tenido lugar durante el periodo, o van a tener lugar en el futuro inmediato, cambios 
+significativos a largo plazo con una incidencia adversa sobre la entidad, en el grado o forma 
+en que se usa o se espera usar el activo. Estos cambios incluyen el hecho de que el activo esté 
+ocioso, planes de discontinuación o restructuración de la operación a la que pertenece el 
+activo, planes para disponer del activo antes de la fecha prevista, y la reconsideración como 
+finita de la vida útil de un activo como finita, en lugar de indefinida.
+2 
+(e) una decisión de detener la construcción del activo antes de su finalización o de su puesta en 
+condiciones de funcionamiento; y 
+(f) se dispone de evidencia, procedente de informes internos, que indica que el rendimiento de 
+servicio del activo es, o va a ser, significativamente peor que el esperado.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 27 — p. 12-13,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 12, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0028,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,28,28,13,13,paragraph,"La demanda o necesidad de servicios puede fluctuar a lo largo del tiempo, lo cual afectará al grado de 
+utilización de los activos no generadores de efectivo en la provisión de esos servicios, sin embargo, una 
+fluctuación a la baja de la demanda no constituye necesariamente un indicio de que se ha producido un 
+deterioro en el valor. Si la demanda de servicios cesa o casi cesa se puede haber producido un deterioro de 
+valor en los activos utilizados para suministrar esos servicios. Puede considerarse que la demanda casi ha 
+cesado cuando es tan baja que la entidad (a) no habría intentado responder a dicha demanda o (b) habría 
+optado por no adquirir el activo para el cual se está analizando el posible deterioro de valor.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 28 — p. 13,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0029,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,29,29,13,13,paragraph,"La lista del párrafo 27 no es exhaustiva. Pueden existir otros indicios de que un activo puede haber 
+deteriorado su valor. La existencia de otros indicios puede ocasionar que la entidad estime el importe de 
+servicio recuperable del activo. Por ejemplo, cualquiera de los siguientes puede ser un indicio de deterioro 
+del valor: 
+(a) Existen indicios observables de que el valor del activo ha disminuido durante el periodo 
+significativamente más que lo que cabría esperar como consecuencia del paso del tiempo o de su uso 
+normal; o 
+(b) una significativa reducción a largo plazo (aunque no necesariamente cese o casi cese) en la demanda 
+o necesidad de servicios prestados por el activo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 29 — p. 13,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0030,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,30,30,13,14,paragraph,"Los eventos o circunstancias que pueden indicar la existencia de deterioro de valor de un activo han de ser 
+significativos y a menudo provocarán el debate por parte del órgano de dirección, gerencia o los medios. Un 
+cambio en un parámetro como la demanda de un servicio, grado o modo de utilización, entorno legal o de 
+política gubernamental será un indicio de deterioro del valor únicamente si tal cambio ha sido significativo, 
+y se ha anticipado o se anticipó que tendrá un efecto adverso en el largo plazo. Un cambio en el entorno 
+tecnológico puede indicar que un activo se ha quedado obsoleto y que requiere la realización de una prueba 
+de deterioro de su valor. Un cambio en el uso de un activo durante el periodo también puede ser un indicio 
+del deterioro de su valor. Esto puede ocurrir cuando, por ejemplo, un edificio utilizado como escuela pasa a 
+utilizarse como almacén. Para determinar si ha tenido lugar un deterioro de su valor la entidad necesita 
+valorar los cambios en el potencial de servicio a largo plazo.  Esto hace hincapié en el hecho de que los 
+cambios se juzgan dentro del contexto del uso previsto del activo a largo plazo. Sin embargo, las 
+expectativas de uso a largo plazo pueden cambiar y las valoraciones hechas por la entidad en cada fecha 
+ 
+2  Una vez que un activo cumple los criterios para ser clasificado como mantenido para la venta (o es incluido en un grupo de ac tivos para su 
+disposición que se ha clasificado como mantenido para la venta), se excluirá del alcance de esta Norma y se contabil izará de acuerdo con la 
+NICSP 44 Activos no Corrientes Mantenidos para la Venta y Operaciones Discontinuadas. 
+
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 560 
+de presentación deberán reflejar este hecho. La Guía de implementación presenta algunos ejemplos de los 
+indicios de deterioro de valor a los que se hace referencia en el párrafo 27.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 30 — p. 13-14,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 13, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0031,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,31,31,14,14,paragraph,"Para determinar si la detención de una construcción puede ocasionar la realización de un test de deterioro 
+del valor, la entidad podría considerar (a) si la construcción simplemente se ha retrasado o pospuesto, (b) si 
+existe la intención de reanudar la construcción en un futuro próximo, o (c) si los trabajos de construcción no 
+se concluirán en un futuro inmediato. Si la construcción ha sido pospuesta o retrasada hasta una fecha futura 
+determinada, el proyecto debe tratarse como trabajo en curso y no debe considerarse como una detención.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 31 — p. 14,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0032,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,32,32,14,14,paragraph,"La evidencia obtenida a través de informes internos, que pudieran estar señalando el deterioro de valor del 
+activo, tal y como indica el párrafo 27(f) anterior, guarda relación con la capacidad del activo para suministrar 
+bienes o servicios más que con una disminución en la demanda de los bienes o servicios que se suministran 
+con el mismo. Estos indicios se incluyen la existencia de: 
+(a) costos de funcionamiento y mantenimiento del activo significativamente mayores en comparación con 
+los inicialmente presupuestados; y 
+(b) niveles de servicio o producción significativamente inferiores en comparación con los originalmente 
+esperados como consecuencia de un escaso rendimiento operativo. 
+Un aumento significativo en los costos operativos de un activo puede ser un indicio de que el activo no es 
+tan eficiente o productivo como inicialmente se anticipó en la fijación de los estándares de producción por 
+parte del fabricante y a partir de los cuales se elaboró el presupuesto de funcionamiento. De forma similar, 
+un aumento significativo en los costos de mantenimiento puede ser un indicio de que es necesario incurrir 
+en mayores costos para mantener el rendimiento del activo al nivel de rendimiento especificado más 
+recientemente. En otros casos, la evidencia cuantitativa directa de un deterioro de valor puede venir indicada 
+por una reducción significativa a largo plazo en el servicio o nivel de output esperado para el activo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 32 — p. 14,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0033,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,33,33,14,14,paragraph,"El concepto de importancia relativa se aplica para determinar si es necesario estimar el importe de servicio 
+recuperable de un activo. Por ejemplo, si las evaluaciones previas muestran que el importe de servicio 
+recuperable del activo es significativamente mayor que su importe en libros, la entidad no necesita volver a 
+estimar el importe de servicio recuperable del activo, si no ocurren sucesos que pudieran eliminar dicha 
+diferencia. De forma similar, los análisis previos podrían mostrar que el importe recuperable de un activo no 
+es sensible a uno (o varios) de los indicios enumerados en el párrafo 27.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 33 — p. 14,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0034,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Identificación de un activo que puede haber deteriorado su valor,,34,34,14,14,paragraph,"Si existiese algún indicio de que el activo puede haber visto deteriorado su valor, esto podría indicar que, (a) 
+la vida útil restante, (b) el método de depreciación (amortización) o (c) el valor residual del activo, necesitan 
+ser revisados y ajustados de acuerdo con la NICSP aplicable a ese activo, incluso si no se reconociese 
+ningún deterioro del valor para el activo considerado. 
+Medición del importe de servicio recuperable",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Identificación de un activo que puede haber deteriorado su valor — párr. 34 — p. 14,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Identificación de un activo que puede haber deteriorado su valor"", ""subseccion"": null, ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0035,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,,35,35,14,14,paragraph,"En esta Norma se define importe de servicio recuperable como el mayor entre el valor razonable de un 
+activo, menos los costos de venta y su valor en uso. Los párrafos 36 a 50 establecen las bases para la 
+medición del importe de servicio recuperable.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable — párr. 35 — p. 14,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": null, ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0036,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,,36,36,14,14,paragraph,"No siempre es necesario determinar el valor razonable del activo menos los costos de venta y su valor en 
+uso. Si cualquiera de esos importes excediera al importe en libros del activo, éste no habría sufrido un 
+deterioro de su valor y no sería necesario estimar el otro importe.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable — párr. 36 — p. 14,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": null, ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0037,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,,37,37,14,15,paragraph,"Puede ser posible calcular el valor razonable del activo menos los costos de venta, incluso si el activo no se 
+negociase en un mercado activo. El párrafo 42 establece posibles bases alternativas para estimar el valor 
+razonable menos los costos necesarios para la venta cuando para el activo no existe un mercado activo. Sin 
+embargo, en ocasiones no es posible determinar el valor razonable del activo menos los costos de venta, 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 561 NICSP 21 
+por la inexistencia de bases para realizar una estimación fiable 3 del importe que se podría obtener, por la 
+venta del activo en una transacción realizada en condiciones de independencia mutua entre partes 
+interesadas y debidamente informadas. En este caso, la entidad podría utilizar el valor en uso del activo 
+como su importe de servicio recuperable.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable — párr. 37 — p. 14-15,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": null, ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 14, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0038,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,,38,38,15,15,paragraph,"Si no hay razón para creer que el valor en uso del activo excede de forma significativa a su valor razonable 
+menos los costos necesarios para la venta, puede tomarse éste como importe recuperable del mismo. Este 
+será, con frecuencia, el caso de un activo que se mantiene para su disposición. Ello es debido a que, el valor 
+en uso de un activo mantenido para su disposición estará compuesto, fundamentalmente, por el importe 
+neto a obtener por su venta. Sin embargo, para numerosos activos no generadores de efect ivo del sector 
+público que se mantienen bajo un supuesto de negocio en marcha para proporcionar servicios 
+especializados o bienes públicos a la comunidad, el valor en uso del activo es probable que sea mayor que 
+su valor razonable menos los costos necesarios para la venta.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable — párr. 38 — p. 15,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": null, ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0039,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Medición del importe de servicio recuperable de un activo intangible con una vida útil indefinida,39,39,15,15,paragraph,"En algunos casos, las estimaciones, los promedios y otras simplificaciones en el cálculo pueden 
+proporcionar una aproximación razonable a las cifras que se obtendrían de cálculos más detallados como 
+los ilustrados en esta Norma, para la determinación del valor razonable del activo menos los costos de venta 
+o del valor en uso. 
+Medición del importe de servicio recuperable de un activo intangible con una vida útil indefinida El párrafo 26A requiere que se compruebe anualmente el deterioro del valor de un activo intangible con una 
+vida útil indefinida, mediante la comparación de su importe en libros con su importe de servicio recuperable, 
+con independencia de la existencia de cualquier indicio de deterioro del valor. No obstante, podrían 
+emplearse los cálculos recientes más detallados del importe de servicio recuperable efectuados en el 
+periodo precedente para comprobar el deterioro del valor de ese activo en el periodo corriente, siempre que 
+se cumplan los siguientes criterios: 
+(a) en el caso de que el activo intangible no proporcionase potencial de servicio procedente de su uso 
+continuado que sea en buena medida independiente de los de otros activos o grupos de activos y, en 
+consecuencia, se compruebe su deterioro del valor como parte de la unidad generadora de efectivo a 
+la cual pertenece, los activos y pasivos que componen esa unidad no hayan cambiado 
+significativamente desde que se realizó el cálculo más reciente del importe recuperable; 
+(b) que el cálculo del importe de servicio recuperable más reciente diese lugar a una cantidad que exceda, 
+por un margen significativo, del importe en libros del activo; y 
+(c) que basándose en un análisis de los sucesos que han ocurrido y aquellas circunstancias que han 
+cambiado desde que se efectuó el cálculo más reciente del importe de servicio recuperable, la 
+probabilidad de que al determinar el importe de servicio recuperabl e corriente este sea inferior al 
+importe en libros sea remota. 
+Valor razonable menos los costos de venta",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Medición del importe de servicio recuperable de un activo intangible con una vida útil indefinida — párr. 39 — p. 15,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Medición del importe de servicio recuperable de un activo intangible con una vida útil indefinida"", ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0040,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor razonable menos los costos de venta,40,40,15,15,paragraph,"La mejor evidencia del valor razonable del activo menos los costos de venta es la existencia de un precio, 
+dentro de un compromiso formal de venta, en una transacción realizada en condiciones de independencia 
+mutua, ajustado por los costos incrementales directamente atribuibles a la disposición del activo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor razonable menos los costos de venta — párr. 40 — p. 15,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor razonable menos los costos de venta"", ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0041,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor razonable menos los costos de venta,41,41,15,16,paragraph,"Si no existiera un compromiso formal de venta, pero el activo se negociase en un mercado activo, el valor 
+razonable del activo menos los costos de venta sería el precio de mercado del activo menos los costos de 
+ 
+3  La información es fiable si está libre de error material y sesgos, y los usuarios pueden confiar en que representa la imagen fiel de lo que 
+pretende representar o puede razonablemente esperarse que represente. El párrafo FC16 de la NICSP 1 analiza el enfoque transitorio para la 
+explicación de la fiabilidad. 
+
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 562 
+venta. El precio de mercado adecuado será, normalmente, el precio comprador corriente. Cuando no se 
+disponga del precio comprador corriente, el precio de la transacción más reciente puede proporcionar la 
+base adecuada para estimar el valor razonable del ac tivo menos los costos de venta, siempre que no se 
+hayan producido cambios significativos en las circunstancias económicas, entre la fecha de la transacción y 
+la fecha en la que se realiza la estimación.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor razonable menos los costos de venta — párr. 41 — p. 15-16,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0041"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor razonable menos los costos de venta"", ""parrafo_ini"": 41, ""parrafo_fin"": 41, ""page_ini_pdf"": 15, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0042,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor razonable menos los costos de venta,42,42,16,16,paragraph,"Si no existe ni un acuerdo firme de venta ni un mercado activo para el activo, el valor razonable menos los 
+costos de venta se calculará a partir de la mejor información disponible para reflejar el importe que la entidad 
+puede obtener en la fecha de presentación en una venta o disposición realizada en condiciones de 
+independencia entre un comprador y un vendedor interesados y debidamente informados, una vez 
+deducidos los costos derivados de la disposición. Para determinar este importe, una entidad podría 
+considerar el resultado de transacciones recientes con activos similares en el mismo sector industrial. El 
+valor razonable menos los costos necesarios para la venta no reflejará una venta forzada, salvo que la 
+dirección o el organismo gobernante se vea obligado a vender inmediatamente.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor razonable menos los costos de venta — párr. 42 — p. 16,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor razonable menos los costos de venta"", ""parrafo_ini"": 42, ""parrafo_fin"": 42, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0043,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor razonable menos los costos de venta,43,43,16,16,paragraph,"Los costos por la disposición, diferentes de aquéllos que ya hayan sido reconocidos como pasivos, se habrán 
+de deducir al calcular el valor razonable menos los costos de venta. Ejemplos de estos costos son los costos 
+de carácter legal, timbres y otros impuestos de transacciones similares, los costos de desmontar o desplazar 
+el activo, así como todos los demás costos directos incrementales para dejar el activo en condiciones para 
+su venta. No obstante, las indemnizaciones por cese (definidas en la NICSP 39, Beneficios a los Empleados) 
+y otros costos asociados con la reducción o la reorganización de un negocio posteriores a la disposición de 
+un activo, no son costos incrementales directamente atribuibles a la disposición del activo.  
+Valor en uso",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor razonable menos los costos de venta — párr. 43 — p. 16,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0043"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor razonable menos los costos de venta"", ""parrafo_ini"": 43, ""parrafo_fin"": 43, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0044,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor en uso,44,44,16,16,paragraph,"Esta Norma define el valor en uso de un activo no generador de efectivo como el valor presente del servicio 
+potencial restante del activo. Valor en uso en esta Norma se refiere al valor en uso de un activo no generador 
+de efectivo salvo que se especifique otra cosa. El valor presente del servicio potencial restante del activo se 
+determina usando cualquiera de los planteamientos identificados como apropiados en los párrafos 45 a 49. 
+Enfoque del costo de reposición depreciado",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor en uso — párr. 44 — p. 16,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0044"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor en uso"", ""parrafo_ini"": 44, ""parrafo_fin"": 44, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0045,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor en uso,45,45,16,16,paragraph,"De acuerdo con este enfoque, el valor presente del potencial de servicio restante de un activo se determina 
+como el costo de reposición depreciado del activo. El costo de reposición de un activo es el costo de reponer 
+el potencial de servicio bruto del act ivo. Este costo está depreciado para reflejar el uso que ha sufrido el 
+activo. Un activo puede ser sustituido mediante reproducción (replicación) del activo existente o mediante la 
+reposición de su potencial de servicio bruto. El costo de reposición deprec iado se mide como el costo de 
+reproducción o costo de reposición del activo, el menor de ambos, menos la amortización acumulada 
+calculada sobre la base de tal costo, para reflejar la parte ya consumida o potencial de servicio agotado del 
+activo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor en uso — párr. 45 — p. 16,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0045"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor en uso"", ""parrafo_ini"": 45, ""parrafo_fin"": 45, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0046,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor en uso,46,46,16,16,paragraph,"El costo de reposición y el costo de reproducir un activo se determinan sobre bases optimizadas. La razón 
+es que la entidad no sustituiría o reemplazaría el activo por otro similar si el activo a sustituir o reproducir 
+está sobredimensionado o se está infrautilizando. Los activos sobredimensionados presentan características 
+que son innecesarias para producir los bienes o servicios que se prestan con el activo. Un activo está 
+infrautilizado cuando tiene una capacidad mayor de la necesaria para satisfacer la demanda de los bienes 
+o servicios que se prestan con el activo. La determinación del costo de reposición o de reproducción de un 
+activo bajo las bases de una decisión óptima refleja las necesidades potenciales del servicio prestado por el 
+activo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor en uso — párr. 46 — p. 16,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0046"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor en uso"", ""parrafo_ini"": 46, ""parrafo_fin"": 46, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0047,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor en uso,47,47,16,17,paragraph,"En determinadas circunstancias, se requiere mantener una holgura o una mayor capacidad que la 
+demandada por seguridad o por otras razones. Esto surge de la necesidad de que se garantice que está 
+disponible una capacidad de servicio adecuada en determinadas circunstancias de la entidad. Por ejemplo, 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 563 NICSP 21 
+el servicio de bomberos necesita disponer de coches de bomberos en reserva para prestar servicios en caso 
+de emergencia. Tal sobrecapacidad o capacidad de reserva forma parte del potencial de servicio que se 
+requiere del activo.  
+Enfoque del costo de rehabilitación",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor en uso — párr. 47 — p. 16-17,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0047"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor en uso"", ""parrafo_ini"": 47, ""parrafo_fin"": 47, ""page_ini_pdf"": 16, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0048,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor en uso,48,48,17,17,paragraph,"El costo de rehabilitación es el costo de devolver el potencial de servicio de un activo al nivel anterior al 
+deterioro. Bajo este enfoque, el valor presente del potencial de servicio restante del activo se determina 
+restando el costo estimado de rehabilit ación del activo al costo corriente de devolver al activo el nivel de 
+servicio potencial restante del activo antes del deterioro. Este último costo habitualmente se determina como 
+el menor entre el costo de reproducción o el costo de reposición del activo.  Los párrafos 45 y 47 incluyen 
+indicaciones adicionales para la determinación del costo de reposición o de reproducción de un activo.  
+Enfoque de las unidades de servicio",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor en uso — párr. 48 — p. 17,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0048"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor en uso"", ""parrafo_ini"": 48, ""parrafo_fin"": 48, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0049,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Valor en uso,49,49,17,17,paragraph,"De acuerdo con este enfoque, el valor corriente del potencial de servicio restante de un activo se determina 
+reduciendo el costo corriente del potencial de servicio del activo anterior al deterioro para ajustarlo al número 
+reducido de unidades de servicio esperadas del activo en su estado de deterioro. Al igual que en el enfoque 
+de costo de rehabilitación, el costo corriente de devolver el activo al potencial de servicio restante anterior 
+al deterioro habitualmente se determina como el menor entre el costo de reproducción y el costo de 
+reposición del activo anteriores al deterioro.  
+Aplicación de los distintos enfoques",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Valor en uso — párr. 49 — p. 17,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0049"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Valor en uso"", ""parrafo_ini"": 49, ""parrafo_fin"": 49, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0050,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Medición del importe de servicio recuperable,Aplicación de los distintos enfoques,50,50,17,17,paragraph,"La elección del enfoque más adecuado para determinar el valor en uso depende de los datos disponibles y 
+de la naturaleza del deterioro: 
+(a) los deterioros de valor identificados por cambios significativos de efecto a largo plazo en el entorno 
+tecnológico, legal o político generalmente se miden utilizando un enfoque de costo de reposición 
+depreciado o un enfoque de las unidades de servicio, según corresponda;  
+(b) los deterioros de valor identificados por un cambio significativo de efecto a largo plazo sobre el grado 
+de utilización o forma de uso, incluyendo la identificación del cese o casi cese de la demanda, 
+generalmente se miden utilizando un enfoque de costo de reposición depreciado o un enfoque de las 
+unidades de servicio, según corresponda; y 
+(c) los deterioros de valor identificados debidos a un daño físico se determinan generalmente utilizando 
+un enfoque de costo de rehabilitación o de costo de reposición depreciado, según corresponda. 
+Reconocimiento y medición de la pérdida por deterioro del valor",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Medición del importe de servicio recuperable / Aplicación de los distintos enfoques — párr. 50 — p. 17,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0050"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Medición del importe de servicio recuperable"", ""subseccion"": ""Aplicación de los distintos enfoques"", ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0051,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reconocimiento y medición de la pérdida por deterioro del valor,,51,51,17,17,paragraph,"En los párrafos 52 a 57 se establecen los requerimientos para el reconocimiento y medición de las pérdidas 
+por deterioro del valor de un activo. En esta Norma pérdida por deterioro del valor se refiere a la pérdida por 
+deterioro del valor de un activo no generador de efectivo, salvo que se especifique otra cosa.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reconocimiento y medición de la pérdida por deterioro del valor — párr. 51 — p. 17,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0051"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento y medición de la pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0052,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reconocimiento y medición de la pérdida por deterioro del valor,,52,52,17,17,paragraph,"El importe en libros de un activo se reducirá hasta que alcance su importe de servicio recuperable sí, y solo 
+si, este importe de servicio recuperable es inferior al importe en libros. Esa reducción es una pérdida por 
+deterioro de valor.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reconocimiento y medición de la pérdida por deterioro del valor — párr. 52 — p. 17,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0052"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento y medición de la pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 52, ""parrafo_fin"": 52, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0053,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reconocimiento y medición de la pérdida por deterioro del valor,,53,53,17,17,paragraph,"Como se ha indicado en el párrafo 26, esta Norma exige que una entidad realice una estimación formal del 
+importe de servicio recuperable solo si hay indicios de existencia de una potencial pérdida por deterioro de 
+valor. Los párrafos 27 a 33 enumeran indic aciones clave de que puede haber ocurrido una pérdida por 
+deterioro.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reconocimiento y medición de la pérdida por deterioro del valor — párr. 53 — p. 17,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0053"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento y medición de la pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 53, ""parrafo_fin"": 53, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0054,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reconocimiento y medición de la pérdida por deterioro del valor,,54,54,17,18,paragraph,"Una pérdida por deterioro del valor se reconocerá inmediatamente en el resultado (ahorro o desahorro), 
+salvo que el activo se contabilice por su valor revaluado de acuerdo con otra Norma (por ejemplo, de acuerdo 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 564 
+con el modelo de revaluación de las NICSP 31 y NICSP 45). Cualquier pérdida por deterioro del valor, en 
+los activos revaluados, se tratará como una disminución por la revaluación efectuada de acuerdo con esa 
+otra Norma. Una pérdida por deterioro del valor asociada a un activo no revaluado se reconocerá en el resultado (ahorro 
+o desahorro). Sin embargo, una pérdida por deterioro del valor de un activo revaluado se reconocerá en el 
+superávit de revaluación en la medida en que el deterioro de valor no exceda el importe del superávit de 
+revaluación para ese activo individual de acuerdo con la NICSP 31 o la clase de activos de acuerdo con la 
+NICSP 45. Dicha pérdida por deterioro del valor de un activo revaluado reduce el s uperávit de revaluación 
+de ese activo individual de acuerdo con la NICSP 31 o clase de activos de acuerdo con la NICSP 45.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reconocimiento y medición de la pérdida por deterioro del valor — párr. 54 — p. 17-18,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0054"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento y medición de la pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 54, ""parrafo_fin"": 54, ""page_ini_pdf"": 17, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0055,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reconocimiento y medición de la pérdida por deterioro del valor,,55,55,18,18,paragraph,"Cuando el importe estimado de una pérdida por deterioro del valor sea mayor que el importe en libros del 
+activo con el que se relaciona, la entidad reconocerá un pasivo sí, y solo si, estuviese obligada a ello por 
+otra NICSP.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reconocimiento y medición de la pérdida por deterioro del valor — párr. 55 — p. 18,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0055"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento y medición de la pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 55, ""parrafo_fin"": 55, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0056,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reconocimiento y medición de la pérdida por deterioro del valor,,56,56,18,18,paragraph,"En el caso de que el importe estimado de la pérdida por deterioro del valor sea mayor que el importe del 
+activo en libros, éste se reducirá a cero con el reconocimiento de la correspondiente cantidad en el resultado 
+(ahorro o desahorro). Un pasivo será reconocido solo si otra NICSP lo requiere. Un ejemplo de ello es cuando 
+una instalación de uso militar no se utiliza más y la entidad está obligada por ley a desmantelar tales 
+instalaciones si no se usan. La entidad puede necesitar realizar una provisión por los costos de 
+desmantelamiento si así lo requiere la NICSP 19, Provisiones, Pasivos Contingentes y Activos Contingentes.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reconocimiento y medición de la pérdida por deterioro del valor — párr. 56 — p. 18,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0056"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento y medición de la pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 56, ""parrafo_fin"": 56, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0057,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reconocimiento y medición de la pérdida por deterioro del valor,,57,57,18,18,paragraph,"Tras el reconocimiento de una pérdida por deterioro del valor, el cargo por depreciación (amortización) del 
+activo se ajustará en periodos futuros, con el fin de distribuir el importe revisado del activo en libros, menos 
+su valor residual (si lo hay), de una forma sistemática a lo largo del periodo que constituya su vida útil 
+restante.  
+Reversión de una pérdida por deterioro del valor",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reconocimiento y medición de la pérdida por deterioro del valor — párr. 57 — p. 18,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0057"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reconocimiento y medición de la pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 57, ""parrafo_fin"": 57, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0058,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,58,58,18,18,paragraph,"En los párrafos 59 a 70 se establecen los requisitos para revertir una pérdida por deterioro del valor de un 
+activo reconocida en periodos anteriores.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 58 — p. 18,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0058"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 58, ""parrafo_fin"": 58, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0059,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,59,59,18,18,paragraph,"Una entidad evaluará, en cada fecha de presentación, si existe algún indicio de que la pérdida por deterioro 
+reconocida en periodos anteriores ya no existe o ha disminuido. Si existiera este indicio la entidad estimará 
+el importe de servicio recuperable del activo en cuestión.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 59 — p. 18,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0059"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 59, ""parrafo_fin"": 59, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0060,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,60,60,18,19,paragraph,"Al evaluar si existen indicios de que la pérdida por deterioro del valor reconocida en periodos anteriores para 
+un activo ya no existe o podría haber disminuido, una entidad considerará, como mínimo, las siguientes 
+indicaciones: 
+Fuentes externas de información 
+(a) resurgimiento de la demanda o necesidad de los servicios prestados por el activo; 
+(b) cambios significativos a largo plazo con un efecto favorable para la entidad, referentes al 
+entorno tecnológico, legal o política gubernamental en los que la entidad opera, han tenido 
+lugar durante el periodo, o van a tener lugar en un futuro inmediato; 
+Fuentes internas de información 
+(c) cambios significativos a largo plazo con un efecto favorable para la entidad, en el grado o forma 
+que se usa o se espera usar el activo, han tenido lugar durante el periodo, o se espera van a 
+tener lugar en un futuro inmediato. Estos cambios incluyen los c ostos en los que se haya 
+incurrido durante el periodo para mejorar o desarrollar el rendimiento del activo o reestructurar 
+la operación a la que dicho activo pertenece; 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 565 NICSP 21 
+(d) una decisión de reanudar la construcción de un activo que estaba previamente detenida antes 
+de su finalización o puesta en condiciones de funcionamiento; y 
+(e) se dispone de evidencia, procedente de informes internos, que indica que el rendimiento de 
+servicio del activo es, o va a ser, mejor que el esperado.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 60 — p. 18-19,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0060"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 60, ""parrafo_fin"": 60, ""page_ini_pdf"": 18, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0061,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,61,61,19,19,paragraph,"Los indicios de una reducción potencial de la pérdida por deterioro del valor del párrafo 60 son un reflejo, 
+fundamentalmente, de los indicios de la existencia de potenciales pérdidas por deterioro del valor recogidos 
+en el párrafo 27.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 61 — p. 19,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0061"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 61, ""parrafo_fin"": 61, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0062,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,62,62,19,19,paragraph,"La lista del párrafo 60 no es exhaustiva. Una entidad puede identificar otros indicios de la reversión de una 
+pérdida por deterioro del valor que también podrían obligar a la entidad a volver a estimar el importe de 
+servicio recuperable del activo. Por eje mplo, cualquiera de los siguientes puede ser una indicación de que 
+una pérdida por deterioro del valor puede haber revertido: 
+(a) un incremento significativo del valor de mercado del activo; o 
+(b) un incremento significativo a largo plazo en la demanda o necesidad de los servicios prestados por el 
+activo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 62 — p. 19,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0062"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 62, ""parrafo_fin"": 62, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0063,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,63,63,19,19,paragraph,"Un compromiso de discontinuar o reestructurar una operación en un futuro próximo es una indicación de 
+una reversión de una pérdida por deterioro del valor de un activo que pertenece a la operación en la que 
+ese compromiso supone un cambio significativo a largo plazo, con un efecto favorable sobre la entidad, en 
+el grado o forma de uso del activo. Las circunstancias en las que tal compromiso es un indicio de la reversión 
+del deterioro del valor a menudo están relacionadas con casos en los que la discontinuac ión o 
+reestructuración esperada de la operación creará oportunidades de incrementar la utilización del activo. Un 
+ejemplo es un aparato de rayos X que ha sido infrautilizado por una clínica gestionada por un hospital público 
+y, como resultado de una reestr ucturación, se espera que sea transferido al departamento principal de 
+radiología, donde tendrá una utilización significativamente mayor. En tal caso, el compromiso de discontinuar 
+o reestructurar las operaciones de la clínica puede ser un indicio de que p uede ser necesario revertir la 
+pérdida por deterioro del valor del activo reconocida en periodos anteriores.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 63 — p. 19,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0063"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 63, ""parrafo_fin"": 63, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0064,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,64,64,19,19,paragraph,"Si existiera un indicio de que la pérdida por deterioro reconocida para un activo ya no existe o ha disminuido, 
+esto puede indicar que (a) la vida útil restante, (b) el método de depreciación (amortización) o (c) el valor 
+residual, necesitan también ser re visados y ajustados, de acuerdo con la NICSP que sea de aplicación al 
+activo, incluso cuando el indicio no lleve a la reversión de la pérdida por deterioro del valor del activo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 64 — p. 19,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0064"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 64, ""parrafo_fin"": 64, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0065,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,65,65,19,19,paragraph,"Deberá procederse a la reversión de la pérdida por deterioro del valor reconocida para el activo en periodos 
+anteriores sí, y solo sí, se ha producido un cambio en las estimaciones utilizadas para determinar el importe 
+de servicio recuperable del mismo, de sde que se reconoció por última vez la mencionada pérdida. Si este 
+fuera el caso, se aumentará el importe en libros del activo hasta su importe de servicio recuperable, excepto 
+lo dispuesto en el párrafo 68. Ese incremento es una reversión de una pérdida por deterioro del valor.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 65 — p. 19,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0065"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 65, ""parrafo_fin"": 65, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0066,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,66,66,19,19,paragraph,"Esta Norma exige que una entidad realice una estimación formal del importe de servicio recuperable solo si 
+hay indicios de existencia de una potencial pérdida por deterioro de valor. El párrafo 60 identifica los 
+principales indicios de que la pérdida por deterioro del valor de un activo reconocida en periodos anteriores 
+puede ya no existir o puede haber disminuido.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 66 — p. 19,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0066"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 66, ""parrafo_fin"": 66, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0067,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,67,67,19,20,paragraph,"La reversión de una pérdida por deterioro del valor refleja un aumento en el potencial estimado del importe 
+de servicio recuperable del activo, ya sea por su utilización o por su venta, desde el momento en que una 
+entidad reconoció por última vez la pérdida por deterioro del valor del activo. El párrafo 77 requiere que una 
+entidad identifique los cambios en las estimaciones que produce el incremento en el importe de servicio 
+recuperable. Son ejemplos de cambios en las estimaciones: 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 566 
+(a) un cambio en la base de estimación del importe de servicio recuperable (es decir, si el importe de 
+servicio recuperable se calcula como el valor razonable menos los costos necesarios para la venta o 
+el valor en uso); 
+(b) si el importe de servicio recuperable estaba calculado a partir del valor en uso, un cambio en las 
+estimaciones correspondientes a los componentes del valor en uso; o 
+(c) si el importe de servicio recuperable se calculaba a partir del valor razonable menos los costos 
+necesarios para la venta, un cambio en las estimaciones correspondientes a los componentes del 
+valor razonable menos los costos necesarios para la venta.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 67 — p. 19-20,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0067"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 67, ""parrafo_fin"": 67, ""page_ini_pdf"": 19, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0068,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,68,68,20,20,paragraph,"El incremento del importe en libros de un activo, atribuible a una reversión de una pérdida por deterioro del 
+valor, no excederá al importe en libros que habría obtenido (neto de amortización o depreciación) de no 
+haberse reconocido la pérdida por deterioro del valor del activo en periodos anteriores.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 68 — p. 20,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0068"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 68, ""parrafo_fin"": 68, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0069,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,69,69,20,20,paragraph,"Una reversión de una pérdida por deterioro del valor en un activo se reconocerá inmediatamente en el 
+resultado (ahorro o desahorro), salvo que el activo se contabilice por su valor revaluado de acuerdo con otra 
+Norma (por ejemplo, el modelo de revaluación de las NICSP 31 y NICSP 45). Cualquier reversión de la 
+pérdida por deterioro del valor en un activo previamente revaluado, se tratará como un aumento por 
+revaluación de acuerdo con esa otra Norma. Una reversión de una pérdida por deterioro del valor correspondiente a un activo revaluado se reconocerá 
+directamente en la reserva de revaluación e incrementará  el superávit de revaluación de para ese activo 
+individual conforme con la NICSP 31 o la clase de activos de acuerdo con la NICSP 45. No obstante, y en 
+la medida en que la pérdida por deterioro del valor de la misma clase de activos revaluados haya sido 
+reconocida previamente en el resultado (ahorro o desahorro), la reversión también se reconoc erá en el 
+resultado (ahorro o desahorro) de acuerdo con la NICSP 31 o la NICSP 45.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 69 — p. 20,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0069"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 69, ""parrafo_fin"": 69, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0070,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reversión de una pérdida por deterioro del valor,,70,70,20,20,paragraph,"Después de haber reconocido una reversión de la pérdida por deterioro, los cargos por depreciación 
+(amortización) del activo se ajustará en periodos futuros, con el fin de distribuir el importe revisado del activo 
+en libros, menos su eventual valor residual, de una forma sistemática a lo largo del periodo que constituya 
+su vida útil restante. 
+Reclasificación de activos",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reversión de una pérdida por deterioro del valor — párr. 70 — p. 20,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0070"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reversión de una pérdida por deterioro del valor"", ""subseccion"": null, ""parrafo_ini"": 70, ""parrafo_fin"": 70, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0071,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reclasificación de activos,,71,71,20,20,paragraph,"La reclasificación de activos, de activos generadores de efectivo a activos no generadores de efectivo o de 
+activos no generadores de efectivo a activos generadores de efectivo solo se producirá cuando exista una 
+evidencia clara de que tal reclasificación es adecuada. Una reclasificación, por sí sola, no provoca 
+necesariamente una comprobación del deterioro del valor o una reversión de la pérdida por deterioro del 
+valor. En su lugar, el indicio para realizar una comprobación del deterioro del valor o una re versión de la 
+pérdida por deterioro del valor surge, como mínimo, de los indicios citados aplicables al activo tras su 
+reclasificación.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reclasificación de activos — párr. 71 — p. 20,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0071"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reclasificación de activos"", ""subseccion"": null, ""parrafo_ini"": 71, ""parrafo_fin"": 71, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0072,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Reclasificación de activos,,72,72,20,20,paragraph,"Existen circunstancias en las que las entidades públicas pueden decidir que es apropiado reclasificar un 
+activo no generador de efectivo como un activo generador de efectivo. Por ejemplo, una planta de 
+tratamiento de aguas residuales fue construida para tr atar aguas industriales de una unidad de vivienda 
+social, a la que no se le aplica cargo alguno. La unidad de vivienda social fue demolida y el lugar se 
+desarrollará para propósitos industriales y de venta al por menor. Se pretende que, en el futuro, la pl anta 
+será utilizada para tratar aguas industriales en un régimen comercial. A la luz de esta decisión, la entidad 
+del sector público decide reclasificar la planta de tratamiento de aguas industriales como una unidad 
+generadora de efectivo. 
+Información a revelar 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 567 NICSP 21 Una entidad revelará los criterios desarrollados por la entidad para distinguir los activos no 
+generadores de efectivo de los activos generadores de efectivo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Reclasificación de activos — párr. 72 — p. 20,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0072"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Reclasificación de activos"", ""subseccion"": null, ""parrafo_ini"": 72, ""parrafo_fin"": 72, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0073,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Información a revelar,,73,73,21,21,paragraph,"La entidad revelará, para cada clase de activos, la siguiente información: 
+(a) el importe de las pérdidas por deterioro del valor reconocidas en el resultado (ahorro o 
+desahorro) durante el periodo, así como la partida o partidas del estado de rendimiento 
+financiero en las que esas pérdidas por deterioro del valor están incluidas; y  
+(b) el importe de las reversiones de pérdidas por deterioro del valor que se han reconocido en el 
+resultado (ahorro o desahorro) durante el periodo, así como la partida o partidas del estado de 
+rendimiento financiero en que tales pérdidas por deterioro del valor se han revertido; 
+(c) el importe de las pérdidas por deterioro de valor de los activos revaluados reconocido 
+directamente en el superávit de revaluación durante el periodo; y 
+(d) el importe de las reversiones de las pérdidas por deterioro de valor de los activos revaluados 
+reconocido directamente en el superávit de revaluación durante el periodo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Información a revelar — párr. 73 — p. 21,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0073"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 73, ""parrafo_fin"": 73, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0074,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Información a revelar,,74,74,21,21,paragraph,"Una clase de activos es un grupo de activos que tienen similar naturaleza y utilización en las operaciones 
+de la entidad.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Información a revelar — párr. 74 — p. 21,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0074"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 74, ""parrafo_fin"": 74, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0075,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Información a revelar,,75,75,21,21,paragraph,"La información exigida por el párrafo 73 puede presentarse junto con otra información revelada, para cada 
+clase de activos. Por ejemplo, esta información podría estar incluida en una conciliación del importe en libros 
+de propiedades, planta y equipo al comienzo y al final del periodo, como requiere la NICSP 45.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Información a revelar — párr. 75 — p. 21,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0075"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 75, ""parrafo_fin"": 75, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0076,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Información a revelar,,76,76,21,21,paragraph,"Una entidad que presenta información financiera segmentada de acuerdo con la NICSP 18, Información 
+Financiera por Segmentos, debe proceder a revelar, para cada uno de los segmentos sobre los que informa 
+la entidad, la siguiente información: 
+(a) el importe de las pérdidas por deterioro reconocidas en el resultado (ahorro o desahorro) 
+durante el periodo; y 
+(b) el importe correspondiente a las reversiones de pérdidas por deterioro reconocidas en el 
+resultado (ahorro o desahorro) durante el periodo.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Información a revelar — párr. 76 — p. 21,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0076"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 76, ""parrafo_fin"": 76, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0077,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Información a revelar,,77,77,21,21,paragraph,"Una entidad revelará información sobre los siguientes aspectos para cada pérdida por deterioro del valor 
+material reconocida o revertida durante el periodo: 
+(a) los sucesos y circunstancias que han llevado al reconocimiento o a la reversión de la pérdida 
+por deterioro del valor;  
+(b) el importe de la pérdida por deterioro reconocida o revertida; 
+(c) la naturaleza del activo; 
+(d) el segmento al que pertenece el activo, si la entidad presenta información segmentada de 
+acuerdo con la NICSP 18; 
+(e) si el importe se servicio recuperable del activo es su valor razonable menos los costos de venta 
+o su valor en uso; 
+(f) si el importe de servicio recuperable es su valor razonable menos los costos de venta, las 
+bases utilizadas para determinar el valor razonable menos los costos de venta (como por 
+ejemplo si el valor razonable se ha determinado con referencia al existente en un mercado 
+activo); y 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 568 
+(g) si el importe de servicio recuperable es su valor en uso, el enfoque utilizado para determinar 
+ese valor.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Información a revelar — párr. 77 — p. 21,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0077"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 77, ""parrafo_fin"": 77, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0078,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Información a revelar,,78,78,22,22,paragraph,"Una entidad revelará la siguiente información para la agregación de las pérdidas por deterioro del valor y la 
+agregación de las reversiones de las pérdidas por deterioro del valor reconocidas durante el periodo para 
+aquellos casos en que no se ha presentado información de acuerdo con el párrafo 77: 
+(a) las principales clases de activos afectados por las pérdidas por deterioro del valor (y las 
+principales clases de activos afectadas por las reversiones de las pérdidas por deterioro del 
+valor); y 
+(b) los sucesos y circunstancias más importantes que han llevado al reconocimiento o a la 
+reversión de las pérdidas por deterioro de valor.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Información a revelar — párr. 78 — p. 22,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0078"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 78, ""parrafo_fin"": 78, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0079,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Información a revelar,,79,79,22,22,paragraph,"Se aconseja a las entidades revelar información acerca de las estimaciones clave utilizadas para determinar, 
+durante el periodo, el importe de servicio recuperable de los activos.  
+Disposiciones transitorias",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Información a revelar — párr. 79 — p. 22,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0079"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 79, ""parrafo_fin"": 79, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0080,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Disposiciones transitorias,,80,80,22,22,paragraph,La modificación al párrafo 27 será aplicada de forma prospectiva a partir de la fecha de su aplicación.,NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Disposiciones transitorias — párr. 80 — p. 22,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0080"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Disposiciones transitorias"", ""subseccion"": null, ""parrafo_ini"": 80, ""parrafo_fin"": 80, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0081,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Disposiciones transitorias,,81,81,22,22,paragraph,"Mediante el documento Deterioro del Valor de Activos Revaluados (Modificaciones a la NICSP 21 y NICSP 
+26) en julio de 2016 se modificaron los párrafos 2, 54, 69 y 73, se eliminaron los párrafos 7 y 11 y se 
+añadieron los párrafos 54A y 69A. Las modificaciones se utilizarán de forma prospectiva desde la fecha de 
+su aplicación. 
+Fecha de vigencia",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Disposiciones transitorias — párr. 81 — p. 22,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0081"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Disposiciones transitorias"", ""subseccion"": null, ""parrafo_ini"": 81, ""parrafo_fin"": 81, ""page_ini_pdf"": 22, ""page_fin_pdf"": 22, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0082,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Fecha de vigencia,,82,82,22,24,paragraph,"Una entidad aplicará esta Norma a los estados financieros anuales que abarquen periodos que comiencen 
+a partir del 1 de enero de 2026. Se aconseja su aplicación anticipada. Si una entidad aplica esta Norma en 
+periodos que comiencen antes del 1 de enero de 2006, deberá revelar este hecho. La NICSP 31 modificó los párrafos 2 y 7 e insertó los párrafos 26A, 26B y 39A. Una entidad debe 
+aplicar esas modificaciones para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de abril de 2011. Si una entidad aplica la NICSP 31 a periodos que comiencen 
+antes del 1 de abril de 2011, las modificaciones se aplicarán también a dichos periodos. El párrafo 27 fue modificado mediante el documento Mejoras a las NICSP 2011 emitido en octubre de 
+2011. Una entidad debe aplicar esa modificación para los estados financieros anuales que cubran 
+periodos que comiencen a partir del 1 de enero de 2013. Se aconseja su aplicación anticipada. Si una 
+entidad aplica la modificación para un periodo que comience antes del 1 de enero de 2013, revelará 
+este hecho. Los párrafos 80, 81 y 83 fueron modificados por la NICSP 33, Adopción por primera vez de las Normas 
+Internacionales de Contabilidad del Sector Público de Base de Acumulación (o devengo) (NICSP)  
+emitida en enero de 2015. Una entidad aplicará esas modificaciones para los estados financieros 
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación 
+anticipada. Si una entidad aplicase la NICSP 33 para un peri odo que comience antes del 1 de enero 
+de 2017, las modificaciones también se aplicarán para dicho periodo. La NICSP 35 Estados Financieros Consolidados,  y la NICSP 37, Acuerdos Conjuntos  emitidas en 
+enero de 2015, modificaron el párrafo 13. Una entidad aplicará esas modificaciones cuando aplique 
+las NICSP 35 y NICSP 37. 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 569 NICSP 21 El documento, La Aplicabilidad de las NICSP, emitido en abril de 2016, eliminó los párrafos 3, 4 y 15 
+y modificó los párrafos 6, 20 y 21. Una entidad aplicará esas modificaciones para los estados 
+financieros anuales que cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja 
+su aplicación anticipada. Si una entidad aplica las modificaciones para un periodo que comience 
+antes del 1 de enero de 2018, deberá revelar este hecho. Deterioro del Valor de Activos Revaluados (Modificaciones a la NICSP 21 y NICSP 26) modificó los 
+párrafos 2, 54, 69 y 73, eliminó los párrafos 7 y 11 y añadió los párrafos 54A, 69A y 81A. Una entidad 
+aplicará esas modificaciones para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada. Si una entidad aplica 
+las modificaciones para un periodo que comience antes del 1 de enero de 2018, revelará este hecho. El párrafo 43 fue modificado por la NICSP 39, Beneficios a los Empleados, emitida en julio de 2016. 
+Una entidad aplicará esa modificación para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de enero de 2018. Se aconseja su aplicación anticipada. Si una entidad 
+aplicase la modificación para un periodo que comience antes del 1 de enero de 2018, revelará este 
+hecho y aplicará al mismo tiempo la NICSP 39. El párrafo 14 fue modificado y el párrafo 20A añadido por la NICSP 40, Combinaciones del Sector 
+Público, emitida en enero de 2017. Una entidad aplicará estas modificaciones para los estados 
+financieros anuales que cubran periodos que comiencen a partir del 1 de enero de 2019. Se aconseja 
+su aplicación anticipada. Si una entidad aplicase las modificaciones p ara un periodo que comience 
+antes del 1 de enero de 2019, revelará este hecho y aplicará al mismo tiempo la NICSP 40. Los párrafos 2, 9 y 13 fueron modificados por la NICSP 41, emitida en agosto de 2018. Una entidad 
+aplicará estas modificaciones para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de enero de 2023. Se aconseja su aplicació n anticipada. Si una entidad 
+aplicase las modificaciones para un periodo que comience antes del 1 de enero de 2023, revelará 
+este hecho y aplicará al mismo tiempo la NICSP 41. Los párrafos 54A y 69A fueron modificados por el documento Mejoras a las NICSP 2019, emitido en 
+enero de 2020. Una entidad aplicará estas modificaciones para los estados financieros anuales que 
+cubran periodos que comiencen a partir del 1 de enero de 2021. Se permite su aplicación anticipada. Los párrafos 2, 8 y 27 fueron modificados por la NICSP 44, emitida en mayo de 2022. Una entidad 
+aplicará estas modificaciones para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de enero de 2025. Se permite su aplicación anticipada. Si una entidad 
+aplicase las modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará 
+este hecho y al mismo tiempo aplicará la NICSP 44. Los párrafos 12, 54, 54A, 69, 69A y 75 fueron modificados por la NICSP 45, emitida en mayo de 2023. 
+Una entidad aplicará estas modificaciones para los estados financieros anuales que cubran periodos 
+que comiencen a partir del 1 de enero de 2025. Se aconseja su aplicación anticipada. Si una entidad 
+aplicase estas modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará 
+este hecho y aplicará al mismo tiempo la NICSP 45. Los párrafos 2, 10 y 29 fueron modificados y el párrafo 10A fue añadido por la NICSP 46, Medición, 
+emitida en mayo de 2023. Una entidad aplicará estas modificaciones para los estados financieros 
+anuales que cubran periodos que comiencen a partir del 1 de enero de 2025. Se aconseja su 
+aplicación anticipada. Si una entidad aplicase las modificaciones pa ra un periodo que comience 
+antes del 1 de enero de 2025, revelará este hecho y al mismo tiempo aplicará la NICSP 46. Los párrafos 2 y 8 fueron modificados por la NICSP 47, emitida en mayo de 2023. Una entidad aplicará 
+esta modificación para los estados financieros anuales que cubran periodos que comiencen a partir 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+NICSP 21 570 
+del 1 de enero de 2026. Se aconseja su aplicación anticipada. Si una entidad aplicase las 
+modificaciones para un periodo que comience antes del 1 de enero de 2026, revelará este hecho y al 
+mismo tiempo aplicará la NICSP 47.",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Fecha de vigencia — párr. 82 — p. 22-24,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0082"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 82, ""parrafo_fin"": 82, ""page_ini_pdf"": 22, ""page_fin_pdf"": 24, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"
+NICSP-21-P0083,NICSP,NICSP-21,DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO,2025-01-31,es,Fecha de vigencia,,83,83,24,24,paragraph,"Cuando una entidad adopte las NICSP de contabilidad de acumulación (o devengo), tal como se definen en 
+la NICSP 33, Adopción por Primera Vez de las Normas Internacionales de Contabilidad del Sector Público 
+(NICSP), a efectos de información financiera con posterioridad a esta fecha de vigencia, esta Norma se 
+aplicará a los estados financieros anuales de la entidad que cubran periodos que comiencen a partir de la 
+fecha de adopción de las NICSP. 
+
+===PAGE_BREAK===
+
+DETERIORO DE VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO 
+ 571 NICSP 21 FUNDAMENTOS DE LAS CONCLUSIONES",NICSP-21 — DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO — Fecha de vigencia — párr. 83 — p. 24,NICSP 21.pdf,"{""chunk_id"": ""NICSP-21-P0083"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-21"", ""norma_titulo"": ""DETERIORO DEL VALOR DE ACTIVOS NO GENERADORES DE EFECTIVO"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 83, ""parrafo_fin"": 83, ""page_ini_pdf"": 24, ""page_fin_pdf"": 24, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 21.pdf""}"

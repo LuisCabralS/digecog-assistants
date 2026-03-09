@@ -1,0 +1,572 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP 22-P0001,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Objetivo,,1,1,5,5,paragraph,"El objetivo de esta Norma es establecer los requerimientos de revelación de información para los gobiernos
+que elijan presentar información sobre el sector gobierno general (SGG) en sus estados financieros
+consolidados. La revelación de información adecuada sobre el SGG de un gobierno puede mejorar la
+transparencia de la información financiera, y proporcionar una mejor comprensión de la relación entre las
+actividades de mercado y no mercado del gobierno y entre los estados financieros y las bases estadísticas
+de información financiera.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Objetivo — párr. 1 — p. 5,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Objetivo"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0002,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,,2,2,5,5,paragraph,"Un gobierno que prepara y presenta estados financieros consolidados según la base contable de
+acumulación (o devengo) y elige revelar información sobre el sector gobierno general lo hará de
+acuerdo con los requerimientos de esta Norma.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance — párr. 2 — p. 5,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0003,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,,3,3,5,5,paragraph,"Los gobiernos obtienen fondos a partir de impuestos, transferencias y un número de actividades de mercado
+y no de mercado para financiar sus actividades de prestación de servicios. Operan a través de una variedad
+de entidades para suministrar bienes y servicios a los ciudadanos. Algunas entidades dependen
+principalmente de las asignaciones presupuestarias o distribuciones de impuestos u otros ingresos
+gubernamentales para financiar sus actividades de prestación de servicios, pero también pueden llevar a
+cabo actividades adicionales generadoras de ingresos incluyendo en ocasiones actividades comerciales.
+Otras entidades pueden obtener sus fondos principalmente o en gran medida a través de actividades
+comerciales.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance — párr. 3 — p. 5,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0004,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,,4,4,5,5,paragraph,"Los estados financieros de un gobierno preparados de acuerdo con las NICSP proporcionan una visión
+general de (a) los activos controlados y los pasivos incurridos por el gobierno, (b) el costo de los servicios
+suministrados por el gobierno, y (c) los impuestos y otros ingresos generados para financiar la provisión de
+dichos servicios. Los estados financieros de un gobierno, que suministra servicios a través de entidades
+controladas, dependan principalmente del presupuesto del gobierno para financiar sus actividades o no, son
+estados financieros consolidados.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance — párr. 4 — p. 5,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0005,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,,5,5,5,5,paragraph,"En algunas jurisdicciones, los estados financieros y presupuestarios del gobierno, o sectores del mismo,
+pueden también ser emitidos de acuerdo con bases estadísticas de información financiera. Estas bases
+reflejan requerimientos congruentes con, y derivados de, el Sistema de Cuentas Nacionales, 2008 (SCN
+2008) preparado por las Naciones Unidas y otras organizaciones internacionales. Estas bases estadísticas
+de información financiera se centran en la provisión de información financiera sobre el SGG. El SGG
+comprende aquellas entidades sin ánimo de lucro que llevan a cabo actividades no de mercado y dependen
+principalmente de asignaciones o distribuciones presupuestarias del gobierno para financiar sus actividades
+de prestación de servicios (referidas en adelante como entidades o actividades no de mercado). Las bases
+estadísticas de información financiera pueden también proporcionar información sobre (a) el sector de
+corporaciones del gobierno que realiza principalmente actividades de mercado [calificado normalmente
+como el sector corporaciones públicas financieras (CPF) y el sector corporaciones públicas no financieras
+(CPNF)], y (b) el sector público en su conjunto. Las principales características de los sectores CPF y CPNF
+se señalan en los párrafos 19 y 20 de esta Norma.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance — párr. 5 — p. 5,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 5, ""page_fin_pdf"": 5, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0006,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,,6,6,5,6,paragraph,"Los estados financieros consolidan solo las entidades controladas. Esta limitación no tiene lugar en las bases
+estadísticas de información financiera. En algunas jurisdicciones, un gobierno nacional controla entidades
+de gobierno regional/provincial y local, y en consecuencia sus estados financieros consolidan dichos niveles
+de gobierno, pero en otras jurisdicciones no lo hacen. En todas jurisdicciones, según las bases estadísticas
+de información financiera, el SGG de todos los niveles de gobierno están combinados, por lo que en algunas
+jurisdicciones el SGG incluirá unidades que los estados financieros no consolidan. Esta Norma desagrega
+los estados financieros consolidados de un gobierno. En consecuencia, prohíbe la presentación, como parte
+del SGG, de una entidad no consolidada dentro de los estados financieros de un gobierno.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance — párr. 6 — p. 5-6,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 5, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0007,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Información financiera por segmentos,7,7,6,6,paragraph,"La NICSP 18, Información Financiera por Segmentos, requiere la revelación de cierta información sobre las
+actividades de prestación de servicios de la entidad y los recursos destinados a sustentar dichas actividades
+para propósitos de rendición de cuentas y toma de decisiones. A diferencia de los sectores sobre los que se
+informa según las bases estadísticas de información financiera, los segmentos sobre los que se informa de
+acuerdo a la NICSP 18 no se basan en la distinción entre actividades de mercado y no de mercado.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Información financiera por segmentos — párr. 7 — p. 6,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Información financiera por segmentos"", ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0008,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Información financiera por segmentos,8,8,6,6,paragraph,"La revelación de información sobre el SGG no sustituye la necesidad de hacer revelaciones sobre
+segmentos de acuerdo con la NICSP 18. Esto es porque la información sobre el SGG sola no facilitará el
+suficiente detalle para permitir a los usuarios evaluar el rendimiento de la entidad en el pasado para alcanzar
+sus principales objetivos en la prestación del servicio, cuando dichos objetivos son alcanzados a través de
+entidades no del SGG. Por ejemplo, identificar el SGG como un segmento no proporcionará información
+sobre el rendimiento de un gobierno para alcanzar sus objetivos en telecomunicaciones, sanidad o
+educación cuando corporaciones gubernamentales o cuasi-corporaciones suministran servicios
+relacionados con dichos objetivos. Puesto que el SGG es solamente un subconjunto del gobierno como un
+todo, se omitiría información importante si un gobierno no presentase información por segmentos con
+respecto a sus estados financieros consolidados.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Información financiera por segmentos — párr. 8 — p. 6,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Información financiera por segmentos"", ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0009,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Bases estadísticas de información financiera,9,9,6,6,paragraph,"Los objetivos de los estados financieros preparados de acuerdo con las NICSP y aquéllos preparados de
+acuerdo con las bases estadísticas de información difieren en algunos aspectos. Los objetivos de los estados
+financieros preparados de acuerdo con las NICSP son proporcionar información útil para la toma de
+decisiones y demostrar el cumplimiento con la obligación de rendir cuentas de la entidad por los recursos
+que le han sido confiados y que controla. El propósito de los estados financieros preparados de acuerdo con
+las bases estadísticas de información es proporcionar información adecuada para analizar y evaluar la
+política fiscal, especialmente el rendimiento del SGG y del sector público global de cualquier país. Además,
+aunque las bases estadísticas de información financiera pueden ser expresadas en términos contables,
+pueden diferir de modo importante del sistema contable financiero subyacente a partir del cual se derivarán
+la mayoría de estadísticas sobre finanzas gubernamentales. No obstante, las NICSP y las bases estadísticas
+de información financiera también tienen muchas similitudes en el tratamiento de las transacciones y otros
+hechos. Por ejemplo, ambas adoptan una base contable de acumulación (o devengo), tratan transacciones
+y hechos similares, y en algunos aspectos requieren un tipo de estructura de la información similar.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Bases estadísticas de información financiera — párr. 9 — p. 6,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Bases estadísticas de información financiera"", ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0010,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Bases estadísticas de información financiera,10,10,6,6,paragraph,"En algunas jurisdicciones, la revelación de información adecuada sobre el SGG en los estados financieros
+puede apoyar y mejorar la toma de decisiones de los usuarios de dichos estados, y la rendición de cuentas
+a éstos. Por ejemplo, la revelación de información adecuada sobre el SGG es coherente con mejorar la
+transparencia de la información financiera y ayudará a los usuarios de los estados financieros a comprender
+mejor:
+(a) los recursos destinados a sustentar las actividades de prestación de servicios por el SGG, y el
+rendimiento financiero del gobierno en la prestación de dichos servicios; y
+(b) la relación entre el SGG y los sectores de las corporaciones, y el impacto de cada uno de ellos,
+sobre el rendimiento financiero global.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Bases estadísticas de información financiera — párr. 10 — p. 6,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Bases estadísticas de información financiera"", ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0011,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Bases estadísticas de información financiera,11,11,6,7,paragraph,"En aquellas jurisdicciones donde los estados financieros del gobierno se preparan de acuerdo con las bases
+estadísticas de información financiera y se difunden ampliamente, la revelación de información sobre el SGG
+en los estados financieros constituirá un enlace útil entre los estados financieros preparados de acuerdo a
+las NICSP y aquéllos preparados de acuerdo con las bases estadísticas de información financiera. Esto
+ayudará a los usuarios a conciliar la información presentada en los estados financieros con la información
+presentada en los informes estadísticos. La NICSP 24, Presentación de la Información del Presupuesto en
+los Estados Financieros, requiere que los estados financieros incluyan una comparación de los importes
+presupuestados sobre una base coherente con la adoptada en el presupuesto. Donde los presupuestos
+gubernamentales se preparan para el SGG en lugar del gobierno en su conjunto, la información financiera
+sobre el SGG revelada de acuerdo con esta Norma será relevante para las comparaciones requeridas por
+dicha NICSP.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Bases estadísticas de información financiera — párr. 11 — p. 6-7,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Bases estadísticas de información financiera"", ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 6, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0012,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Políticas contables,12,12,7,7,paragraph,"La NICSP 3, Políticas Contables, Cambios en las Estimaciones Contables y Errores, requiere el desarrollo
+de políticas contables para garantizar que los estados financieros proporcionen información que reúna
+determinadas características cualitativas. La recopilación y presentación de los datos del SGG que
+satisfacen las características cualitativas de la información suministrada en los estados financieros y los
+relacionados con los requerimientos de la auditoría podría añadir una carga significativa de trabajo de los
+preparadores y auditores en muchas jurisdicciones, y podría incrementar la complejidad de los estados
+financieros. Esto será especialmente así en las jurisdicciones donde actualmente no se preparen estados
+financieros basados en revelaciones de información del SGG, o que incorporen éstas, de acuerdo con las
+bases estadísticas de información financiera. Además, en algunas jurisdicciones los usuarios podrían no
+depender de los estados financieros para la información sobre el SGG. En dichas jurisdicciones, los costos
+necesarios de preparar y presentar la revelación de información del SGG como parte de los estados
+financieros puede resultar mayor que sus beneficios. En consecuencia, esta Norma permite, pero no
+requiere, la revelación de información sobre el SGG. La revelación o no de información sobre el SGG en los
+estados financieros, será determinada por el gobierno u otra autoridad apropiada en cada jurisdicción.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Políticas contables — párr. 12 — p. 7,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Políticas contables"", ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0013,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Políticas contables,13,13,7,7,paragraph,"Esta Norma requiere que cuando se lleven a cabo revelaciones de información sobre el SGG en los estados
+financieros, dichas revelaciones se hagan de acuerdo con los requerimientos establecidos en esta Norma.
+Esto garantizará que se hace una adecuada representación del SGG en los estados financieros y que las
+revelaciones de información sobre el SGG satisfacen las características cualitativas de la información
+financiera, que son la relevancia, representación fiel, comprensibilidad, oportunidad, comparabilidad y
+verificabilidad.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Políticas contables — párr. 13 — p. 7,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Políticas contables"", ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0014,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Alcance,Políticas contables,14,14,7,7,paragraph,"Las NICSP generalmente se aplican a todas entidades del sector público. No obstante, solamente es posible
+revelar una representación significativa del SGG de un gobierno – no de sus entidades controladas
+individuales. En consecuencia, esta Norma especifica requerimientos únicamente para ser aplicados por los
+gobiernos que preparan estados financieros consolidados según la base contable de acumulación (o
+devengo) establecida por las NICSP. Estos gobiernos pueden incluir gobiernos nacionales,
+regionales/provinciales y locales.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Alcance / Políticas contables — párr. 14 — p. 7,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": ""Políticas contables"", ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0015,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,,15,15,7,8,definition,"El siguiente término se usa, en la presente Norma, con el significado que a continuación se
+especifica:
+El Sector gobierno general comprende todas las entidades organizativas del gobierno general
+definidas en las bases estadísticas de información financiera.
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en
+dichas Normas, y se reproducen en el Glosario de términos definidos publicado por separado.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones — párr. 15 — p. 7-8,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 7, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0016,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,Empresas púbicas (EP),16,16,8,8,deleted,[Eliminado],NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones / Empresas púbicas (EP) — párr. 16 — p. 8,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Empresas púbicas (EP)"", ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0017,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,Sector gobierno general,17,17,8,8,definition,"Según las bases estadísticas de información financiera, el sector público comprende los sectores SGG, CPF
+y CPNF. Pueden identificarse subgrupos adicionales dentro de estos sectores para propósitos de análisis
+estadísticos.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones / Sector gobierno general — párr. 17 — p. 8,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Sector gobierno general"", ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0018,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,Sector gobierno general,18,18,8,8,definition,"El SCN 2008 define el SGG como el que está compuesto de (a) todas las unidades que residen en los
+gobiernos centrales, regionales y locales, (b) fondos de seguridad social a cada nivel de gobierno, e (c)
+instituciones no lucrativas no de mercado controladas por unidades gubernamentales. Según las bases
+estadísticas de información financiera, el SGG comprende las operaciones importantes del gobierno y
+habitualmente incluye todas las entidades no lucrativas no de mercado radicadas en el mismo cuyas
+operaciones se financian principalmente por el gobierno y las entidades del gobierno. Como tales, la
+financiación de estas entidades tiene su origen principalmente en la asignación presupuestaria o la
+distribución de los impuestos del gobierno, dividendos de las corporaciones gubernamentales, otros ingresos
+y préstamos. El SGG habitualmente incluye entidades tales como los departamentos gubernamentales,
+tribunales de justicia, instituciones de educación públicas, centros públicos de sanidad y otras agencias
+gubernamentales. El SGG no incluye las CPF y CPNF. La revelación de información del SGG se hará en
+aquellas jurisdicciones donde el fortalecimiento de la unión entre las NICSP y las bases estadísticas de
+información financiera se considera útil y relevante para los usuarios de los estados financieros. Los
+gobiernos que eligen revelar información del SGG necesitarán por tanto asegurar que la información sobre
+el SGG incluida en los estados financieros es coherente con la definición de SGG, y cualesquiera
+interpretaciones de las anteriores, adoptadas con relación a las bases estadísticas de la información
+financiera en su jurisdicción.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones / Sector gobierno general — párr. 18 — p. 8,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Sector gobierno general"", ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0019,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,Sector corporaciones públicas financieras,19,19,8,8,definition,"El sector CPF comprende las corporaciones financieras controladas por gobiernos residentes, las cuasi-
+corporaciones y las instituciones no lucrativas que realizan principalmente intermediación financiera y
+provisión de servicios financieros para el mercado. Se incluyen en este sector los bancos controlados por
+los gobiernos, incluyendo los bancos centrales y otras instituciones financieras gubernamentales que operan
+con base de mercado.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones / Sector corporaciones públicas financieras — párr. 19 — p. 8,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Sector corporaciones públicas financieras"", ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0020,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,Sector corporaciones públicas no financieras,20,20,8,8,definition,"El sector CPNF comprende las corporaciones no financieras controladas por los gobiernos residentes, las
+cuasi-corporaciones y las instituciones no lucrativas que producen bienes y servicios no financieros para el
+mercado. Se incluyen en este sector las entidades tales como las entidades de servicio público de titularidad
+pública y otras entidades que comercian bienes y servicios.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones / Sector corporaciones públicas no financieras — párr. 20 — p. 8,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Sector corporaciones públicas no financieras"", ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0021,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,Sector corporaciones públicas no financieras,21,21,8,8,definition,"Las bases estadísticas de información financiera definen:
+(a) las corporaciones como entidades legales creadas para producir bienes y servicios para el mercado;
+(b) las cuasi-corporaciones como empresas que no se incorporan o se establecen legalmente de otra
+manera pero que funcionan como si fueran corporaciones; y
+(c) las instituciones no lucrativas como entidades legales u otras que producen o distribuyen bienes y
+servicios, pero que no generan ganancias financieras para su entidad controladora.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones / Sector corporaciones públicas no financieras — párr. 21 — p. 8,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Sector corporaciones públicas no financieras"", ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0022,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Definiciones,Sector corporaciones públicas no financieras,22,22,8,9,definition,"Las entidades comerciales del sector público tienen características parecidas a una corporación pública o
+cuasi-corporación pública, según se define en las bases estadísticas de información financiera. No obstante,
+puede no haber un esquema idéntico para los sectores de las EP y los sectores de las CPF y CPNF. Por
+ejemplo, una entidad comercial del sector público no residente no se clasificaría como una CPF o una CPNF.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Definiciones / Sector corporaciones públicas no financieras — párr. 22 — p. 8-9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": ""Sector corporaciones públicas no financieras"", ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 8, ""page_fin_pdf"": 9, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0023,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,23,23,9,9,paragraph,"La información financiera sobre el SGG deberá revelarse de acuerdo con las políticas contables
+adoptadas para preparar y presentar los estados financieros consolidados del gobierno, a excepción
+de lo requerido en los párrafos 24 y 25.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 23 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0024,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,24,24,9,9,paragraph,"Al presentar información financiera sobre el SGG, las entidades no aplicarán la NICSP 35, Estados
+Financieros Consolidados, en relación con las entidades de los sectores CPF y CPNF públicos.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 24 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0025,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,25,25,9,9,paragraph,"El SGG reconocerá su inversión en los sectores CPF y CPNF públicos como un activo, y contabilizará
+para este activo el importe en libros de los activos netos de sus entidades participadas.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 25 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0026,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,26,26,9,9,paragraph,"Esta Norma refleja la opinión de que los estados financieros consolidados de un gobierno que elige revelar
+información sobre el SGG tienen que desagregarse para presentar el SGG como un sector del gobierno
+como entidad que informa. En congruencia con esta opinión, esta Norma requiere que se apliquen las
+mismas definiciones y requerimientos de reconocimiento, medición y presentación al preparar los estados
+financieros consolidados que se aplican también en la revelación de información del SGG, con una
+excepción. Esta excepción es que no se apliquen los requerimientos de la NICSP 35 respecto a la relación
+del SGG con las entidades de los sectores CPF y CPNF.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 26 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0027,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,27,27,9,9,paragraph,"La NICSP 35 requiere que las entidades controladoras preparen los estados financieros que consolidan las
+entidades controladas partida por partida. La NICSP 35 también contiene (a) una discusión detallada del
+concepto de control que se aplica en el sector público, y (b) una guía para determinar si existe control para
+propósitos de información financiera. En coherencia con los requerimientos de la NICSP 35, las entidades
+de los sectores CPF y CPNF, como se define en las bases estadísticas de información financiera, que son
+entidades controladas del gobierno se consolidarán en los estados financieros del gobierno.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 27 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0028,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,28,28,9,9,paragraph,"Los estados financieros preparados en congruencia con las bases estadísticas de información financiera
+reflejan el impacto del SGG en el sector público en su conjunto y, en el contexto del SCN 2008, en la
+economía nacional. En coherencia con este enfoque, las bases estadísticas de información financiera
+requieren que los estados financieros del SGG presenten las entidades del sector público fuera de este
+sector como inversiones en otros sectores. Además, según las bases estadísticas de información financiera,
+las transacciones del SGG con entidades en otros sectores no se eliminan del estado de las operaciones
+gubernamentales o un estado similar.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 28 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0029,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,29,29,9,9,paragraph,"Aplicar los requerimientos de la NICSP 35 para la consolidación del SGG daría lugar a la nueva presentación
+de los estados financieros consolidados de un gobierno, en lugar de los estados financieros del SGG.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 29 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0030,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,30,30,9,9,paragraph,"Por tanto, al revelar información financiera sobre el SGG, se eliminan los saldos y las transacciones entre
+entidades dentro del SGG de acuerdo con la NICSP 35. No obstante, los saldos y transacciones entre
+entidades del SGG y entidades de otros sectores no se eliminan.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 30 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0031,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,31,31,9,9,paragraph,"Esta Norma requiere que el sector SGG reconozca su inversión en entidades en los sectores CPF y CPNF
+por el importe en libros de los activos netos de estas entidades. Esto asegurará que la revelación de
+información del SGG refleje una desagregación de la información financiera presentada en los estados
+financieros consolidados del gobierno del cual forma parte. En coherencia con que el SGG sea una
+desagregación de los estados financieros consolidados de un gobierno, los cambios en el importe en libros
+de los activos netos de estas entidades se reconocerán de la misma manera que se reconocieron en los
+estados financieros consolidados de un gobierno.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 31 — p. 9,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0032,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,,32,32,10,10,paragraph,"Las bases estadísticas de información financiera requieren que todos los activos y pasivos (excepto los
+préstamos) se revalúen a valor de mercado en cada fecha de presentación. Las NICSP incluyen diferentes
+requerimientos de medición, y requieren o permiten un modelo del costo histórico y un modelo de valores
+actuales para ciertas clases de activos y pasivos; No requieren que se revalúen todos los activos y pasivos
+a valor de mercado. Por tanto, la medición de activos y pasivos en la información revelada del SGG en los
+estados financieros, incluyendo la inversión en los sectores de CPF y CPNF, puede diferir de las bases de
+medición adoptadas por las bases estadísticas de información.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables — párr. 32 — p. 10,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": null, ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0033,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,Desagregación adicional,33,33,10,10,paragraph,"En algunas jurisdicciones, los gobiernos nacionales pueden controlar gobiernos provinciales y/o locales, y,
+en consecuencia, los estados financieros del gobierno nacional consolidarán diferentes niveles de gobierno.
+Si los estados financieros consolidan diferentes niveles de gobierno, puede darse una desagregación
+adicional de los estados financieros consolidados de acuerdo con los requerimientos de esta Norma de
+revelar información de manera separada sobre el SGG a cada nivel de gobierno.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables / Desagregación adicional — párr. 33 — p. 10,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": ""Desagregación adicional"", ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0034,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Políticas contables,Desagregación adicional,34,34,10,10,paragraph,"Esta desagregación adicional no es requerida por esta Norma. Sin embargo, puede presentarse para ayudar
+más a los usuarios a entender mejor la relación entre las actividades del SGG de cada nivel de gobierno
+consolidado en los estados financieros, y la relación entre los estados financieros y las bases estadísticas
+de información financiera en estas jurisdicciones.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Políticas contables / Desagregación adicional — párr. 34 — p. 10,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Políticas contables"", ""subseccion"": ""Desagregación adicional"", ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0035,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,35,35,10,10,paragraph,"La información a revelar respecto al SGG incluirá al menos lo siguiente:
+(a) activos en función de sus principales clases, mostrando de manera separada la inversión en
+otros sectores;
+(b) pasivos en función de sus principales clases;
+(c) activos netos/patrimonio;
+(d) incrementos y disminuciones totales de revaluación y otras partidas de ingresos y gastos
+reconocidos directamente en los activos netos/patrimonio;
+(e) ingresos en función de sus principales clases;
+(f) gastos en función de sus principales clases;
+(g) resultado (ahorro o desahorro);
+(h) flujos de efectivo de las actividades de operación en función de sus principales clases;
+(i) flujos de efectivo por actividades de inversión; y
+(j) flujos de efectivo por actividades de financiación.
+La manera de revelar la información del SGG no será más destacada que la de los estados financieros
+consolidados preparados según las NICSP.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 35 — p. 10,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0036,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,36,36,10,10,paragraph,"La NICSP 1 identifica un conjunto completo de estados financieros (según la base de acumulación o
+devengo) como un estado de situación financiera, estado de rendimiento financiero, estado de cambios en
+los activos netos/patrimonio, estado de flujos de efectivo, y políticas contables y notas a los estados
+financieros.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 36 — p. 10,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0037,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,37,37,10,11,paragraph,"Esta Norma requiere revelar información de las principales categorías de activos, pasivos, ingresos, gastos
+y flujos de efectivo reflejados en los estados financieros. Esta Norma no especifica la manera en que debe
+realizarse la revelación de información del SGG. Los gobiernos que eligen revelar información del SGG de
+acuerdo con esta Norma pueden hacer tales revelaciones mediante (a) notas, (b) en columnas separadas
+en los estados financieros principales, o (c) de otra manera que consideren apropiado en su jurisdicción. No
+obstante, la manera de revelar la información del SGG no será más destacada que la de los estados
+financieros consolidados preparados según las NICSP.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 37 — p. 10-11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 10, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0038,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,38,38,11,11,paragraph,"Para ayudar a los usuarios a entender la relación de la información presentada por el SGG de las
+operaciones de un gobierno, las bases estadísticas de información financiera requieren que se desagreguen
+los gastos totales gubernamentales y se revele la información por clases bien según la naturaleza económica
+de los gastos o por la Clasificación de las Funciones del Gobierno (CFG). Esta Norma ni requiere ni prohíbe
+que las entidades revelen información del SGG en caso de presentar información desagregada del SGG
+clasificada según la naturaleza económica o coherente con la base de CFG. En algunas jurisdicciones, las
+CFG adoptadas respecto a la revelación de información del SGG pueden ser similares a las clasificaciones
+adoptadas de acuerdo con la NICSP 18.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 38 — p. 11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0039,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,39,39,11,11,paragraph,"Las entidades también realizarán revelaciones de información adicionales que sean necesarias para que los
+usuarios entiendan la naturaleza de la información presentada.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 39 — p. 11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0040,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,40,40,11,11,paragraph,"Las entidades que preparen la información a revelar del SGG revelarán las entidades controladas
+significativas que se incluyen en el SGG, y cualquier cambio en estas entidades desde el periodo
+anterior, junto con una explicación de las razones por las que cualesquiera de estas entidades que
+se incluían previamente en el SGG ya no se incluyen.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 40 — p. 11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0041,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,41,41,11,11,paragraph,"Esta Norma requiere que las entidades que eligen revelar información sobre el SGG lo hagan sobre una
+lista de las entidades controladas significativas que se incluyen en el SGG. La NICSP 35 requiere que las
+entidades que preparan estados financieros consolidados revelen información sobre una lista de las
+entidades controladas significativas que se incluyen en los estados financieros consolidados. La revelación
+de información sobre qué entidades consolidadas en los estados financieros de acuerdo con la NICSP 35
+se incluyen en el SGG ayudará a los usuarios a desarrollar una comprensión de la relación entre la
+información sobre el gobierno y su SGG, y un mejor entendimiento de la información del SGG en sí misma.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 41 — p. 11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0041"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 41, ""parrafo_fin"": 41, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0042,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,,42,42,11,11,paragraph,"De forma similar, la revelación de información sobre los cambios en las entidades controladas incluidas en
+el SGG permitirá a los usuarios controlar la relación entre los estados financieros consolidados y la
+información del SGG en el tiempo.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar — párr. 42 — p. 11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 42, ""parrafo_fin"": 42, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0043,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,Conciliación de los estados financieros consolidados,43,43,11,11,paragraph,"La información a revelar sobre el SGG se conciliará en los estados financieros consolidados del
+gobierno, mostrando de manera separada el importe del ajuste de cada partida equivalente en estos
+estados financieros.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar / Conciliación de los estados financieros consolidados — párr. 43 — p. 11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0043"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Conciliación de los estados financieros consolidados"", ""parrafo_ini"": 43, ""parrafo_fin"": 43, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0044,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,Conciliación de los estados financieros consolidados,44,44,11,11,paragraph,"Esta Norma requiere revelar los importes sobre el SGG para que se concilien con sus importes equivalentes
+en los estados financieros consolidados del gobierno. Las entidades presentarán de manera separada el
+ajuste en el importe de la inversión en activos en los sectores CPF y CPNF determinado según el párrafo
+23, y los ajustes de cada partida que revelan información de manera separada de acuerdo con el párrafo
+35. Además, las entidades pueden, pero no se les requiere, revelar información de forma separada del
+importe del ajuste de cada partida atribuible a los sectores CPF y CPNF. Esta conciliación permitirá al
+gobierno a cumplir mejor con sus obligaciones de rendición de cuentas demostrando la relación entre los
+importes de cada partida del SGG con el importe total de esta partida para el gobierno.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar / Conciliación de los estados financieros consolidados — párr. 44 — p. 11,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0044"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Conciliación de los estados financieros consolidados"", ""parrafo_ini"": 44, ""parrafo_fin"": 44, ""page_ini_pdf"": 11, ""page_fin_pdf"": 11, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0045,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,Conciliación con las bases estadísticas de información financiera,45,45,11,12,paragraph,"Las bases estadísticas de información financiera y las NICSP tienen muchas similitudes en el tratamiento
+de eventos y transacciones particulares. Sin embargo, también existen diferencias. Por ejemplo, además de
+las diferencias en las bases de medición de los activos y pasivos descritos en el párrafo 32 anterior, las
+bases estadísticas de información financiera tratan los dividendos como gastos, mientras que las NICSP los
+tratan como distribuciones. Las bases estadísticas de información financiera también realizan una distinción
+entre transacciones y otros flujos económicos para presentación de información financiera que no están
+actualmente reflejados en los estados financieros consolidados, y se centran en determinadas mediciones
+relevantes para el análisis de la política fiscal tales como préstamo/endeudamiento netos y superávit/déficit
+de efectivo.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar / Conciliación con las bases estadísticas de información financiera — párr. 45 — p. 11-12,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0045"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Conciliación con las bases estadísticas de información financiera"", ""parrafo_ini"": 45, ""parrafo_fin"": 45, ""page_ini_pdf"": 11, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0046,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Información a revelar,Conciliación con las bases estadísticas de información financiera,46,46,12,12,paragraph,"Esta Norma no requiere una conciliación de las revelaciones del SGG en los estados financieros
+consolidados con las revelaciones del SGG según las bases estadísticas de información financiera. Esto se
+debe a las preocupaciones sobre la viabilidad, y los costos y beneficios, de estos requerimientos en todas
+las jurisdicciones. No obstante, no se impide la inclusión de esta conciliación a través de la revelación de
+notas.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Información a revelar / Conciliación con las bases estadísticas de información financiera — párr. 46 — p. 12,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0046"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Conciliación con las bases estadísticas de información financiera"", ""parrafo_ini"": 46, ""parrafo_fin"": 46, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0047,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Fecha de vigencia,,47,47,12,12,paragraph,"Una entidad aplicará esta Norma para los estados financieros anuales que cubran periodos que
+comiencen a partir del 1 de enero de 2008. Se aconseja su aplicación anticipada. Si una entidad aplica
+esta Norma en periodos que comiencen antes del 1 de enero de 2008, se revelará este hecho.
+47A. La NICSP 33, Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector
+Público de Base de Acumulación (o devengo) (NICSP) emitida en enero de 2015 modificó el párrafo",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Fecha de vigencia — párr. 47 — p. 12,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0047"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 47, ""parrafo_fin"": 47, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-P0048,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Fecha de vigencia,,48,48,12,13,paragraph,"Una entidad debe aplicar esa modificación para los estados financieros anuales que cubran
+periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación anticipada. Si una
+entidad aplica la NICSP 33 en un periodo que comience antes del 1 de enero de 2017, la modificación
+también se aplicará para dicho periodo.
+47B La NICSP 35, Estados Financieros Consolidados emitida en enero de 2015, modificó los párrafos 24,
+26, 27, 29, 30 y 41. Una entidad aplicará esas modificaciones cuando aplique la NICSP 35.
+47C. El párrafo 13 fue modificado mediante el documento Mejoras a las NICSP 2015 emitido en abril de
+2016. Una entidad aplicará esta modificación para los estados financieros anuales que cubran
+periodos que comiencen a partir del 1 de enero de 2026. Se aconseja su aplicación anticipada. Si una
+entidad aplica la modificación para un periodo que comience antes del 1 de enero de 2017, deberá
+revelar este hecho.
+47D. El párrafo 16 se eliminó y se modificaron los párrafos 3 y 22 mediante el documento La Aplicabilidad
+de las NICSP emitido en abril de 2016. Una entidad aplicará esas modificaciones para los estados
+financieros anuales que cubran periodos que comiencen a partir del 1 de enero de 2018. Se aconseja
+su aplicación anticipada. Si una entidad aplica las modificaciones para un periodo que comience
+antes del 1 de enero de 2018, deberá revelar este hecho.
+47E. El párrafo 37 fue modificado mediante el documento Mejoras a las NICSP 2018 emitida en octubre de
+2018. Una entidad aplicará esta modificación para los estados financieros anuales que cubran
+periodos que comiencen a partir del 1 de enero de 2019. Se permite su aplicación anticipada.
+47F. Los párrafos 5, 18 y 28 fueron modificados por el documento Mejoras a las NICSP 2021, emitido en
+enero de 2022. Una entidad aplicará estas modificaciones para los estados financieros anuales que
+cubran periodos que comiencen a partir del 1 de enero de 2023. Se permite su aplicación anticipada.
+47G. El párrafo 32 fue modificado por la NICSP 46, Medición emitida en mayo de 2023. Una entidad aplicará
+estas modificaciones para los estados financieros anuales que cubran periodos que comiencen a
+partir del 1 de enero de 2025. Se aconseja su aplicación anticipada. Si una entidad aplicase las
+modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará este hecho y al
+mismo tiempo aplicará la NICSP 46.
+48. Cuando una entidad adopte las NICSP de contabilidad de acumulación (o devengo), tal como se definen en
+la NICSP 33, Adopción por Primera Vez de las Normas Internacionales de Contabilidad del Sector Público
+(NICSP), a efectos de información financiera con posterioridad a esta fecha de vigencia, esta Norma se
+aplicará a los estados financieros anuales de la entidad que cubran periodos que comiencen a partir de la
+fecha de adopción de las NICSP.",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Fecha de vigencia — párr. 48 — p. 12-13,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-P0048"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 48, ""parrafo_fin"": 48, ""page_ini_pdf"": 12, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-T001,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Historia de la NICSP,Tabla de párrafos modificados en la NICSP 22,,,1,2,table,"NICSP 22, REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO
+GENERAL
+Historia de la NICSP
+Esta versión incluye las modificaciones introducidas en las NICSP emitidas hasta el 31 de enero de 2025.
+La NICSP 22, Revelación de Información Financiera sobre el Sector Gobierno General fue emitida en diciembre de
+2006.
+Desde entonces, la IPSAS 22 ha sido modificada por las siguientes normas NICSP:
+• NICSP 46, Medición (emitida en mayo de 2023)
+• Mejoras a las NICSP 2021 (emitida en enero de 2022)
+• Mejoras a las NICSP 2018 (emitida en octubre de 2018)
+• La aplicabilidad de las NICSP (emitidas en abril de 2016)
+• Mejoras a las NICSP 2015 (emitida en abril de 2016)
+• La NICSP 35, Estados Financieros Consolidados (emitida en enero de 2015)
+• La NICSP 33, Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector Público
+de Base de Acumulación (o devengo) (NICSP) (emitida en enero de 2015)
+• Mejoras a las NICSP 2011 (emitida en octubre de 2011)
+Tabla de párrafos modificados en la NICSP 22
+Párrafo afectado Cómo está Afectado por
+afectado
+Sección de Introducción Eliminado Mejoras a las NICSP octubre de 2011
+3 Modificado La aplicabilidad de las NICSP abril de 2016
+5 Modificado Mejoras a las NICSP enero de 2022
+13 Modificado Mejoras a las NICSP abril de 2016
+16 Eliminado La aplicabilidad de las NICSP abril de 2016
+18 Modificado Mejoras a las NICSP enero de 2022
+22 Modificado La aplicabilidad de las NICSP abril de 2016
+24 Modificado NICSP 35 enero de 2015
+26 Modificado NICSP 35 enero de 2015
+27 Modificado NICSP 35 enero de 2015
+28 Modificado Mejoras a las NICSP enero de 2022
+29 Modificado NICSP 35 enero de 2015
+30 Modificado NICSP 35 enero de 2015
+Párrafo afectado Cómo está Afectado por
+afectado
+32 Modificado NICSP 46 mayo de 2023
+37 Modificado Mejoras a las NICSP octubre de 2018
+41 Modificado NICSP 35 enero de 2015
+47A Nuevo NICSP 33 enero de 2015
+47B Nuevo NICSP 35 enero de 2015
+47C Nuevo Mejoras a las NICSP abril de 2016
+47D Nuevo La aplicabilidad de las NICSP abril de 2016
+47E Nuevo Mejoras a las NICSP octubre de 2018
+47F Nuevo Mejoras a las NICSP enero de 2022
+47G Nuevo NICSP 46 mayo de 2023
+48 Modificado NICSP 33 enero de 2015",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Historia de la NICSP / Tabla de párrafos modificados en la NICSP 22 — párr. s/n — p. 1-2,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-T001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Historia de la NICSP"", ""subseccion"": ""Tabla de párrafos modificados en la NICSP 22"", ""parrafo_ini"": null, ""parrafo_fin"": null, ""page_ini_pdf"": 1, ""page_fin_pdf"": 2, ""content_type"": ""table"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-T018,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Guía de implementación,Estado de situación financiera del SGG – A 31 de diciembre de 20X2,,,18,20,table,"Guía de implementación
+Esta guía acompaña a la NICSP 22, pero no es parte de la misma.
+Estructura ilustrativa de los estados financieros
+Gobierno A – Extracto de estados financieros
+Extracto de las notas a los estados financieros
+Nota: Información a revelar del Sector del Gobierno General (SGG)
+Las siguientes informaciones a revelar se refieren al Sector Gobierno General (SGG). Reflejan las políticas contables
+adoptadas en los estados financieros consolidados excepto cuando los requerimientos de consolidación hayan variado
+con respecto al sector corporaciones públicas financieras (CPF) y al sector corporaciones públicas no financieras
+(CPNF). De acuerdo con los requerimientos de la NICSP 22, Revelación de Información Financiera sobre el Sector
+Gobierno General, las CPF y las CPNF no se consolidan en la información a revelar del SGG, pero se reconocen como
+inversiones del mismo. Las inversiones en CPF y CPNF se presentan en una única línea de partida medida al importe
+en libros de los activos netos de la entidad participada.
+El SGG comprende todos los ministerios del gobierno central y otras entidades controladas por el gobierno que están
+principalmente involucradas en actividades no de mercado. Estas entidades son:
+Ministerio de x
+y
+z.
+Durante el periodo sobre el que se informa, las actividades relacionadas con el servicio de correos, previamente
+asumidas por el ministerio de comunicaciones, se han configurado nuevamente de acuerdo con criterios comerciales
+y ya no se incluyen en la información financiera presentada por el SGG.
+Estado de situación financiera del SGG – A 31 de diciembre de 20X2
+(miles de unidades monetarias)
+SGG CPF y CPNF Eliminaciones Total W-de-G
+20X2 20X1 20X2 20X1 20X2 20X1 20X2 20X1
+ACTIVOS
+Activos corrientes
+Efectivo y equivalentes al efectivo X X X X (X) (X) X X
+Cuentas por cobrar X X X X (X) (X) X X
+Inventarios X X X X X X
+Pagos anticipados X X X X (X) (X) X X
+Inversiones X X X X X X
+Otros activos corrientes X X X X X X
+X X X X (X) (X) X X
+Activos no corrientes
+Cuentas por cobrar X X X X (X) (X) X X
+Inversiones X X X X X X
+Inversiones en otros sectores X X (X) (X)
+Otros activos financieros X X X X (X) (X) X X
+Infraestructuras, planta y equipo X X X X X X
+Terrenos y Edificios X X X X X X
+Activos intangibles X X X X X X
+Otros activos financieros X X X X X X
+X X X X (X) (X) X X
+ACTIVO TOTAL X X X X (X) (X) X X
+PASIVOS
+Pasivos corrientes
+Cuentas por pagar X X X X (X) (X) X X
+Préstamos corto plazo X X X X X X
+Porción de los préstamos con
+vencimiento a corto plazo X X X X X X
+Provisiones X X X X X X
+603 NICSP 22 GUÍA DE IMPLEMENTACIÓN
+SGG CPF y CPNF Eliminaciones Total W-de-G
+20X2 20X1 20X2 20X1 20X2 20X1 20X2 20X1
+Beneficios a los empleados X X X X X X
+Otros pasivos corrientes X X X X (X) (X) X X
+X X X X (X) (X) X X
+Pasivos no corrientes
+Cuentas por pagar X X X X (X) (X) X X
+Préstamos X X X X X X
+Provisiones X X X X X X
+Beneficios a los empleados X X X X X X
+Otros pasivos X X X X (X) (X) X X
+X X X X (X) (X) X X
+PASIVO TOTAL X X X X (X) (X) X X
+ACTIVOS NETOS X X X X (X) (X) X X
+ACTIVOS NETOS/PATRIMONIO
+Reservas X X X X (X) (X) X X
+Resultado positivo (ahorro)/negativo
+(desahorro) acumulado X X X X (X) (X) X X
+X X X X (X) (X) X X
+ACTIVOS TOTALES
+NETOS/PATRIMONIO X X X X (X) (X) X X",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Guía de implementación / Estado de situación financiera del SGG – A 31 de diciembre de 20X2 — párr. s/n — p. 18-20,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-T018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Guía de implementación"", ""subseccion"": ""Estado de situación financiera del SGG – A 31 de diciembre de 20X2"", ""parrafo_ini"": null, ""parrafo_fin"": null, ""page_ini_pdf"": 18, ""page_fin_pdf"": 20, ""content_type"": ""table"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-T021,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Guía de implementación,Estado del rendimiento financiero del SGG — Del ejercicio cerrado a 31 de diciembre de 20X2 — Clasificación por funciones del gobierno,,,21,21,table,"Estado del rendimiento financiero del SGG—
+Del ejercicio cerrado a 31 de diciembre, 20X2—Clasificación por funciones del gobierno
+(miles de unidades monetarias)
+SGG CPF y CPNF Eliminaciones Total W-de-G
+20X2 20X1 20X2 20X1 20X2 20X1 20X2 20X1
+Ingresos
+Impuestos X X (X) (X) X X
+Cuotas, multas, penalizaciones X X X X (X) (X) X X
+Ingresos de otros sectores X X X X (X) (X)
+Transferencias de otros
+gobiernos X X X X X X
+Otros ingresos de actividades
+ordinarias X X X X (X) (X) X X
+Total ingresos X X X X (X) (X) X X
+Gastos
+Servicios públicos generales X X X X
+Defensa X X X X
+Orden público y seguridad
+nacional X X X X X X
+Asuntos económicos X X X X
+Protección medioambiental X X X X (X) (X) X X
+Vivienda y bienestar social X X X X (X) (X) X X
+Sanidad X X X X X X
+Ocio, cultura y religión X X X X
+Educación X X X X (X) (X) X X
+Protección social X X X X (X) (X) X X
+Total de gastos X X X X (X) (X) X X
+Resultado (ahorro o desahorro)
+del periodo X X X X (X) (X) X X
+605 NICSP 22 GUÍA DE IMPLEMENTACIÓN",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Guía de implementación / Estado del rendimiento financiero del SGG — Del ejercicio cerrado a 31 de diciembre de 20X2 — Clasificación por funciones del gobierno — párr. s/n — p. 21,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-T021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Guía de implementación"", ""subseccion"": ""Estado del rendimiento financiero del SGG — Del ejercicio cerrado a 31 de diciembre de 20X2 — Clasificación por funciones del gobierno"", ""parrafo_ini"": null, ""parrafo_fin"": null, ""page_ini_pdf"": 21, ""page_fin_pdf"": 21, ""content_type"": ""table"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-T022,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Guía de implementación,Estado de cambios en los activos netos/patrimonio del SGG – Del ejercicio cerrado a 31 de diciembre de 20X2,,,22,23,table,"Estado de cambios en los activos netos/patrimonio del SGG – Del ejercicio cerrado a 31 de diciembre, 20X2
+(miles de unidades monetarias)
+SGG
+Total
+Resultados Gobiern
+Acumulados( o en
+ahorro o su
+Reservas de Reserva de desahorro) CPF y Eliminacione conjunt
+revaluación conversión del periodo CPNF s o
+Saldo a 31 de diciembre de 20X0 X (X) X X X X
+Resultado (ahorro) por
+revaluación de propiedades X X X
+Resultado (desahorro) por
+revaluación de inversiones (X) (X) X (X)
+Diferencias de conversión (X) (X) (X)
+Pérdidas y ganancias netas no
+reconocidas en el estado de
+rendimiento financiero X (X) X (X) X
+Resultado (ahorro) neto del
+ejercicio X X (X) X
+Saldo a 31 de diciembre de 20X1 X (X) X X (X) X
+Resultado (desahorro) en
+revaluación de propiedad (X) (X) X (X)
+Resultado (ahorro) por
+revaluación de inversiones X X (X) X
+Diferencias de conversión (X) X X
+Pérdidas y ganancias netas no
+reconocidas en el estado de
+rendimiento financiero (X) (X) (X) (X) (X)
+Resultado (desahorro) neto del
+periodo (X) (X) (X) (X)
+SGG
+Total
+Resultados Gobiern
+Acumulados( o en
+ahorro o su
+Reservas de Reserva de desahorro) CPF y Eliminacione conjunt
+revaluación conversión del periodo CPNF s o
+Saldo a 31 de diciembre de 20X2 X (X) X X (X) X
+607 NICSP 22 GUÍA DE IMPLEMENTACIÓN",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Guía de implementación / Estado de cambios en los activos netos/patrimonio del SGG – Del ejercicio cerrado a 31 de diciembre de 20X2 — párr. s/n — p. 22-23,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-T022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Guía de implementación"", ""subseccion"": ""Estado de cambios en los activos netos/patrimonio del SGG – Del ejercicio cerrado a 31 de diciembre de 20X2"", ""parrafo_ini"": null, ""parrafo_fin"": null, ""page_ini_pdf"": 22, ""page_fin_pdf"": 23, ""content_type"": ""table"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"
+NICSP 22-T024,NICSP,NICSP 22,REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL,31-01-2025,es,Guía de implementación,Estado de flujos de efectivo del SGG – Del ejercicio cerrado a 31 de diciembre de 20X2,,,24,25,table,"Estado de flujos de efectivo del SGG – Del ejercicio cerrado a 31 de diciembre de 20X2
+(miles de unidades monetarias)
+Total Gobierno
+en
+SGG CPF y CPNF Eliminaciones su conjunto
+20X2 20X1 20X2 20X1 20X2 20X1 20X2 20X1
+FLUJOS DE EFECTIVO POR
+ACTIVIDADES DE OPERACIÓN
+Cobros
+Impuestos X X (X) (X) X X
+Venta de bienes y servicios X X (X) (X) X X
+Subvenciones X X (X) (X) X X
+Intereses cobrados X X X X
+Dividendos de otros sectores al
+gobierno X X (X) (X)
+Otros cobros X X X X (X) (X) X X
+Pagos
+Costos de los empleados (X) (X) (X) (X) (X) (X)
+Beneficios por retiro (X) (X) (X) (X) (X) (X)
+Proveedores (X) (X) (X) (X) (X) (X)
+Intereses pagados (X) (X) (X) (X) (X) (X)
+Dividendos a otros sectores (X) (X) X X
+Otros pagos (X) (X) (X) (X) X X (X) (X)
+Flujos de efectivo netos de las
+actividades de operación X X X X (X) (X) X X
+FLUJOS DE EFECTIVO DE LAS
+ACTIVIDADES DE INVERSIÓN
+Compra de planta y equipo (X) (X) (X) (X) (X) (X)
+Cobros por venta de planta y equipo X X X X X X
+Cobros por venta de inversiones X X X X X X
+Compra de valores en moneda
+extranjera (X) (X) (X) (X) (X) (X)
+Flujos de efectivo netos por
+actividades de inversión (X) (X) (X) (X) (X) (X) (X) (X)
+Total Gobierno
+en
+SGG CPF y CPNF Eliminaciones su conjunto
+20X2 20X1 20X2 20X1 20X2 20X1 20X2 20X1
+FLUJOS DE EFECTIVO DE LAS
+ACTIVIDADES DE FINANCIACIÓN
+Efectivo recibido por préstamos X X X X X X
+Reembolsos de préstamos (X) (X) (X) (X) (X) (X)
+Flujos de efectivo netos por
+actividades de financiación X X X X (X) (X) X X
+Incremento/(Disminución) neta en el
+efectivo y equivalentes al efectivo X X X X (X) (X) X X
+Efectivo y equivalentes al efectivo al
+principio del periodo X X X X (X) (X) X X
+Efectivo y equivalentes al efectivo al
+final del periodo X X X X (X) (X) X X
+609 NICSP 22 GUÍA DE IMPLEMENTACIÓN",NICSP 22 — REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL — Guía de implementación / Estado de flujos de efectivo del SGG – Del ejercicio cerrado a 31 de diciembre de 20X2 — párr. s/n — p. 24-25,NICSP 22.pdf,"{""chunk_id"": ""NICSP 22-T024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP 22"", ""norma_titulo"": ""REVELACIÓN DE INFORMACIÓN FINANCIERA SOBRE EL SECTOR GOBIERNO GENERAL"", ""version_corte"": ""31-01-2025"", ""idioma"": ""es"", ""seccion"": ""Guía de implementación"", ""subseccion"": ""Estado de flujos de efectivo del SGG – Del ejercicio cerrado a 31 de diciembre de 20X2"", ""parrafo_ini"": null, ""parrafo_fin"": null, ""page_ini_pdf"": 24, ""page_fin_pdf"": 25, ""content_type"": ""table"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 22.pdf""}"

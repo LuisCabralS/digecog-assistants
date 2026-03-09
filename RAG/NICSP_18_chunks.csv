@@ -1,0 +1,790 @@
+chunk_id,doc_set,norma_id,norma_titulo,version_corte,idioma,seccion,subseccion,parrafo_ini,parrafo_fin,page_ini_pdf,page_fin_pdf,content_type,text,citation,source_file,metadata_json
+NICSP-18-P0001,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Alcance,,1,1,6,6,paragraph,"Una entidad que prepare y presente sus estados financieros según la base contable de acumulación 
+(o devengo) deberá aplicar esta Norma al presentar información por segmentos.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Alcance — párr. 1 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0001"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 1, ""parrafo_fin"": 1, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0002,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Alcance,,2,2,6,6,deleted,[Eliminado],NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Alcance — párr. 2 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0002"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 2, ""parrafo_fin"": 2, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0003,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Alcance,,3,3,6,6,deleted,[Eliminado],NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Alcance — párr. 3 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0003"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 3, ""parrafo_fin"": 3, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0004,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Alcance,,4,4,6,6,paragraph,"Esta Norma deberá aplicarse en los conjuntos completos de estados financieros publicados que 
+pretendan cumplir con las NICSP.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Alcance — párr. 4 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0004"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 4, ""parrafo_fin"": 4, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0005,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Alcance,,5,5,6,6,paragraph,"Un conjunto completo de estados financieros incluye el estado de situación financiera, estado de rendimiento 
+financiero, estado de flujos de efectivo, cambios en los activos netos/patrimonio, y las notas a los estados 
+financieros, según se establece en la NICSP 1.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Alcance — párr. 5 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0005"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 5, ""parrafo_fin"": 5, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0006,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Alcance,,6,6,6,6,paragraph,"En caso de que los estados financieros consolidados del gobierno u otra entidad económica y los 
+estados financieros separados de la controladora se presenten conjuntamente, solo será necesario 
+presentar la información segmentada correspondiente a los estados financieros consolidados.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Alcance — párr. 6 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0006"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 6, ""parrafo_fin"": 6, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0007,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Alcance,,7,7,6,6,paragraph,"En algunas jurisdicciones, los estados financieros consolidados del gobierno u otra entidad económica y los 
+estados financieros separados de la controladora se compilan y presentan juntos en un único informe. 
+Cuando esto ocurre, es necesario que el informe que contiene los estados financieros consolidados del 
+gobierno u otra entidad controladora presente la información por segmentos solo para los estados 
+financieros consolidados.  
+Definiciones",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Alcance — párr. 7 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0007"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Alcance"", ""subseccion"": null, ""parrafo_ini"": 7, ""parrafo_fin"": 7, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0008,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Definiciones,,8,8,6,6,deleted,[Eliminado],NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones — párr. 8 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0008"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 8, ""parrafo_fin"": 8, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0009,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Definiciones,,9,9,6,6,definition,"El siguiente término se usa, en la presente Norma, con el significado que a continuación se 
+especifica:  
+Un Segmento es una actividad o grupo de actividades de la entidad, que son identificables y para las 
+cuales es apropiado presentar información financiera separada con el fin de (a) evaluar el 
+rendimiento pasado de la entidad en la consecución de sus objetivos, y (b) tomar decisiones 
+respecto a la futura asignación de recursos.  
+Los términos definidos en otras NICSP se utilizan en esta Norma con el mismo significado que en 
+aquellas Normas, y se reproducen en el Glosario de términos definidos publicado por separado.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones — párr. 9 — p. 6,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0009"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 9, ""parrafo_fin"": 9, ""page_ini_pdf"": 6, ""page_fin_pdf"": 6, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0010,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Definiciones,,10,10,6,7,definition,"Los gobiernos y sus organismos controlan importantes recursos públicos y operan para suministrar a los 
+ciudadanos una amplia variedad de bienes y servicios en diferentes regiones geográficas y en regiones con 
+distintas características socio-económicas. Se espera que estas entidades, y en algunos casos se exige 
+formalmente, usen dichos recursos de un modo eficaz y eficiente para alcanzar sus objetivos. Los estados 
+financieros a nivel de entidad individual y a nivel consolidado suministran información (a) de los activos 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+449 
+NICSP 18 
+controlados y pasivos incurridos por la entidad que informa, (b) del costo de los servicios prestados, y (c) del 
+ingreso por impuestos, asignaciones presupuestarias y recuperaciones de costos generados para financiar 
+la prestación de dichos servicios. Sin embargo, esta información agregada no informa sobre los objetivos 
+operativos específicos y las actividades principales de la entidad que informa, ni sobre los costos y recursos 
+dedicados a tales objetivos y actividades.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones — párr. 10 — p. 6-7,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0010"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 10, ""parrafo_fin"": 10, ""page_ini_pdf"": 6, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0011,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Definiciones,,11,11,7,7,definition,"En la mayoría de los casos, las actividades de una entidad son tan amplias y abarcan un conjunto tan amplio 
+de regiones geográficas, o regiones con diferentes características socio-económicas, que es necesario 
+presentar información desagregada tanto financiera como no financiera para determinados segmentos de la 
+entidad, con el fin de proporcionar información que sea útil a efectos de rendición de cuentas y toma de 
+decisiones. 
+Presentación de información financiera por segmentos",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones — párr. 11 — p. 7,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0011"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones"", ""subseccion"": null, ""parrafo_ini"": 11, ""parrafo_fin"": 11, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""definition"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0012,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,,12,12,7,7,paragraph,"Una entidad deberá identificar sus distintos segmentos, según establece el párrafo 9 de esta Norma; 
+y presentar información sobre los mismos, según lo requerido por los párrafos 51 a 75 de esta Norma.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos — párr. 12 — p. 7,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0012"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": null, ""parrafo_ini"": 12, ""parrafo_fin"": 12, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0013,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,,13,13,7,7,paragraph,"De acuerdo con esta Norma, las entidades del sector público identificarán como segmentos separados, cada 
+actividad o grupo de actividades identificables para las cuales se deba presentar información financiera, para 
+los propósitos de (a) evaluar el rendimiento pasado de la entidad en el logro de sus objetivos, y (b) tomar 
+decisiones con respecto a la asignación de recursos de la entidad. Además de revelar la información 
+requerida por los párrafos 51 a 75 de esta Norma, es recomendable que las entidades revelen información 
+adicional sobre los segmentos sobre los que se informa, tal como se identifica en esta Norma o según se 
+considere necesario a efectos de rendición de cuentas y toma de decisiones. 
+Estructuras de presentación",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos — párr. 13 — p. 7,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0013"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": null, ""parrafo_ini"": 13, ""parrafo_fin"": 13, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0014,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Estructuras de presentación,14,14,7,7,paragraph,"En la mayoría de los casos, las principales clasificaciones de las actividades identificadas en la 
+documentación presupuestaria son un reflejo de los segmentos para los cuales se presenta información al 
+órgano de dirección y a la más alta administración de la entidad. En la mayoría de los casos, los segmentos 
+presentados al órgano de dirección y a la alta administración serán también un reflejo de los segmentos 
+presentados en los estados financieros. Esto se debe a que el órgano de dirección y la alta administración 
+requerirán de información sobre los segmentos, que les permita (a) ejecutar sus responsabilidades 
+administrativas y evaluar el rendimiento pasado de la entidad en el logro sus objetivos, y (b) tomar decisiones 
+con respecto a la asignación de recursos por la entidad en el futuro.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Estructuras de presentación — párr. 14 — p. 7,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0014"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Estructuras de presentación"", ""parrafo_ini"": 14, ""parrafo_fin"": 14, ""page_ini_pdf"": 7, ""page_fin_pdf"": 7, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0015,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Estructuras de presentación,15,15,7,8,paragraph,"La determinación de qué actividades se agruparán como segmentos separados y presentarán en los estados 
+financieros a efectos de rendición de cuentas y toma de decisiones, implica realizar juicios profesionales. Al 
+realizar los juicios correspondientes, quienes preparen los estados financieros deberán considerar aspectos 
+tales como: 
+(a) 
+el objetivo del suministro de información financiera por segmentos, establecido en el párrafo 9 anterior;  
+(b) 
+las expectativas de los miembros de la comunidad, y de sus representantes elegidos o designados, 
+respecto a las principales actividades de la entidad; 
+(c) 
+las características cualitativas de la información financiera, identificadas en el Marco Conceptual para 
+la Información Financiera con Propósito General de las Entidades del Sector Público; y 
+(d) 
+si una estructura particular de los segmentos refleja la base sobre la cual el órgano de dirección y la 
+alta administración exigen la información financiera para que les permita evaluar el rendimiento 
+pasado de la entidad en el logro sus objetivos, y tomar decisiones sobre la asignación de recursos 
+para que la entidad pueda alcanzar sus objetivos en el futuro. 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+NICSP 18 
+450",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Estructuras de presentación — párr. 15 — p. 7-8,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0015"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Estructuras de presentación"", ""parrafo_ini"": 15, ""parrafo_fin"": 15, ""page_ini_pdf"": 7, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0016,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Estructuras de presentación,16,16,8,8,paragraph,"A nivel del gobierno en su conjunto, la información financiera suele agregarse y presentarse de manera que 
+refleje, por ejemplo:  
+(a) 
+las principales clasificaciones económicas de las actividades desarrolladas por el gobierno en su 
+conjunto, tales como sanidad, educación, defensa y asistencia social [las cuales pueden ser un reflejo 
+de las clasificaciones funcionales gubernamentales dadas por la Estadística Financiera 
+Gubernamental (EFG)] y las principales actividades comerciales desarrolladas por las empresas 
+públicas, como centrales eléctricas, bancos y entidades de seguros propiedad del Estado; o 
+(b) 
+la cartera de responsabilidades de los ministros o miembros individuales del poder ejecutivo. Estas, 
+frecuentemente, aunque no siempre, reflejan las clasificaciones económicas señaladas en el anterior 
+subapartado (a) -pudiendo presentarse algunas diferencias, ya que las responsabilidades 
+ministeriales pueden abarcar más de una de las clasificaciones económicas o corresponder solo 
+parcialmente a dichas clasificaciones. 
+Segmentos de servicios y segmentos geográficos",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Estructuras de presentación — párr. 16 — p. 8,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0016"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Estructuras de presentación"", ""parrafo_ini"": 16, ""parrafo_fin"": 16, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0017,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Segmentos de servicios y segmentos geográficos,17,17,8,8,paragraph,"Los tipos de segmentos sobre los que se presenta información al órgano de dirección y la alta administración 
+de la entidad suelen conocerse como segmentos de servicios o segmentos geográficos. Estos términos se 
+usan en la presente Norma con los siguientes significados: 
+(a) 
+segmentos de servicios son los componentes identificables de una entidad encargados de suministrar 
+bienes o servicios afines, o de alcanzar determinados objetivos operativos de acuerdo con la misión 
+general de la entidad; y 
+(b) 
+segmentos geográficos son los componentes identificables de una entidad encargados de suministrar 
+bienes o servicios o de alcanzar determinados objetivos operativos dentro de un área geográfica 
+concreta.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Segmentos de servicios y segmentos geográficos — párr. 17 — p. 8,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0017"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Segmentos de servicios y segmentos geográficos"", ""parrafo_ini"": 17, ""parrafo_fin"": 17, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0018,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Segmentos de servicios y segmentos geográficos,18,18,8,8,paragraph,"Los ministerios y organismos gubernamentales normalmente se gestionan a través de líneas de servicios, 
+ya que éstas reflejan la forma en que (a) se identifican sus principales servicios prestados, (b) la forma en 
+que supervisan sus logros y (c) la forma en que se identifican y presupuestan sus necesidades de recursos. 
+Un ejemplo de entidad que presenta internamente información sobre la base de líneas o segmentos de 
+servicios es un ministerio de educación, cuya estructura organizacional y sistema de presentación interna 
+de información refleja sus actividades y productos de educación primaria, secundaria, y terciaria, bajo la 
+forma de segmentos separados. Esta forma de segmentación puede ser adoptada internamente porque se 
+percibe que las técnicas e instalaciones necesarias para suministrar los productos y resultados de cada una 
+de estas amplias actividades educativas, son diferentes. Además, las decisiones financieras clave a las que 
+se enfrenta la administración incluyen la determinación de los recursos que se van a asignar a cada uno de 
+dichos productos o actividades. En estos casos, es probable que la presentación externa de información 
+sobre la base de segmentos de servicios también satisfaga los requerimientos de esta Norma.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Segmentos de servicios y segmentos geográficos — párr. 18 — p. 8,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0018"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Segmentos de servicios y segmentos geográficos"", ""parrafo_ini"": 18, ""parrafo_fin"": 18, ""page_ini_pdf"": 8, ""page_fin_pdf"": 8, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0019,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Segmentos de servicios y segmentos geográficos,19,19,8,9,paragraph,"Los factores que deberán considerarse para determinar si los productos (bienes y servicios) están 
+relacionados y deben agruparse como segmentos a efectos de presentación de información financiera 
+comprenden:  
+(a) 
+los objetivos operativos principales de la entidad y los bienes, servicios, y actividades que se 
+relacionan con el logro de cada uno de dichos objetivos, así como la consideración de si los recursos 
+están asignados y presupuestados sobre la base de grupos de bienes y servicios;  
+(b) 
+la naturaleza de los bienes o servicios suministrados o las actividades desarrolladas;  
+(c) 
+la naturaleza de los procesos de producción y/o de suministro del servicio, y el proceso o mecanismo 
+de distribución;  
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+451 
+NICSP 18 
+(d) 
+el tipo de cliente o consumidor de los bienes o servicios;  
+(e) 
+la consideración de si todo esto refleja o no la forma en que la entidad se administra y la información 
+financiera se presenta al órgano de dirección y la alta administración; y 
+(f) 
+si fuera aplicable, la naturaleza del entorno regulatorio (ámbito ministerial o ámbito de una autoridad 
+reglamentaria, por ejemplo) o el sector de gobierno (por ejemplo: finanzas, servicios públicos o 
+gobierno en su conjunto).",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Segmentos de servicios y segmentos geográficos — párr. 19 — p. 8-9,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0019"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Segmentos de servicios y segmentos geográficos"", ""parrafo_ini"": 19, ""parrafo_fin"": 19, ""page_ini_pdf"": 8, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0020,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Segmentos de servicios y segmentos geográficos,20,20,9,9,paragraph,"Una entidad puede estar organizada y presentar internamente información al órgano de dirección y a la alta 
+administración a nivel regional –dentro o a través del país, estado, localidad u otras fronteras jurisdiccionales. 
+De ser así, el sistema de presentación interna de información reflejará una estructura de segmentación 
+geográfica.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Segmentos de servicios y segmentos geográficos — párr. 20 — p. 9,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0020"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Segmentos de servicios y segmentos geográficos"", ""parrafo_ini"": 20, ""parrafo_fin"": 20, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0021,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Segmentos de servicios y segmentos geográficos,21,21,9,9,paragraph,"Puede adoptarse una estructura de segmentación geográfica cuando, por ejemplo, la estructura 
+organizacional y el sistema de presentación interna de información de un ministerio de educación están 
+organizados con base en los resultados educativos regionales, debido a que la evaluación clave del 
+rendimiento y las decisiones de asignación de recursos que deben hacer el órgano de dirección y la alta 
+administración se determinan en relación a los logros y necesidades regionales. Esta estructura puede haber 
+sido adoptada para preservar la autonomía regional de las necesidades educativas y el suministro de los 
+servicios de educación, o porque las condiciones operativas o los objetivos educativos son sustancialmente 
+diferentes de una región a otra. También puede haberse adoptado, simplemente, porque la administración 
+cree que una estructura organizacional basada en la delegación regional de la responsabilidad sirve mejor 
+a los objetivos de la organización. En estos casos, las decisiones de asignación de recursos son inicialmente 
+tomadas, y posteriormente supervisadas, por el órgano de dirección y la alta administración a nivel regional. 
+Las decisiones pormenorizadas sobre la asignación de recursos para determinadas actividades funcionales 
+dentro de una región geográfica las toma la administración regional, en función las necesidades educativas 
+existentes en dicha región. En estos casos, es probable que la presentación de información por segmentos 
+geográficos en los estados financieros también satisfaga los requerimientos de esta Norma.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Segmentos de servicios y segmentos geográficos — párr. 21 — p. 9,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0021"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Segmentos de servicios y segmentos geográficos"", ""parrafo_ini"": 21, ""parrafo_fin"": 21, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0022,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Segmentos de servicios y segmentos geográficos,22,22,9,9,paragraph,"Los factores que se tomarán en consideración para determinar si la información financiera debe o no 
+presentarse geográficamente, comprenden: 
+(a) 
+la similitud de condiciones económicas, sociales y políticas de las diferentes regiones;  
+(b) 
+las relaciones entre los principales objetivos de la entidad y las diferentes regiones; 
+(c) 
+si las características de suministro del servicio y las condiciones operativas difieren de una región a 
+otra;  
+(d) 
+la consideración de si todo esto refleja o no la forma en que la entidad se administra y la información 
+financiera se presenta al órgano de dirección y la alta administración; y 
+(e) 
+las necesidades, técnicas o riesgos específicos asociados a las operaciones de un área en particular. 
+Segmentación múltiple",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Segmentos de servicios y segmentos geográficos — párr. 22 — p. 9,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0022"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Segmentos de servicios y segmentos geográficos"", ""parrafo_ini"": 22, ""parrafo_fin"": 22, ""page_ini_pdf"": 9, ""page_fin_pdf"": 9, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0023,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Segmentación múltiple,23,23,9,10,paragraph,"En algunos casos, la entidad puede presentar al órgano de dirección y la alta administración, información 
+por segmentos de ingresos, gastos, activos y pasivos, con base en más de una estructura de segmentación; 
+por ejemplo, por segmentos de servicios y también por segmentos geográficos. Presentar información sobre 
+la base de ambos tipos de segmentos en los estados financieros externos suele ser una forma de 
+proporcionar información útil si el logro de los objetivos de la entidad se ve fuertemente afectado tanto por 
+los diferentes productos y servicios que suministra, como por las diferentes áreas geográficas a las cuales 
+suministra dichos bienes y servicios. De modo similar, a nivel del gobierno en su conjunto, éste puede 
+adoptar una base para revelar información, que (a) refleje la información del gobierno en su conjunto, del 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+NICSP 18 
+452 
+sector de finanzas públicas y del sector comercial, y (b) complemente el análisis del sector del gobierno en 
+su conjunto; por ejemplo, revelando información por segmento del objetivo principal o subcategorías 
+funcionales. En estos casos, los segmentos pueden presentarse separadamente o como una matriz. 
+Además, puede adoptarse una estructura de presentación por segmentos primarios y secundarios con solo 
+información a revelar limitada sobre los segmentos secundarios.  
+Estructuras de presentación no apropiadas",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Segmentación múltiple — párr. 23 — p. 9-10,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0023"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Segmentación múltiple"", ""parrafo_ini"": 23, ""parrafo_fin"": 23, ""page_ini_pdf"": 9, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0024,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Estructuras de presentación no apropiadas,24,24,10,10,paragraph,"Como se ha indicado anteriormente, en la mayoría de casos, los segmentos para los cuales se presenta 
+internamente información al órgano de dirección y la más alta administración de la entidad para que puedan 
+evaluar el rendimiento pasado de ésta y tomar decisiones sobre la futura asignación de recursos, reflejarán 
+los segmentos identificados en los documentos presupuestarios y se adoptarán también a efectos de 
+presentación externa, según los requerimientos de la presente Norma. Sin embargo, en algunos casos la 
+presentación interna de información de la entidad al órgano de dirección y la alta administración puede 
+estructurarse para agregarla y presentarla de forma que distinga los ingresos, gastos, activos y pasivos 
+relacionados con las actividades dependientes de un presupuesto, de los relacionados con las actividades 
+comerciales; o distinguiendo a las entidades dependientes de un presupuesto, de las actividades de las 
+empresas públicas. Es improbable que presentando información por segmentos en los estados financieros 
+solo con base en estos segmentos se alcancen los objetivos especificados en esta Norma. Esto se debe a 
+que es improbable que tales segmentos suministren información que sea útil para los usuarios, en relación, 
+por ejemplo, con el rendimiento de la entidad en el logro de sus principales objetivos de operación. La NICSP 
+22, Revelación de Información Financiera sobre el Sector Gobierno General, incluye requerimientos para 
+los gobiernos que eligen revelar información financiera sobre el sector gobierno general (SGG) como se 
+define en las bases estadísticas de información financiera.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Estructuras de presentación no apropiadas — párr. 24 — p. 10,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0024"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Estructuras de presentación no apropiadas"", ""parrafo_ini"": 24, ""parrafo_fin"": 24, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0025,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Estructuras de presentación no apropiadas,25,25,10,10,paragraph,"En algunos casos, la información financiera desagregada presentada al órgano de dirección y la alta 
+administración puede no detallar los gastos, ingresos, activos y pasivos, por segmento de servicio, por 
+segmento geográfico o por referencia a otras actividades. Tales informes pueden estar elaborados para 
+reflejar solo los desembolsos por naturaleza (por ejemplo: sueldos, alquileres, suministros y adquisiciones 
+de activos) con base en unas partidas que sean congruentes con la asignación presupuestaria u otro modelo 
+de financiación u autorización de desembolsos aplicable a la entidad. Esto puede ocurrir cuando el propósito 
+de presentar información financiera al órgano de dirección y a la alta administración es evidenciar el 
+cumplimiento de los mandatos de gasto, en lugar de (a) evaluar el rendimiento pasado de la entidad respecto 
+a las principales actividades llevadas a cabo para alcanzar sus objetivos y (b) tomar decisiones sobre la 
+futura asignación de recursos. Cuando la presentación interna de información al órgano de dirección y a la 
+alta administración está estructurada solo a efectos de presentar información de cumplimiento, al presentar 
+información al exterior tomando esa misma base no se estará cumpliendo con los requerimientos de esta 
+Norma.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Estructuras de presentación no apropiadas — párr. 25 — p. 10,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0025"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Estructuras de presentación no apropiadas"", ""parrafo_ini"": 25, ""parrafo_fin"": 25, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0026,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Presentación de información financiera por segmentos,Estructuras de presentación no apropiadas,26,26,10,10,paragraph,"Cuando la estructura que se utilice en la presentación interna de información de la entidad no refleje los 
+requerimientos de esta Norma, la entidad, para los fines de presentación externa de información, necesitará 
+identificar los segmentos que satisfagan la definición de segmento dada en el párrafo 9 y revelar la 
+información requerida por los párrafos 51 a 75. 
+Definiciones de ingreso, gasto, activos, pasivos y políticas contables de un segmento",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Presentación de información financiera por segmentos / Estructuras de presentación no apropiadas — párr. 26 — p. 10,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0026"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Presentación de información financiera por segmentos"", ""subseccion"": ""Estructuras de presentación no apropiadas"", ""parrafo_ini"": 26, ""parrafo_fin"": 26, ""page_ini_pdf"": 10, ""page_fin_pdf"": 10, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0027,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento",,27,27,10,12,paragraph,"En esta Norma se utilizan, además, los siguientes términos, con los significados que a continuación 
+se especifican:  
+Las políticas contables del segmento son las políticas contables adoptadas para la preparación y 
+presentación de los estados financieros del grupo consolidado o de la entidad, así como las políticas 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+453 
+NICSP 18 
+contables que están específicamente relacionadas con la presentación de información por 
+segmentos. 
+Activos del segmento son los activos de operación que el segmento emplea para llevar a cabo su 
+actividad, incluyendo tanto los directamente atribuibles al segmento en cuestión como los que 
+puedan distribuirse al mismo, utilizando bases razonables de reparto.  
+Si el ingreso del segmento incluye ingresos por intereses o dividendos, sus activos 
+correspondientes deben incluir las cuentas por cobrar, préstamos, inversiones o cualesquiera otros 
+activos productores de ingresos. 
+En los activos del segmento no deben incluirse los activos por impuesto a las ganancias o 
+equivalentes al mismo, que estén reconocidos de conformidad con las normas de contabilidad que 
+se ocupan de las obligaciones de pagar el impuesto a las ganancias o equivalentes. 
+En los activos del segmento se incluirán las inversiones que se contabilicen utilizando el método de 
+la participación, solo si el resultado neto (ahorro o desahorro) de tales inversiones se ha incluido en 
+el ingreso del segmento.  
+Los activos del segmento se presentan después de deducir las provisiones relacionadas con ellos, 
+siempre que las mismas sean objeto del mismo tipo de compensación en el estado de situación 
+financiera de la entidad. 
+Gasto del segmento es un gasto derivado de las actividades de operación de un segmento que es 
+directamente atribuible al segmento, más la parte relevante de gastos que puedan serle distribuidos 
+utilizando una base razonable de reparto, incluidos los gastos relativos al suministro de bienes y 
+servicios a terceros y los gastos relacionados con las transacciones efectuadas con otros 
+segmentos de la misma entidad. En el gasto del segmento no se incluyen: 
+(a) 
+los intereses, incluidos los que procedan de anticipos o préstamos de otros segmentos, salvo 
+que las operaciones del segmento sean de naturaleza fundamentalmente financiera; 
+(b) 
+las pérdidas procedentes de ventas de inversiones o de las operaciones de rescate o extinción 
+de una deuda, salvo que las operaciones del segmento sean de naturaleza fundamentalmente 
+financiera;  
+(c) 
+la participación de la entidad en el resultado negativo neto (desahorro) o pérdidas de 
+asociadas, negocios conjuntos u otras inversiones contabilizadas por el método de la 
+participación; 
+(d) 
+el impuesto a las ganancias o gasto equivalente al impuesto a las ganancias que esté 
+reconocido de conformidad con las normas de contabilidad que se ocupan de las obligaciones 
+de pagar el impuesto a las ganancias o equivalentes del mismo; o 
+(e) 
+los gastos generales de administración, los correspondientes a la sede central u otros gastos 
+que se relacionan con el funcionamiento de la entidad en su conjunto. No obstante, en 
+ocasiones existen costos incurridos al nivel de la entidad en su conjunto por cuenta de un 
+segmento. Estos costos serán gastos del segmento si están relacionados con sus actividades 
+de operación y pueden serle directamente atribuidos o distribuidos según una base razonable 
+de reparto. 
+En los segmentos que sean de naturaleza fundamentalmente financiera, el ingreso por intereses y el 
+gasto por intereses pueden ser incluidos como una sola partida neta, en la información segmentada, 
+solo si tales partidas se presentan también compensadas en los estados financieros, individuales o 
+consolidados, de la entidad. 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+NICSP 18 
+454 
+Pasivos del segmento son aquellos pasivos que se derivan de las actividades de operación de un 
+segmento y que le son directamente atribuibles, o bien pueden asignárselo utilizando bases 
+razonables de reparto.  
+Si se han incluido en el gasto del segmento costos por intereses, los pasivos del segmento incluirán 
+las deudas causantes de tales intereses. 
+Los pasivos del segmento no incluyen las deudas por impuestos a las ganancias o equivalentes al 
+impuesto a las ganancias que estén reconocidas de conformidad con las normas de contabilidad 
+que se ocupan de las obligaciones de pagar el impuesto a las ganancias o equivalentes al mismo. 
+Ingresos de un segmento son los ingresos presentados en el estado del rendimiento financiero de 
+la entidad que son directamente atribuibles a un segmento, y la parte pertinente de los ingresos de 
+la entidad que puede asignarse sobre una base razonable a un segmento, ya procedan de créditos 
+presupuestarios o similares, subvenciones, transferencias, multas, tarifas o del suministro de bienes 
+o servicios a otras partes o de transacciones con otros segmentos de la misma entidad. Los ingresos 
+del segmento no comprenden: 
+(a) 
+los ingresos por intereses o dividendos, incluidos los que procedan de anticipos o préstamos 
+a otros segmentos, salvo que las actividades del segmento sean de naturaleza 
+fundamentalmente financiera; o 
+(b) 
+las ganancias procedentes de ventas de inversiones o de las operaciones de rescate o 
+extinción de una deuda, salvo que las operaciones del segmento sean de naturaleza 
+fundamentalmente financiera. 
+El ingreso del segmento incluye la participación de la entidad en el resultado neto (ahorro o 
+desahorro) de las asociadas, negocios conjuntos u otras inversiones contabilizadas mediante el 
+método de la participación, siempre y cuando tales partidas se incluyan en los ingresos 
+consolidados o totales de la entidad. 
+Atribución de partidas a un segmento","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento — párr. 27 — p. 10-12",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0027"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": null, ""parrafo_ini"": 27, ""parrafo_fin"": 27, ""page_ini_pdf"": 10, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0028,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento",Atribución de partidas a un segmento,28,28,12,12,paragraph,"En las definiciones de ingreso, gasto, activos y pasivos del segmento, se incluyen tanto los importes de las 
+partidas que le son directamente atribuibles, como los que pueden serle distribuidos utilizando una base 
+razonable de reparto.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Atribución de partidas a un segmento — párr. 28 — p. 12",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0028"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Atribución de partidas a un segmento"", ""parrafo_ini"": 28, ""parrafo_fin"": 28, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0029,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento",Atribución de partidas a un segmento,29,29,12,12,paragraph,"Una entidad debe considerar su sistema interno de información financiera, como el punto de partida para la 
+identificación de las partidas que puedan ser atribuidas directamente o distribuidas razonablemente a los 
+segmentos. Esto quiere decir que, si los segmentos utilizados con fines de información interna se adoptan, 
+o son la base de los segmentos adoptados, para los estados financieros con propósito general, se presume 
+que los importes identificados con los segmentos con fines de información interna, son también directamente 
+atribuibles o razonablemente distribuibles a los segmentos para la medición del ingreso, del gasto, de los 
+activos y de los pasivos de cada segmento sobre los que deba darse información.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Atribución de partidas a un segmento — párr. 29 — p. 12",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0029"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Atribución de partidas a un segmento"", ""parrafo_ini"": 29, ""parrafo_fin"": 29, ""page_ini_pdf"": 12, ""page_fin_pdf"": 12, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0030,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento",Atribución de partidas a un segmento,30,30,12,13,paragraph,"En algunos casos, sin embargo, un ingreso, gasto, activo o pasivo puede haber sido asignado a un segmento 
+a efectos de la información financiera interna, utilizando un criterio que, aunque válido y comprensible para 
+la gerencia de la entidad, podría ser considerado subjetivo, arbitrario o difícil de entender por los usuarios 
+externos de los estados financieros. Tal distribución no constituiría una base razonable, según se ha 
+contemplado en las definiciones dadas en esta Norma de ingreso, gasto, activos o pasivos del segmento. A 
+la inversa, la entidad puede elegir, en su sistema interno de información, no distribuir entre los segmentos 
+alguna partida de ingreso, gasto, activo o pasivo, incluso aunque existiera un criterio razonable para realizar 
+tal asignación. Esta partida se distribuirá conforme a las definiciones de ingreso del segmento, gasto del 
+segmento, activos del segmento o pasivos del segmento, dadas en la presente Norma.  
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+455 
+NICSP 18","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Atribución de partidas a un segmento — párr. 30 — p. 12-13",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0030"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Atribución de partidas a un segmento"", ""parrafo_ini"": 30, ""parrafo_fin"": 30, ""page_ini_pdf"": 12, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0031,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento",Atribución de partidas a un segmento,31,31,13,13,paragraph,"Generalmente las entidades del sector público pueden identificar (a) los costos para el suministro de ciertos 
+grupos de bienes y servicios o para el desarrollo de ciertas actividades, y (b) los activos que son necesarios 
+para facilitar tales actividades. Esta información es necesaria para fines de planificación y control. Sin 
+embargo, en muchos casos, las operaciones de los organismos gubernamentales y otras entidades del 
+sector público son financiadas por asignaciones “en bloque” o asignaciones en base a una “partida” que 
+refleja la naturaleza de las principales clases de gasto o desembolso. Estas asignaciones “en bloque” o “por 
+partidas” pueden no estar relacionadas con líneas de servicio, actividades funcionales o regiones 
+geográficas, específicas. En algunos casos, puede no ser posible atribuir el ingreso directamente a un 
+segmento o asignárselo mediante una base razonable. De manera similar, ciertos activos, gastos y pasivos 
+pueden no estar en condición de ser directamente atribuidos, o asignados mediante una base razonable, a 
+segmentos individuales; bien porque dan soporte a una amplia variedad de actividades de suministro de 
+servicios en una serie de segmentos, o porque están directamente relacionados con actividades de la 
+administración general que no se identifican con ningún segmento específico. Los ingresos, gastos, activos 
+y pasivos que no hayan sido atribuidos o asignados pueden presentarse como importes no asignados al 
+hacer la conciliación de la información a revelar del segmento con el ingreso total de la entidad, según lo 
+requerido por el párrafo 64 de esta Norma.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Atribución de partidas a un segmento — párr. 31 — p. 13",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0031"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Atribución de partidas a un segmento"", ""parrafo_ini"": 31, ""parrafo_fin"": 31, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0032,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento",Atribución de partidas a un segmento,32,32,13,13,paragraph,"Los gobiernos y sus organismos pueden formalizar acuerdos con entidades del sector privado para la 
+entrega de bienes y servicios o para la realización de otras actividades. En algunas jurisdicciones, estos 
+acuerdos toman la forma de negocio conjunto o de inversión en una entidad asociada contabilizada por el 
+método contable de participación. De ser éste el caso, el ingreso del segmento incluirá la participación que 
+el segmento tenga en el resultado neto (ahorro o desahorro) contabilizado en patrimonio, si dicho resultado 
+(ahorro o desahorro) está incluido en el ingreso de la entidad y puede ser directamente atribuido, o asignado 
+de forma fiable, al segmento mediante una base razonable. 
+Activos, pasivos, ingresos y gastos de un segmento","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Atribución de partidas a un segmento — párr. 32 — p. 13",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0032"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Atribución de partidas a un segmento"", ""parrafo_ini"": 32, ""parrafo_fin"": 32, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0033,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",33,33,13,13,paragraph,"Son ejemplos de activos de un segmento los activos corrientes que el mismo utiliza en las actividades de 
+operación: propiedades, planta y equipo; activo por derecho de uso; y los activos intangibles. Si se incluye 
+una determinada partida de depreciación o de amortización como gasto del segmento, el activo 
+correspondiente será también incluido entre los activos del segmento. Los activos de un segmento no 
+incluyen los activos empleados por la entidad para su oficina principal, ni los usados con propósitos 
+generales. Por ejemplo: 
+(a) 
+la oficina de administración central y la unidad de desarrollo de políticas de un ministerio de educación 
+no se incluyen en los segmentos que reflejan la prestación de servicios de educación primaria, 
+secundaria y terciaria; o  
+(b) 
+el edificio del parlamento u otra asamblea general no se incluye en segmentos que reflejen actividades 
+funcionales principales, tales como educación, sanidad y defensa, al presentarse información a nivel 
+del gobierno en su conjunto.  
+Los activos del segmento incluyen los compartidos por dos o más de ellos, siempre que exista un criterio 
+razonable de reparto.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 33 — p. 13",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0033"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 33, ""parrafo_fin"": 33, ""page_ini_pdf"": 13, ""page_fin_pdf"": 13, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0034,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",34,34,13,14,paragraph,"Los estados financieros consolidados de un gobierno u otra entidad pueden abarcar entidades que se 
+obtuvieron por una combinación del sector público que haya originado una plusvalía (guías para contabilizar 
+la adquisición de una entidad se incluyen en la NICSP 40, Combinaciones del Sector Público). En estos 
+casos, los activos de un segmento incluirán la plusvalía que sea directamente atribuible al mismo o que 
+pueda asignársele utilizando un criterio razonable, y la depreciación de esta partida formará parte del gasto 
+correspondiente al segmento.  
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+NICSP 18 
+456","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 34 — p. 13-14",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0034"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 34, ""parrafo_fin"": 34, ""page_ini_pdf"": 13, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0035,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",35,35,14,14,paragraph,"Ejemplos de pasivos de un segmento son las cuentas comerciales por pagar y otras cuentas por pagar, así 
+como los pasivos acumulados (o devengados), anticipos de los miembros de la comunidad para el suministro 
+futuro de bienes y servicios parcialmente subvencionados, las provisiones por garantías de productos 
+resultantes de cualquier actividad comercial de la entidad y otros derechos de los acreedores relacionados 
+con el suministro de bienes y servicios. Los pasivos de los segmentos no incluyen los préstamos, los pasivos 
+relacionados con activos por derecho de uso, ni otros pasivos contraídos con fines de financiación y no de 
+explotación. Si los costos por intereses se incluyen en la determinación del gasto del segmento, los pasivos 
+que los originen se incluyen entre los pasivos del segmento.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 35 — p. 14",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0035"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 35, ""parrafo_fin"": 35, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0036,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",36,36,14,14,paragraph,"Los pasivos de los segmentos cuyas operaciones no son fundamentalmente de carácter financiero, no 
+incluirán préstamos recibidos u otras deudas similares, puesto que los ingresos y gastos del segmento no 
+incluyen ingresos y gastos financieros. Es más, puesto que las deudas se contratan con frecuencia de forma 
+directa por la sede central de la entidad o a través de una autoridad central de préstamos a nivel de entidad 
+o a nivel de gobierno, no suele ser posible atribuirle al segmento directamente, o asignarle de manera 
+razonable, el pasivo generador de los intereses. Sin embargo, si las actividades de financiación de la entidad 
+se identifican como un segmento separado, como puede ocurrir a nivel del gobierno en su conjunto, el gasto 
+del segmento “financiero” incluirá los gastos por intereses, y los correspondientes pasivos generadores de 
+los intereses se incluirán en los pasivos del segmento.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 36 — p. 14",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0036"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 36, ""parrafo_fin"": 36, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0037,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",37,37,14,14,paragraph,"La NICSP 40 puede requerir que se hagan ajustes a los importes en libros de los activos y pasivos 
+identificables de una entidad obtenida por adquisición. La medición de los activos y pasivos de un segmento 
+incluirá cualquier ajuste a los importes en libros anteriores de activos y pasivos de segmentos identificables 
+de una entidad adquirida en una combinación de entidades que se haya contabilizado como una adquisición, 
+incluso en el caso de que tales ajustes se hayan hecho solo con motivo de la elaboración de los estados 
+financieros consolidados y no se hayan registrado ni en los estados financieros separados de la entidad 
+controladora ni en los de la controlada. De forma similar, si la propiedad, planta y equipo ha sido revaluada 
+después de la adquisición, de acuerdo con el modelo del valor actual de la NICSP 45, Propiedades, Planta 
+y Equipo, los activos del segmento se medirán teniendo en cuenta tales revaluaciones.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 37 — p. 14",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0037"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 37, ""parrafo_fin"": 37, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0038,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",38,38,14,14,paragraph,"En algunas jurisdicciones, un gobierno o entidad gubernamental puede controlar una entidad comercial del 
+sector público que esté sujeta al impuesto a las ganancias u otro equivalente. Estas entidades se les puede 
+requerir que apliquen normas de contabilidad tales como la NIC 12, Impuesto a las Ganancias, que establece 
+el tratamiento contable para el impuesto a las ganancias o equivalentes del impuesto a las ganancias. Estas 
+normas pueden requerir el reconocimiento de activos y pasivos por impuesto a las ganancias 
+correspondiente a los gastos por impuesto a las ganancias o gastos por los equivalentes del impuesto a las 
+ganancias, que se reconocen en el periodo corriente y se cobran o pagan en periodos futuros. Estos activos 
+y pasivos no se incluyen entre los activos o pasivos del segmento puesto que surgen como resultado de 
+todas las actividades de la entidad en su conjunto y del régimen tributario existente respecto a la entidad. 
+Sin embargo, los activos que representen ingresos tributarios por cobrar bajo control de una autoridad 
+tributaria, se incluirán en los activos por segmento de dicha autoridad si los mismos pueden ser directamente 
+atribuidos a dicho segmento o asignados de forma razonable2 .","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 38 — p. 14",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0038"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 38, ""parrafo_fin"": 38, ""page_ini_pdf"": 14, ""page_fin_pdf"": 14, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0039,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",39,39,14,15,paragraph,"Algunas guías para la asignación de costos pueden encontrarse en otras NICSP y pueden ser útiles para 
+atribuir y asignar los costos a los segmentos. Por ejemplo, la NICSP 12, Inventarios, proporciona las guías 
+para atribuir y asignar los costos a los inventarios. 
+ 
+2  
+La información será fiable si está libre de error material y sesgos, y los usuarios pueden confiar en que representa la imagen fiel de lo que 
+pretende representar o puede razonablemente esperarse que represente. El párrafo FC16 de la NICSP 1 analiza el enfoque transitorio para la 
+explicación de la fiabilidad. 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+457 
+NICSP 18","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 39 — p. 14-15",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0039"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 39, ""parrafo_fin"": 39, ""page_ini_pdf"": 14, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0040,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",40,40,15,15,paragraph,"La NICSP 2, Estado de Flujos de Efectivo suministra guías para clasificar los descubiertos bancarios como 
+componentes del efectivo o como préstamos.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 40 — p. 15",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0040"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 40, ""parrafo_fin"": 40, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0041,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",41,41,15,15,paragraph,"Los estados financieros del gobierno en su conjunto y los estados financieros de ciertas otras entidades 
+controladoras, requerirán de la consolidación de una serie de entidades separadas, tales como 
+departamentos, agencias y entidades comerciales del sector público. Al preparar estos estados financieros 
+consolidados, se eliminarán las transacciones y saldos entre entidades controladas, de conformidad con la 
+NICSP 35, Estados Financieros Consolidados. Sin embargo, los ingresos, los gastos, los activos y los 
+pasivos del segmento, se determinarán antes de la eliminación de los saldos y las transacciones entre 
+entidades dentro de la entidad económica como parte del proceso de consolidación, salvo en la medida en 
+que estos saldos o transacciones internos de la entidad económica hayan sido realizados entre entidades 
+del mismo segmento.","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 41 — p. 15",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0041"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 41, ""parrafo_fin"": 41, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0042,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,"Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento","Activos, pasivos, ingresos y gastos de un segmento",42,42,15,15,paragraph,"Aunque las políticas contables utilizadas en la elaboración y presentación de los estados financieros de la 
+entidad en su conjunto sean también las políticas contables fundamentales de los segmentos, éstas incluirán 
+además principios y políticas relacionadas específicamente con la información segmentada, tales como los 
+métodos utilizados para fijar los precios de transferencia entre segmentos y las bases para la distribución 
+de gastos e ingresos a los segmentos. 
+Políticas contables en la información sobre segmentos","NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento / Activos, pasivos, ingresos y gastos de un segmento — párr. 42 — p. 15",NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0042"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Definiciones de ingresos, gastos, activos, pasivos y políticas contables de un segmento"", ""subseccion"": ""Activos, pasivos, ingresos y gastos de un segmento"", ""parrafo_ini"": 42, ""parrafo_fin"": 42, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0043,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Políticas contables en la información sobre segmentos,,43,43,15,15,paragraph,"La información segmentada debe prepararse de acuerdo con las políticas contables adoptadas para 
+preparar y presentar los estados financieros de la entidad, sean éstos individuales o consolidados.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Políticas contables en la información sobre segmentos — párr. 43 — p. 15,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0043"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Políticas contables en la información sobre segmentos"", ""subseccion"": null, ""parrafo_ini"": 43, ""parrafo_fin"": 43, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0044,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Políticas contables en la información sobre segmentos,,44,44,15,15,paragraph,"Se presume que las políticas contables que el órgano de dirección y la administración de una entidad han 
+escogido para su utilización en la preparación de sus estados financieros individuales o consolidados, son 
+aquellas que se creen más apropiadas para los propósitos de información externa. Puesto que el propósito 
+de la información segmentada es ayudar a los usuarios de los estados financieros a comprender mejor y 
+formarse juicios más informados sobre la entidad en su conjunto, esta Norma requiere la utilización, en la 
+preparación de la información por segmentos, de las mismas políticas contables elegidas por el órgano de 
+dirección y la administración para la preparación de los estados financieros a nivel consolidado o a nivel de 
+la entidad individual. Sin embargo, esto no significa que las políticas contables, ya sean consolidadas o de 
+la entidad individual, vayan a ser aplicadas a los segmentos como si éstos fueran entidades contables 
+aisladas. Cualquier cifra procedente de un cálculo de detalle, realizado para aplicar una política contable 
+determinada para toda la entidad, puede ser objeto de reparto a los segmentos si existe un criterio razonable 
+para hacerlo así. Los cálculos de los derechos de los empleados, por ejemplo, se realizan con frecuencia 
+para la entidad en conjunto, pero las cantidades resultantes pueden ser distribuidas entre los segmentos 
+tomando como base los salarios o los datos demográficos correspondientes a los segmentos.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Políticas contables en la información sobre segmentos — párr. 44 — p. 15,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0044"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Políticas contables en la información sobre segmentos"", ""subseccion"": null, ""parrafo_ini"": 44, ""parrafo_fin"": 44, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0045,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Políticas contables en la información sobre segmentos,,45,45,15,15,paragraph,"Como se expresa en el párrafo 42, puede ser necesario desarrollar políticas contables que aborden aspectos 
+contables propios de la entidad, como métodos de fijación de precios de transferencia. La NICSP 1 requiere 
+revelar las políticas contables que se necesiten para entender los estados financieros. De forma congruente 
+con estos requerimientos, puede ser necesario revelar las políticas específicas para de los segmentos.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Políticas contables en la información sobre segmentos — párr. 45 — p. 15,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0045"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Políticas contables en la información sobre segmentos"", ""subseccion"": null, ""parrafo_ini"": 45, ""parrafo_fin"": 45, ""page_ini_pdf"": 15, ""page_fin_pdf"": 15, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0046,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Políticas contables en la información sobre segmentos,,46,46,15,16,paragraph,"La presente Norma permite revelar información adicional sobre los segmentos que se prepare utilizando 
+políticas contables distintas a las utilizadas en los estados financieros de la entidad o en los consolidados 
+de la entidad, siempre que:  
+(a) 
+la información sea relevante para fines de la evaluación del rendimiento y para la toma de decisiones; 
+y 
+(b) 
+se describan claramente las bases de medición de esta información adicional. 
+Activos conjuntos 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+NICSP 18 
+458",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Políticas contables en la información sobre segmentos — párr. 46 — p. 15-16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0046"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Políticas contables en la información sobre segmentos"", ""subseccion"": null, ""parrafo_ini"": 46, ""parrafo_fin"": 46, ""page_ini_pdf"": 15, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0047,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Activos conjuntos,,47,47,16,16,paragraph,"Los activos que sean utilizados conjuntamente por dos o más segmentos deben ser distribuidos 
+entre los mismos si, y solo si, los ingresos y gastos relacionados con dichos activos son también 
+distribuidos entre los segmentos.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Activos conjuntos — párr. 47 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0047"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Activos conjuntos"", ""subseccion"": null, ""parrafo_ini"": 47, ""parrafo_fin"": 47, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0048,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Activos conjuntos,,48,48,16,16,paragraph,"La forma de distribuir las partidas de activo, pasivo, gasto e ingreso entre los segmentos dependerá de 
+factores tales como la naturaleza de estas partidas, las actividades llevadas a cabo por el segmento y su 
+autonomía relativa. No es posible, o no es apropiado, especificar una única forma de realizar esta 
+distribución que deba ser adoptada por todas las entidades. Tampoco es apropiado forzar la distribución de 
+las partidas de activo, pasivo, gasto o ingreso, que se relacionen con dos o más segmentos, si la única base 
+para realizar tal distribución es arbitraria o de difícil comprensión. Al mismo tiempo, las definiciones de 
+ingreso, gasto, activos y pasivos del segmento están interrelacionadas, y las distribuciones resultantes de 
+estas partidas deben ser congruentes. Por ello, los activos utilizados conjuntamente se distribuirán entre los 
+segmentos si, y solo si, sus correspondientes gastos e ingresos también son objeto de distribución a los 
+segmentos. Por ejemplo, un activo se incluirá entre los activos de un segmento si, y solo si, la depreciación 
+o amortización que esté relacionada con el mismo se incluye en el gasto del segmento. 
+ 
+Segmentos de reciente identificación",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Activos conjuntos — párr. 48 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0048"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Activos conjuntos"", ""subseccion"": null, ""parrafo_ini"": 48, ""parrafo_fin"": 48, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0049,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Segmentos de reciente identificación,,49,49,16,16,paragraph,"Si un segmento es identificado por primera vez en el periodo corriente, los datos comparativos del 
+periodo anterior deberán reexpresarse para reflejar el nuevo segmento como un segmento separado, 
+salvo que la reexpresión sea impracticable.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Segmentos de reciente identificación — párr. 49 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0049"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Segmentos de reciente identificación"", ""subseccion"": null, ""parrafo_ini"": 49, ""parrafo_fin"": 49, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0050,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Segmentos de reciente identificación,,50,50,16,16,paragraph,"Los nuevos segmentos pueden presentarse en los estados financieros en diferentes circunstancias. Por 
+ejemplo, una entidad puede cambiar su estructura de presentación interna de información, pasando de una 
+estructura de segmentos de servicios a una estructura de segmentos geográficos, y la administración puede 
+considerar apropiado que esta estructura de segmentos se adopte también para fines de presentación 
+externa de información. Una entidad puede, asimismo, desarrollar nuevas actividades o actividades 
+adicionales que sean significativas, o ampliar el campo de una actividad que operaba suministrando servicios 
+de apoyo interno para que suministre servicios al exterior. En estos casos, los nuevos segmentos pueden 
+presentarse por primera vez en los estados financieros con propósito general. Cuando ocurra esto, la 
+presente Norma requiere que los datos comparativos del periodo anterior se reexpresen para reflejar la 
+estructura actual de los segmentos, siempre que sea factible. 
+Información a revelar",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Segmentos de reciente identificación — párr. 50 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0050"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Segmentos de reciente identificación"", ""subseccion"": null, ""parrafo_ini"": 50, ""parrafo_fin"": 50, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0051,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,51,51,16,16,paragraph,"Los requerimientos de información a revelar de los párrafos 52 a 75 deben aplicarse para cada 
+segmento.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 51 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0051"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 51, ""parrafo_fin"": 51, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0052,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,52,52,16,16,paragraph,"Para cada segmento la entidad deberá revelar el ingreso y gasto correspondiente. El ingreso del 
+segmento proveniente de las asignaciones presupuestarias o asignaciones similares, el proveniente 
+el de otras fuentes externas y el proveniente el de las transacciones con otros segmentos deberán 
+presentarse de forma separada.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 52 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0052"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 52, ""parrafo_fin"": 52, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0053,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,53,53,16,16,paragraph,"Una entidad debe revelar, para cada uno de los segmentos, el importe en libros de los activos que le 
+correspondan.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 53 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0053"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 53, ""parrafo_fin"": 53, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0054,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,54,54,16,16,paragraph,"Una entidad debe revelar, para cada uno de los segmentos, el importe en libros de los pasivos que 
+le correspondan.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 54 — p. 16,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0054"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 54, ""parrafo_fin"": 54, ""page_ini_pdf"": 16, ""page_fin_pdf"": 16, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0055,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,55,55,16,17,paragraph,"Una entidad revelará, para cada uno de los segmentos, el costo total incurrido en el periodo para 
+adquirir activos del segmento que espere usar durante más de un periodo.  
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+459 
+NICSP 18",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 55 — p. 16-17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0055"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 55, ""parrafo_fin"": 55, ""page_ini_pdf"": 16, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0056,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,56,56,17,17,paragraph,"Se aconseja, pero no se requiere, que una entidad revele información sobre la naturaleza e importe de 
+cualquier partida de ingreso y gasto del segmento que sean de tal magnitud, cualidad o incidencia, que 
+revelar la información sea relevante para explicar el rendimiento de cada segmento durante el periodo.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 56 — p. 17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0056"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 56, ""parrafo_fin"": 56, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0057,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,57,57,17,17,paragraph,"La NICSP 1 requiere revelar por separado la naturaleza e importe de las partidas de gastos e ingresos que 
+sean materiales o tengan importancia relativa. La NICSP 1 ofrece una variedad de ejemplos de tales 
+partidas, entre los que se incluyen las reducciones de valor de los inventarios y de los elementos de 
+propiedades, planta y equipo; las provisiones para reestructuración; las disposiciones de propiedades, planta 
+y equipo; privatizaciones y otras disposiciones de inversiones a largo plazo; las operaciones discontinuadas; 
+cancelaciones de pagos por litigios; y las reversiones de provisiones. En el párrafo 56 no se pretende 
+cambiar la clasificación de ninguna de tales partidas, ni tampoco su medición. Sin embargo, revelar la 
+información aconsejada en ese párrafo modifica el nivel al cual se evalúa, a efectos de revelar información, 
+la significación de tales partidas, desde el nivel general de la entidad hasta el nivel del segmento 
+correspondiente.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 57 — p. 17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0057"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 57, ""parrafo_fin"": 57, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0058,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,58,58,17,17,paragraph,"La presente Norma no requiere que se revelen los resultados por segmento. Sin embargo, de calcularse el 
+resultado de un segmento y revelar la información, éste será el resultado de sus operaciones sin incluir 
+cargas financieras.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 58 — p. 17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0058"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 58, ""parrafo_fin"": 58, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0059,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,59,59,17,17,paragraph,"Se recomienda, pero no se requiere, que una entidad revele los flujos de efectivo por segmento de acuerdo 
+con los requerimientos de la NICSP 2. La NICSP 2 requiere que una entidad presente un estado de flujos 
+de efectivo que informe, por separado, sobre los flujos de efectivo procedentes de actividades de operación, 
+de inversión y de financiación. Requiere también que se revele información sobre ciertos flujos de efectivo. 
+La información a revelar sobre flujos de efectivo de cada segmento puede ser útil para comprender la 
+situación financiera, liquidez y flujos de efectivo de la entidad en términos globales.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 59 — p. 17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0059"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 59, ""parrafo_fin"": 59, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0060,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,60,60,17,17,paragraph,"Se recomienda, pero no se requiere, que una entidad que no revele los flujos de efectivo por segmento de 
+conformidad con la NICSP 2, revele, para cada segmento sobre el que deba informar, lo siguiente: 
+(a) 
+el gasto por segmento correspondiente a depreciación y amortización de los activos de dicho 
+segmento; 
+(b) 
+otros gastos significativos que no hayan dado lugar a salida de efectivo; y 
+(c) 
+los ingresos significativos que no hayan dado lugar a entrada de efectivo incluidos en los ingresos 
+del segmento. 
+Esto hará posible que los usuarios determinen las principales fuentes y usos del efectivo con respecto a las 
+actividades del segmento durante el periodo.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 60 — p. 17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0060"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 60, ""parrafo_fin"": 60, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0061,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,61,61,17,17,paragraph,"Para cada segmento, una entidad revelará el total de su participación en el resultado neto (ahorro o 
+desahorro) de las entidades asociadas, negocios conjuntos u otras inversiones contabilizadas por 
+el método de la participación, siempre y cuando las operaciones de esas entidades pertenezcan, 
+sustancialmente, al segmento en cuestión.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 61 — p. 17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0061"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 61, ""parrafo_fin"": 61, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0062,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,62,62,17,17,paragraph,"Si bien, ciñéndose a los requerimientos del párrafo 61, sólo se revelará un único importe agregado, cada 
+inversión en asociadas, negocios conjuntos u otras entidades contabilizadas por el método de la 
+participación se evaluará de forma individualizada para determinar si todas sus operaciones pertenecen 
+fundamentalmente a un segmento.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 62 — p. 17,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0062"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 62, ""parrafo_fin"": 62, ""page_ini_pdf"": 17, ""page_fin_pdf"": 17, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0063,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,63,63,17,18,paragraph,"Si una entidad revela por segmento su participación agregada en el resultado neto (ahorro o 
+desahorro) de las asociadas, negocios conjuntos u otras inversiones contabilizadas por el método 
+de la participación, revelará también para cada segmento las inversiones agregadas en dichas 
+asociadas y negocios conjuntos. 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+NICSP 18 
+460",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 63 — p. 17-18,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0063"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 63, ""parrafo_fin"": 63, ""page_ini_pdf"": 17, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0064,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,,64,64,18,18,paragraph,"Una entidad presentará una conciliación entre la información revelada sobre los segmentos y la 
+información agregada que aparece en los estados financieros de la entidad o en los consolidados. 
+Al presentar la conciliación, los ingresos de los segmentos serán conciliados con los ingresos de la 
+entidad provenientes de fuentes externas (incluyendo la información a revelar sobre el importe de 
+los ingresos que la entidad ha obtenido de fuentes externas que no figuren en ningún segmento); el 
+gasto de los segmentos será conciliado con la medida comparable del gasto de la entidad; los activos 
+de los segmentos serán objeto de conciliación con los de la entidad; y los pasivos de los segmentos 
+serán objeto de conciliación con los pasivos de la entidad. 
+Información adicional sobre un segmento",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar — párr. 64 — p. 18,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0064"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": null, ""parrafo_ini"": 64, ""parrafo_fin"": 64, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0065,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Información adicional sobre un segmento,65,65,18,18,paragraph,"Como se ha indicado con anterioridad, se espera que los segmentos usualmente tomen como base los 
+bienes y servicios principales que suministra la entidad, los programas que lleva a cabo o las actividades 
+que desarrolla. Esto se debe a que la información sobre estos segmentos ofrece a los usuarios información 
+relevante sobre el rendimiento de la entidad en el logro de sus objetivos y posibilita el cumplimiento de sus 
+obligaciones de rendición de cuentas. Sin embargo, en algunas organizaciones, una base geográfica u otra 
+distinta pueden reflejar mejor la base sobre la cual se suministran los servicios y se asignan los recursos en 
+la entidad y han de adoptarse, por tanto, a efectos de los estados financieros.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Información adicional sobre un segmento — párr. 65 — p. 18,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0065"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información adicional sobre un segmento"", ""parrafo_ini"": 65, ""parrafo_fin"": 65, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0066,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Información adicional sobre un segmento,66,66,18,18,paragraph,"Esta Norma adopta el criterio de que es probable que la información a revelar mínima sobre los segmentos 
+de servicios y los segmentos geográficos sea útil para los usuarios a efectos de rendición de cuentas y toma 
+de decisiones. Por tanto, si una entidad presenta información por segmentos sobre la base de: 
+(a) 
+los principales bienes y servicios que suministra, los programas que lleva a cabo, las actividades que 
+desarrolla, u otros segmentos de servicios, también se le recomienda que, para cada segmento 
+geográfico sobre el que informe internamente al órgano de dirección y a la alta administración, 
+presente información sobre los siguientes aspectos: 
+(i) 
+el gasto del segmento; 
+(ii) 
+el importe en libros total de los activos del segmento; y 
+(iii) 
+el desembolso total efectuado durante el periodo para adquirir activos para el segmento que 
+esperen utilizar durante más de un periodo (propiedades, planta, equipo y activos intangibles); 
+y  
+(b) 
+los segmentos geográficos u otra base no incluida en (a), se recomienda que la entidad presente 
+información sobre los siguientes aspectos, para cada segmento de servicios principal sobre el que se 
+informe internamente al órgano de dirección y la alta administración: 
+(i) 
+el gasto del segmento; 
+(ii) 
+el importe en libros total de los activos del segmento; y 
+(iii) 
+el desembolso total efectuado durante el periodo para adquirir activos para el segmento que 
+esperen utilizar durante más de un periodo (propiedades, planta, equipo y activos intangibles). 
+Otra información a revelar",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Información adicional sobre un segmento — párr. 66 — p. 18,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0066"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Información adicional sobre un segmento"", ""parrafo_ini"": 66, ""parrafo_fin"": 66, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0067,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Otra información a revelar,67,67,18,18,paragraph,"Al medir e informar sobre los ingresos del segmento procedentes de transacciones con otros 
+segmentos, las transferencias entre segmentos se medirán sobre las bases en que se produjeron. 
+Las bases de fijación de los precios de transferencia entre segmentos y cualquier cambio en los 
+criterios utilizados se revelará en los estados financieros.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Otra información a revelar — párr. 67 — p. 18,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0067"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Otra información a revelar"", ""parrafo_ini"": 67, ""parrafo_fin"": 67, ""page_ini_pdf"": 18, ""page_fin_pdf"": 18, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0068,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Otra información a revelar,68,68,18,19,paragraph,"Se revelarán los cambios en las políticas contables adoptados para la información segmentada que 
+tengan un efecto material o con importancia relativa sobre de la misma, y la información de periodos 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+461 
+NICSP 18 
+anteriores presentada con fines comparativos se reexpresará cuando haya algún cambio de este 
+tipo, salvo cuando sea impracticable hacerlo. Esta información a revelar contendrá una descripción 
+de la naturaleza del cambio efectuado, las razones del mismo, el hecho de que la información 
+comparativa ha sido reexpresada o de que es impracticable hacerlo, así como el efecto financiero 
+del cambio, si se puede determinar razonablemente. Si la entidad cambia el modo de identificar sus 
+segmentos y no reexpresa la información segmentada de periodos anteriores porque es 
+impracticable hacerlo siguiendo las nuevas políticas contables, para poder realizar la comparación, 
+presentará la información del segmento según el modo antiguo y nuevo de segmentación en el año 
+en el que cambia la identificación de sus segmentos.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Otra información a revelar — párr. 68 — p. 18-19,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0068"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Otra información a revelar"", ""parrafo_ini"": 68, ""parrafo_fin"": 68, ""page_ini_pdf"": 18, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0069,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Otra información a revelar,69,69,19,19,paragraph,"Los cambios en las políticas contables adoptados por la entidad se tratan en la NICSP 3, Políticas Contables, 
+Cambios en las Estimaciones Contables y Errores. La NICSP 3 requiere que los cambios en la política 
+contable se realicen sólo (a) si lo requiere una NICSP, o (b) si el cambio dará lugar a información fiable y 
+más relevante sobre transacciones, otros eventos y condiciones en los estados financieros de la entidad.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Otra información a revelar — párr. 69 — p. 19,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0069"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Otra información a revelar"", ""parrafo_ini"": 69, ""parrafo_fin"": 69, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0070,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Otra información a revelar,70,70,19,19,paragraph,"Los cambios en políticas contables aplicadas a nivel de entidad que afecten a la información por segmentos 
+se tratan de acuerdo con la NICSP 3. A menos que una nueva NICSP especifique otra cosa, la NICSP 3 
+requiere que:  
+(a) 
+un cambio en una política contable se aplique retroactivamente, reexpresando la información de 
+periodos anteriores a menos que sea impracticable determinar el efecto acumulado del cambio o los 
+efectos que corresponden a cada periodo específico; 
+(b) 
+si la aplicación retroactiva no es practicable con relación a todos los periodos presentados, la nueva 
+política contable será aplicada retroactivamente desde la fecha más remota posible; y  
+(c) 
+si fuera inviable determinar el efecto acumulado de aplicar la nueva política contable al comienzo del 
+periodo corriente, se aplicará esa política de forma prospectiva, desde la primera fecha que sea 
+posible.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Otra información a revelar — párr. 70 — p. 19,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0070"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Otra información a revelar"", ""parrafo_ini"": 70, ""parrafo_fin"": 70, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0071,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Otra información a revelar,71,71,19,19,paragraph,"Algunos cambios en las políticas contables se refieren específicamente a la información segmentada. Como 
+ejemplos se pueden citar los cambios en la identificación de los segmentos o en los criterios de distribución 
+de ingresos y gastos a los mismos. Estos cambios pueden tener un impacto significativo en la información 
+segmentada, pero no modifican la información financiera agregada de la entidad. Con el fin de permitir a los 
+usuarios comprender los cambios y evaluar las tendencias, la información segmentada de periodos 
+contables anteriores que se incluye en los estados financieros para permitir comparaciones se reexpresará, 
+siempre que sea posible, para reflejar la nueva política contable.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Otra información a revelar — párr. 71 — p. 19,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0071"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Otra información a revelar"", ""parrafo_ini"": 71, ""parrafo_fin"": 71, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0072,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Otra información a revelar,72,72,19,19,paragraph,"El párrafo 67 requiere que, para los propósitos de la información segmentada, las transferencias entre 
+segmentos se midan sobre la base que la entidad utilizó efectivamente para fijar sus precios. Si una entidad 
+cambia el método que utiliza para fijar estos precios de transferencia entre segmentos, esta modificación no 
+constituye un cambio en las políticas contables para el cual deban reexpresarse los datos por segmentos 
+de periodos anteriores de acuerdo con el párrafo 68. No obstante, el párrafo 67 requiere que la entidad 
+revele información sobre el cambio.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Otra información a revelar — párr. 72 — p. 19,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0072"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Otra información a revelar"", ""parrafo_ini"": 72, ""parrafo_fin"": 72, ""page_ini_pdf"": 19, ""page_fin_pdf"": 19, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0073,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Otra información a revelar,73,73,19,20,paragraph,"Salvo que estas indicaciones estén contenidas en otra parte dentro de los estados financieros o 
+dentro del informe anual, la entidad deberá indicar: 
+(a) 
+los tipos de bienes y servicios incluidos en cada segmento de servicios sobre el que se 
+informa; 
+(b) 
+la composición de cada segmento geográfico incluido en la información financiera; y 
+(c) 
+en caso de no haberse adoptado una base de segmentación por servicios o por localización 
+geográfica, la naturaleza de los segmentos y las actividades que abarcan. 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+NICSP 18 
+462 
+Objetivos de operación de un segmento",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Otra información a revelar — párr. 73 — p. 19-20,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0073"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Otra información a revelar"", ""parrafo_ini"": 73, ""parrafo_fin"": 73, ""page_ini_pdf"": 19, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0074,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Objetivos de operación de un segmento,74,74,20,20,paragraph,"Si no se ha revelado en los estados financieros, o en alguna parte del informe anual, se recomienda que la 
+entidad revele los objetivos operativos generales establecidos para cada segmento al inicio del periodo sobre 
+el que se informa e indique el grado en el que se han alcanzado dichos objetivos.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Objetivos de operación de un segmento — párr. 74 — p. 20,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0074"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Objetivos de operación de un segmento"", ""parrafo_ini"": 74, ""parrafo_fin"": 74, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0075,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Información a revelar,Objetivos de operación de un segmento,75,75,20,20,paragraph,"Para posibilitar que los usuarios evalúen el rendimiento de la entidad en relación con el cumplimiento de sus 
+objetivos de suministro de servicios, será necesario comunicar dichos objetivos a los usuarios. La 
+información a revelar sobre la composición de cada segmento, los objetivos del suministro de servicios de 
+dichos segmentos y el grado en que tales objetivos se han cumplido sustentarán esta evaluación. Esta 
+información también posibilitará que la entidad mejore el cumplimiento de su obligación de rendir cuentas. 
+En muchos casos, esta información se incluirá en el informe anual como parte del informe del órgano de 
+dirección o la alta administración. En tales casos, no es necesario revelar esta información en los estados 
+financieros. 
+Fecha de vigencia",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Información a revelar / Objetivos de operación de un segmento — párr. 75 — p. 20,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0075"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Información a revelar"", ""subseccion"": ""Objetivos de operación de un segmento"", ""parrafo_ini"": 75, ""parrafo_fin"": 75, ""page_ini_pdf"": 20, ""page_fin_pdf"": 20, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0076,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Fecha de vigencia,,76,76,20,21,paragraph,"Una entidad aplicará esta Norma para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de julio de 2003. Se aconseja su aplicación anticipada. Si una entidad aplica 
+esta Norma en periodos que comiencen antes del 1 de julio de 2003, revelará este hecho. 
+76A. 
+La NICSP 33, Adopción por primera vez de las Normas Internacionales de Contabilidad del Sector 
+Público de Base de Acumulación (o devengo) (NICSP) emitida en enero de 2015 modificó el párrafo 
+77. Una entidad debe aplicar esa modificación para los estados financieros anuales que cubran 
+periodos que comiencen a partir del 1 de enero de 2017. Se permite su aplicación anticipada. Si una 
+entidad aplicase la NICSP 33 para un periodo que comience antes del 1 de enero de 2017, las 
+modificaciones también se aplicarán para dicho periodo. 
+76B. 
+La NICSP 37 Acuerdos Conjuntos, emitida en enero de 2015, modificó los párrafos 27 y 32. Una 
+entidad aplicará dichas modificaciones cuando aplique la NICSP 37. 
+76C. 
+El párrafo 69 fue modificado mediante el documento Mejoras a las NICSP 2015 emitido en abril de 
+2016. Una entidad aplicará esta modificación para los estados financieros anuales que cubran 
+periodos que comiencen a partir del 1 de enero de 2017. Se aconseja su aplicación anticipada. Si una 
+entidad aplica la modificación para un periodo que comience antes del 1 de enero de 2017, deberá 
+revelar este hecho. 
+76D. 
+Los párrafos 2 y 3 fueron eliminados y los párrafos 16, 24, 38 y 41 fueron modificados por el 
+documento La Aplicabilidad de las NICSP, emitido en abril de 2016. Una entidad aplicará esas 
+modificaciones para los estados financieros anuales que cubran periodos que comiencen a partir 
+del 1 de enero de 2018. Se aconseja su aplicación anticipada. Si una entidad aplica las modificaciones 
+para un periodo que comience antes del 1 de enero de 2018, deberá revelar este hecho. 
+76E. 
+Los párrafos 34 y 37 fueron modificados por la NICSP 40, Combinaciones del Sector Público, emitida 
+en enero de 2017. Una entidad aplicará estas modificaciones para los estados financieros anuales 
+que cubran periodos que comiencen a partir del 1 de enero de 2019. Se aconseja su aplicación 
+anticipada. Si una entidad aplicase la modificación para un periodo que comience antes del 1 de 
+enero de 2019, deberá revelar este hecho y aplicar al mismo tiempo la NICSP 40. 
+76F.  
+Los párrafos 33 y 45 fueron modificados por la NICSP 43, Arrendamientos, emitida en enero de 2022. 
+Una entidad aplicará estas modificaciones para los estados financieros anuales que cubran periodos 
+que comiencen a partir del 1 de enero de 2025. Se permite su aplicación anticipada. Si una entidad 
+aplicase las modificaciones para un periodo que comience antes del 1 de enero de 2025, revelará 
+este hecho y al mismo tiempo aplicará la NICSP 43. 
+
+
+INFORMACIÓN FINANCIERA POR SEGMENTOS 
+ 
+463 
+NICSP 18 
+76G. 
+El párrafo 37 fue modificado por la NICSP 45, emitida en mayo de 2023. Una entidad aplicará esta 
+modificación para los estados financieros anuales que cubran periodos que comiencen a partir del 
+1 de enero de 2025. Se aconseja su aplicación anticipada. Si una entidad aplicase las modificaciones 
+para un periodo que comience antes del 1 de enero de 2025, revelará este hecho y aplicará al mismo 
+tiempo la NICSP 45. 
+76H. 
+Los párrafos 27 y 39 fueron modificados por la NICSP 47, Ingresos, emitida en mayo de 2023. Una 
+entidad aplicará esta modificación para los estados financieros anuales que cubran periodos que 
+comiencen a partir del 1 de enero de 2026. Se aconseja su aplicación anticipada. Si una entidad 
+aplicase las modificaciones para un periodo que comience antes del 1 de enero de 2026, revelará 
+este hecho y al mismo tiempo aplicará la NICSP 47.",NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Fecha de vigencia — párr. 76 — p. 20-21,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0076"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 76, ""parrafo_fin"": 76, ""page_ini_pdf"": 20, ""page_fin_pdf"": 21, ""content_type"": ""paragraph"", ""qa_scope"": ""normativo"", ""source_file"": ""NICSP 18.pdf""}"
+NICSP-18-P0077,NICSP,NICSP-18,INFORMACIÓN FINANCIERA POR SEGMENTOS,2025-01-31,es,Fecha de vigencia,,77,77,21,30,deleted,[Eliminado],NICSP-18 — INFORMACIÓN FINANCIERA POR SEGMENTOS — Fecha de vigencia — párr. 77 — p. 21-30,NICSP 18.pdf,"{""chunk_id"": ""NICSP-18-P0077"", ""doc_set"": ""NICSP"", ""norma_id"": ""NICSP-18"", ""norma_titulo"": ""INFORMACIÓN FINANCIERA POR SEGMENTOS"", ""version_corte"": ""2025-01-31"", ""idioma"": ""es"", ""seccion"": ""Fecha de vigencia"", ""subseccion"": null, ""parrafo_ini"": 77, ""parrafo_fin"": 77, ""page_ini_pdf"": 21, ""page_fin_pdf"": 30, ""content_type"": ""deleted"", ""qa_scope"": ""historico"", ""source_file"": ""NICSP 18.pdf""}"
